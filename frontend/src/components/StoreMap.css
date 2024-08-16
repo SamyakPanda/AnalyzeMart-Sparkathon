@@ -1,0 +1,67 @@
+/* General container styling */
+.store-map-container {
+    position: relative;
+    width: 80%;
+    height: 800px;
+    margin: 30px auto;
+}
+
+/* Error message styling */
+.error {
+    color: red;
+    font-size: 1.2em;
+    text-align: center;
+    margin-top: 20px;
+}
+
+/* Map container styling */
+#map {
+    height: 100%;
+    width: 100%;
+    border: 2px solid #ccc;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+/* Side panel styling */
+.side-panel {
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    width: 300px;
+    max-width: 80%;
+    padding: 15px;
+    background-color: white;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.2);
+    z-index: 1000;
+}
+
+.side-panel h3 {
+    margin-top: 0;
+    font-size: 1.5em;
+    color: #333;
+}
+
+.side-panel p {
+    margin: 5px 0;
+    font-size: 1.2em;
+    color: #555;
+}
+
+.side-panel button {
+    display: inline-block;
+    margin-top: 10px;
+    padding: 10px 15px;
+    font-size: 1em;
+    color: white;
+    background-color: #007bff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.side-panel button:hover {
+    background-color: #0056b3;
+}

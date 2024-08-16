@@ -1,0 +1,121 @@
+Category,Subcategory,Product,Price of the Commodity,Firm Goals,Price of Inputs or Factors,Technology,Government Policy,Expectations,Prices of other Commodities,Number of Firms,Natural Factors
+Electronics,Mobile Phones,Samsung Galaxy S21,69999,Medium,59,Moderate,Favorable,Neutral,70052,8,Optimal
+Electronics,Mobile Phones,iPhone 12,64900,Medium,40,Advanced,Favorable,Negative,64893,4,Optimal
+Electronics,Mobile Phones,Vivo V21,28999,Medium,1,Moderate,Neutral,Neutral,28909,7,Poor
+Electronics,Mobile Phones,OnePlus 9,49999,High,15,Basic,Neutral,Positive,49942,6,Average
+Electronics,Laptops,Dell XPS 13,129999,Low,29,Moderate,Favorable,Positive,129918,10,Poor
+Electronics,Laptops,MacBook Air,92990,Low,72,Basic,Neutral,Negative,92991,3,Poor
+Electronics,Laptops,HP Spectre x360,114999,Low,1,Advanced,Favorable,Neutral,115071,1,Average
+Electronics,Laptops,Lenovo ThinkPad X1,139990,High,40,Moderate,Favorable,Neutral,139935,4,Optimal
+Electronics,Cameras,Canon EOS R5,289990,Medium,70,Moderate,Unfavorable,Negative,289911,2,Average
+Electronics,Cameras,Nikon Z6,189990,High,59,Basic,Favorable,Negative,189968,2,Average
+Electronics,Cameras,Sony Alpha a7 III,199990,High,69,Advanced,Unfavorable,Negative,199974,8,Poor
+Electronics,Cameras,Fujifilm X-T4,169990,Low,22,Basic,Neutral,Positive,169972,9,Poor
+Clothing and Apparel,Men's Clothing,Levi's Jeans,2999,Low,6,Moderate,Unfavorable,Positive,2912,4,Average
+Clothing and Apparel,Men's Clothing,Nike T-shirt,1799,Medium,98,Advanced,Favorable,Positive,1718,4,Optimal
+Clothing and Apparel,Men's Clothing,Adidas Jacket,3499,Low,12,Basic,Favorable,Negative,3427,5,Poor
+Clothing and Apparel,Men's Clothing,Puma Shorts,1299,High,86,Basic,Neutral,Neutral,1341,4,Poor
+Clothing and Apparel,Women's Clothing,Zara Dress,4999,Low,84,Advanced,Neutral,Negative,5006,8,Optimal
+Clothing and Apparel,Women's Clothing,H&M Blouse,1999,High,7,Advanced,Unfavorable,Neutral,1977,2,Poor
+Clothing and Apparel,Women's Clothing,Forever 21 Skirt,2499,High,62,Basic,Favorable,Neutral,2576,6,Optimal
+Clothing and Apparel,Women's Clothing,Uniqlo Sweater,2999,Medium,64,Advanced,Favorable,Neutral,2931,6,Optimal
+Clothing and Apparel,Children's Clothing,Carter's Pajamas,1499,High,57,Basic,Unfavorable,Negative,1590,2,Optimal
+Clothing and Apparel,Children's Clothing,Gap Kids T-shirt,899,Low,18,Moderate,Unfavorable,Neutral,877,9,Optimal
+Clothing and Apparel,Children's Clothing,Old Navy Shorts,1199,High,60,Advanced,Neutral,Neutral,1220,10,Poor
+Clothing and Apparel,Children's Clothing,OshKosh B'gosh Overalls,1799,Low,1,Basic,Neutral,Positive,1877,3,Optimal
+Home and Kitchen Appliances,Kitchen Gadgets,KitchenAid Mixer,21999,Low,14,Basic,Favorable,Positive,22056,2,Poor
+Home and Kitchen Appliances,Kitchen Gadgets,Instant Pot,11999,Low,70,Basic,Favorable,Positive,11905,2,Average
+Home and Kitchen Appliances,Kitchen Gadgets,Ninja Blender,13999,Low,16,Advanced,Unfavorable,Negative,13959,10,Optimal
+Home and Kitchen Appliances,Kitchen Gadgets,Cuisinart Food Processor,16999,High,40,Moderate,Neutral,Negative,17039,10,Average
+Home and Kitchen Appliances,Cleaning Appliances,Dyson Vacuum,34999,High,95,Advanced,Favorable,Negative,34918,7,Optimal
+Home and Kitchen Appliances,Cleaning Appliances,Roomba Robot Vacuum,29999,Low,65,Advanced,Neutral,Positive,29990,10,Poor
+Home and Kitchen Appliances,Cleaning Appliances,Bissell Steam Mop,13999,High,13,Advanced,Unfavorable,Positive,14082,2,Optimal
+Home and Kitchen Appliances,Cleaning Appliances,Shark Upright Vacuum,24999,Medium,33,Basic,Neutral,Negative,24944,1,Optimal
+Home and Kitchen Appliances,Large Appliances,Samsung Refrigerator,54990,High,39,Advanced,Unfavorable,Neutral,55063,6,Average
+Home and Kitchen Appliances,Large Appliances,LG Washing Machine,31990,High,54,Basic,Favorable,Neutral,32079,3,Poor
+Home and Kitchen Appliances,Large Appliances,Whirlpool Dryer,24990,Low,49,Basic,Unfavorable,Positive,24901,4,Optimal
+Home and Kitchen Appliances,Large Appliances,Bosch Dishwasher,34990,High,39,Advanced,Neutral,Positive,35088,7,Average
+Books and Media,Fiction Books,The Great Gatsby,399,Medium,4,Basic,Neutral,Positive,443,5,Poor
+Books and Media,Fiction Books,1984,299,Medium,71,Moderate,Neutral,Positive,369,7,Average
+Books and Media,Fiction Books,To Kill a Mockingbird,349,High,31,Basic,Neutral,Negative,338,2,Average
+Books and Media,Fiction Books,Harry Potter,599,Low,100,Moderate,Unfavorable,Positive,648,10,Poor
+Books and Media,Music CDs,Taylor Swift - Evermore,799,Medium,14,Moderate,Neutral,Neutral,799,8,Poor
+Books and Media,Music CDs,The Beatles - Abbey Road,899,High,45,Basic,Unfavorable,Positive,973,3,Average
+Books and Media,Music CDs,Adele - 25,799,High,62,Moderate,Neutral,Neutral,872,5,Average
+Books and Media,Music CDs,Beyonce - Lemonade,899,Medium,52,Basic,Favorable,Neutral,862,3,Optimal
+Books and Media,Movies,The Godfather DVD,499,Low,53,Moderate,Neutral,Negative,445,4,Poor
+Books and Media,Movies,Inception Blu-ray,699,Low,56,Basic,Neutral,Neutral,695,5,Optimal
+Books and Media,Movies,Frozen DVD,499,Medium,42,Moderate,Neutral,Positive,567,6,Poor
+Books and Media,Movies,Avengers: Endgame Blu-ray,799,Medium,1,Basic,Unfavorable,Neutral,826,3,Poor
+Health and Beauty Products,Skincare Products,Neutrogena Face Wash,499,Medium,93,Advanced,Neutral,Neutral,531,5,Poor
+Health and Beauty Products,Skincare Products,Olay Moisturizer,699,Medium,96,Basic,Favorable,Neutral,607,3,Poor
+Health and Beauty Products,Skincare Products,Cetaphil Cleanser,799,High,29,Basic,Unfavorable,Negative,788,3,Average
+Health and Beauty Products,Skincare Products,The Ordinary Serum,1099,Low,41,Advanced,Unfavorable,Neutral,1062,2,Poor
+Health and Beauty Products,Hair Care Products,Pantene Shampoo,399,Medium,11,Advanced,Unfavorable,Neutral,303,9,Average
+Health and Beauty Products,Hair Care Products,L'Oreal Conditioner,399,Medium,73,Advanced,Neutral,Neutral,322,9,Average
+Health and Beauty Products,Hair Care Products,Dove Hair Mask,499,Medium,83,Advanced,Favorable,Neutral,532,9,Average
+Health and Beauty Products,Hair Care Products,Tresemme Hair Spray,299,Low,87,Basic,Neutral,Positive,269,6,Optimal
+Health and Beauty Products,Vitamins,Vitamin C Tablets,399,High,91,Moderate,Favorable,Positive,451,8,Poor
+Health and Beauty Products,Vitamins,Omega-3 Fish Oil,899,Medium,45,Advanced,Neutral,Positive,971,3,Optimal
+Health and Beauty Products,Vitamins,Multivitamin Gummies,699,High,12,Moderate,Neutral,Negative,667,10,Optimal
+Health and Beauty Products,Vitamins,Calcium Supplements,499,Medium,83,Moderate,Neutral,Neutral,538,5,Poor
+Sporting Goods and Outdoor Equipment,Fitness Equipment,Yoga Mat,1499,Low,28,Basic,Favorable,Neutral,1567,7,Average
+Sporting Goods and Outdoor Equipment,Fitness Equipment,Dumbbells,2999,Medium,83,Moderate,Favorable,Positive,3011,1,Optimal
+Sporting Goods and Outdoor Equipment,Fitness Equipment,Treadmill,49999,Medium,43,Basic,Neutral,Negative,49911,8,Average
+Sporting Goods and Outdoor Equipment,Fitness Equipment,Resistance Bands,799,Low,57,Advanced,Favorable,Neutral,799,10,Average
+Sporting Goods and Outdoor Equipment,Outdoor Gear,Coleman Tent,12999,Low,90,Basic,Neutral,Negative,12917,2,Poor
+Sporting Goods and Outdoor Equipment,Outdoor Gear,The North Face Backpack,8999,Medium,2,Basic,Neutral,Positive,9097,5,Poor
+Sporting Goods and Outdoor Equipment,Outdoor Gear,Yeti Cooler,14999,Medium,53,Advanced,Favorable,Positive,14955,5,Poor
+Sporting Goods and Outdoor Equipment,Outdoor Gear,Garmin GPS,21999,High,73,Moderate,Favorable,Negative,22059,6,Poor
+Sporting Goods and Outdoor Equipment,Sports Apparel,Nike Running Shoes,6999,High,30,Basic,Favorable,Negative,6930,1,Average
+Sporting Goods and Outdoor Equipment,Sports Apparel,Under Armour Sports Bra,1299,Low,31,Basic,Favorable,Neutral,1331,7,Poor
+Sporting Goods and Outdoor Equipment,Sports Apparel,Adidas Soccer Jersey,2499,Medium,74,Basic,Favorable,Negative,2539,5,Poor
+Sporting Goods and Outdoor Equipment,Sports Apparel,Puma Track Pants,1799,Medium,33,Advanced,Favorable,Neutral,1795,1,Poor
+Toys and Games,Educational Toys,LEGO Mindstorms,35999,Medium,52,Moderate,Favorable,Negative,36089,6,Poor
+Toys and Games,Educational Toys,Melissa & Doug Puzzles,1499,Medium,64,Basic,Favorable,Negative,1549,4,Poor
+Toys and Games,Educational Toys,Fisher-Price Learning Table,3499,High,89,Moderate,Neutral,Positive,3572,4,Poor
+Toys and Games,Educational Toys,VTech KidiZoom,2999,Medium,65,Basic,Neutral,Negative,2936,6,Average
+Toys and Games,Board Games,Monopoly,1499,High,54,Basic,Neutral,Neutral,1449,8,Poor
+Toys and Games,Board Games,Settlers of Catan,1999,High,32,Basic,Neutral,Positive,1942,2,Poor
+Toys and Games,Board Games,Scrabble,1199,Medium,37,Advanced,Neutral,Positive,1270,9,Poor
+Toys and Games,Board Games,Risk,1499,Medium,42,Basic,Unfavorable,Negative,1443,5,Average
+Toys and Games,Action Figures,Marvel Legends Spider-Man,1499,Medium,73,Basic,Unfavorable,Positive,1504,6,Optimal
+Toys and Games,Action Figures,Star Wars Darth Vader,1799,Low,33,Advanced,Favorable,Positive,1898,9,Poor
+Toys and Games,Action Figures,Transformers Optimus Prime,2199,Low,38,Basic,Neutral,Negative,2292,8,Optimal
+Toys and Games,Action Figures,GI Joe Duke,1299,High,8,Advanced,Neutral,Positive,1274,7,Optimal
+Furniture and Home Décor,Living Room Furniture,Ikea Sofa,25999,Medium,42,Advanced,Favorable,Positive,25933,7,Average
+Furniture and Home Décor,Living Room Furniture,Wayfair Coffee Table,8999,High,97,Moderate,Neutral,Neutral,9045,1,Poor
+Furniture and Home Décor,Living Room Furniture,Ashley Recliner,16999,Low,45,Basic,Unfavorable,Positive,17044,9,Average
+Furniture and Home Décor,Living Room Furniture,La-Z-Boy Armchair,18999,High,94,Advanced,Favorable,Negative,18963,1,Average
+Furniture and Home Décor,Bedroom Furniture,Tempur-Pedic Mattress,49990,Medium,60,Basic,Neutral,Positive,50084,9,Poor
+Furniture and Home Décor,Bedroom Furniture,Pottery Barn Bed Frame,34999,Medium,49,Moderate,Favorable,Negative,35015,7,Poor
+Furniture and Home Décor,Bedroom Furniture,West Elm Nightstand,9999,High,52,Basic,Unfavorable,Positive,9960,9,Poor
+Furniture and Home Décor,Bedroom Furniture,Crate & Barrel Dresser,20999,Medium,12,Moderate,Neutral,Positive,20985,5,Optimal
+Furniture and Home Décor,Home Decor,Urban Outfitters Wall Art,2499,Medium,70,Moderate,Favorable,Positive,2467,8,Average
+Furniture and Home Décor,Home Decor,Anthropologie Throw Pillow,1599,Low,87,Moderate,Favorable,Positive,1561,1,Poor
+Furniture and Home Décor,Home Decor,Target Vase,799,Low,1,Basic,Favorable,Neutral,833,2,Optimal
+Furniture and Home Décor,Home Decor,Pier 1 Candle,599,High,99,Basic,Neutral,Positive,671,7,Poor
+Automotive Parts and Accessories,Car Parts,Bosch Spark Plugs,499,Medium,99,Moderate,Favorable,Neutral,546,6,Poor
+Automotive Parts and Accessories,Car Parts,Michelin Tires,6999,High,22,Moderate,Favorable,Positive,7013,2,Poor
+Automotive Parts and Accessories,Car Parts,Denso Oxygen Sensor,2999,Medium,78,Advanced,Unfavorable,Neutral,2927,1,Average
+Automotive Parts and Accessories,Car Parts,ACDelco Battery,4999,Low,69,Basic,Unfavorable,Positive,4906,3,Poor
+Automotive Parts and Accessories,Car Accessories,WeatherTech Floor Mats,9999,High,3,Moderate,Unfavorable,Neutral,9991,2,Poor
+Automotive Parts and Accessories,Car Accessories,Garmin GPS,21999,High,9,Moderate,Unfavorable,Neutral,21963,6,Poor
+Automotive Parts and Accessories,Car Accessories,Pioneer Car Stereo,12999,Low,15,Basic,Favorable,Neutral,12900,10,Optimal
+Automotive Parts and Accessories,Car Accessories,Thule Roof Rack,15999,Medium,6,Moderate,Neutral,Positive,16077,4,Average
+Automotive Parts and Accessories,Motorcycle Parts,K&N Air Filter,2999,Low,32,Advanced,Unfavorable,Negative,2969,3,Poor
+Automotive Parts and Accessories,Motorcycle Parts,Bridgestone Tires,7999,Medium,92,Advanced,Neutral,Neutral,8056,2,Average
+Automotive Parts and Accessories,Motorcycle Parts,NGK Spark Plugs,799,High,69,Advanced,Favorable,Neutral,837,10,Optimal
+Automotive Parts and Accessories,Motorcycle Parts,Yoshimura Exhaust,21999,Low,65,Moderate,Favorable,Positive,21922,1,Optimal
+Groceries and Food Items,Fresh Produce,Bananas,50,Low,7,Moderate,Unfavorable,Negative,89,8,Poor
+Groceries and Food Items,Fresh Produce,Apples,100,High,84,Moderate,Favorable,Negative,136,6,Poor
+Groceries and Food Items,Fresh Produce,Carrots,60,Medium,58,Moderate,Unfavorable,Positive,145,9,Average
+Groceries and Food Items,Fresh Produce,Broccoli,80,Medium,43,Advanced,Unfavorable,Negative,54,7,Average
+Groceries and Food Items,Packaged Foods,Kellogg's Corn Flakes,299,High,78,Advanced,Favorable,Neutral,216,3,Poor
+Groceries and Food Items,Packaged Foods,Oreo Cookies,159,High,6,Moderate,Favorable,Negative,170,4,Poor
+Groceries and Food Items,Packaged Foods,Lays Potato Chips,99,Medium,59,Basic,Neutral,Neutral,85,6,Optimal
+Groceries and Food Items,Packaged Foods,Barilla Pasta,199,Medium,35,Moderate,Unfavorable,Positive,226,1,Average
+Groceries and Food Items,Beverages,Coca-Cola,40,Low,46,Moderate,Favorable,Negative,113,1,Poor
+Groceries and Food Items,Beverages,Pepsi,35,Low,37,Basic,Unfavorable,Positive,13,1,Average
+Groceries and Food Items,Beverages,Starbucks Coffee,250,Low,9,Advanced,Neutral,Neutral,300,8,Optimal
+Groceries and Food Items,Beverages,Lipton Tea,100,High,80,Moderate,Favorable,Positive,117,9,Average

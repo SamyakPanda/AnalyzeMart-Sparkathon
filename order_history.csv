@@ -1,0 +1,1501 @@
+Order ID,Customer ID,Product Name,Price Sold At,Industry,Subgroup,Order Time,Order Date,Store ID
+1,790,HP Spectre x360,114999,Electronics,Laptops,00:28:12,2024-06-28,18
+2,585,Vitamin C Tablets,399,Health and Beauty Products,Vitamins,22:38:01,2024-06-28,5
+3,773,Lays Potato Chips,99,Groceries and Food Items,Packaged Foods,13:09:40,2024-06-28,8
+4,221,Marvel Legends Spider-Man,2336.03,Toys and Games,Action Figures,18:32:51,2024-06-28,17
+5,601,The Ordinary Serum,1099,Health and Beauty Products,Skincare Products,08:48:57,2024-06-28,3
+6,945,Tresemme Hair Spray,299,Health and Beauty Products,Hair Care Products,22:05:47,2024-06-28,1
+7,295,Lays Potato Chips,99,Groceries and Food Items,Packaged Foods,22:54:02,2024-06-28,2
+8,905,H&M Blouse,1999,Clothing and Apparel,Women's Clothing,06:06:33,2024-06-28,15
+9,102,Carrots,60,Groceries and Food Items,Fresh Produce,12:11:05,2024-06-28,11
+10,256,Multivitamin Gummies,699,Health and Beauty Products,Vitamins,02:30:11,2024-06-28,16
+11,210,Zara Dress,4999,Clothing and Apparel,Women's Clothing,12:26:18,2024-06-28,9
+12,267,OshKosh B'gosh Overalls,1593.17,Clothing and Apparel,Children's Clothing,19:34:42,2024-06-28,17
+13,513,Coca-Cola,40,Groceries and Food Items,Beverages,00:55:42,2024-06-28,5
+14,678,The Great Gatsby,399,Books and Media,Fiction Books,23:01:07,2024-06-28,1
+15,93,Broccoli,80,Groceries and Food Items,Fresh Produce,13:08:09,2024-06-28,3
+16,518,Lipton Tea,100,Groceries and Food Items,Beverages,13:42:33,2024-06-28,3
+17,557,Apples,100,Groceries and Food Items,Fresh Produce,19:01:44,2024-06-28,7
+18,673,Cetaphil Cleanser,799,Health and Beauty Products,Skincare Products,11:17:16,2024-06-28,11
+19,905,Oreo Cookies,159,Groceries and Food Items,Packaged Foods,18:09:14,2024-06-28,18
+20,740,Thule Roof Rack,15999,Automotive Parts and Accessories,Car Accessories,14:45:09,2024-06-28,14
+21,978,Settlers of Catan,1999,Toys and Games,Board Games,20:59:45,2024-06-28,3
+22,54,Apples,100,Groceries and Food Items,Fresh Produce,21:31:31,2024-06-28,3
+23,63,Adidas Soccer Jersey,2499,Sporting Goods and Outdoor Equipment,Sports Apparel,04:05:09,2024-06-28,10
+24,611,Shark Upright Vacuum,24999,Home and Kitchen Appliances,Cleaning Appliances,22:30:57,2024-06-28,3
+25,389,Forever 21 Skirt,3479.04,Clothing and Apparel,Women's Clothing,03:31:12,2024-06-28,7
+26,502,Carter's Pajamas,1499,Clothing and Apparel,Children's Clothing,02:03:02,2024-06-28,10
+27,190,Inception Blu-ray,699,Books and Media,Movies,09:02:19,2024-06-28,13
+28,879,Transformers Optimus Prime,2199,Toys and Games,Action Figures,03:28:10,2024-06-28,7
+29,727,KitchenAid Mixer,21999,Home and Kitchen Appliances,Kitchen Gadgets,07:50:02,2024-06-28,1
+30,739,Scrabble,1199,Toys and Games,Board Games,18:15:51,2024-06-28,12
+31,115,Bridgestone Tires,7999,Automotive Parts and Accessories,Motorcycle Parts,09:16:00,2024-06-28,3
+32,6,LEGO Mindstorms,35999,Toys and Games,Educational Toys,09:16:25,2024-06-28,18
+33,357,H&M Blouse,1999,Clothing and Apparel,Women's Clothing,10:26:49,2024-06-28,1
+34,384,Lipton Tea,100,Groceries and Food Items,Beverages,13:14:12,2024-06-28,12
+35,107,VTech KidiZoom,2999,Toys and Games,Educational Toys,17:52:39,2024-06-28,15
+36,713,Gap Kids T-shirt,899,Clothing and Apparel,Children's Clothing,18:47:56,2024-06-28,16
+37,362,Resistance Bands,799,Sporting Goods and Outdoor Equipment,Fitness Equipment,23:27:44,2024-06-28,10
+38,871,Carrots,60,Groceries and Food Items,Fresh Produce,10:16:57,2024-06-28,1
+39,647,Broccoli,80,Groceries and Food Items,Fresh Produce,00:16:37,2024-06-28,9
+40,81,Tresemme Hair Spray,299,Health and Beauty Products,Hair Care Products,18:13:34,2024-06-28,7
+41,308,Canon EOS R5,289990,Electronics,Cameras,19:31:59,2024-06-28,1
+42,665,Settlers of Catan,1999,Toys and Games,Board Games,22:44:56,2024-06-28,6
+43,156,Carrots,60,Groceries and Food Items,Fresh Produce,12:30:01,2024-06-28,3
+44,367,Bridgestone Tires,7999,Automotive Parts and Accessories,Motorcycle Parts,09:25:33,2024-06-28,17
+45,639,Levi's Jeans,2999,Clothing and Apparel,Men's Clothing,08:59:45,2024-06-28,17
+46,81,Omega-3 Fish Oil,899,Health and Beauty Products,Vitamins,21:16:54,2024-06-28,8
+47,320,Adele - 25,799,Books and Media,Music CDs,15:58:52,2024-06-28,6
+48,103,LG Washing Machine,55229.37,Home and Kitchen Appliances,Large Appliances,16:37:21,2024-06-28,13
+49,507,Olay Moisturizer,699,Health and Beauty Products,Skincare Products,10:25:42,2024-06-28,8
+50,130,Pantene Shampoo,399,Health and Beauty Products,Hair Care Products,07:45:29,2024-06-28,7
+51,871,Garmin GPS,18314.08,Automotive Parts and Accessories,Car Accessories,06:14:53,2024-06-29,17
+52,48,Resistance Bands,799,Sporting Goods and Outdoor Equipment,Fitness Equipment,11:52:53,2024-06-29,13
+53,723,OshKosh B'gosh Overalls,1799,Clothing and Apparel,Children's Clothing,02:59:50,2024-06-29,17
+54,794,Bananas,73.72,Groceries and Food Items,Fresh Produce,08:20:01,2024-06-29,18
+55,749,Olay Moisturizer,699,Health and Beauty Products,Skincare Products,15:00:57,2024-06-29,17
+56,679,Multivitamin Gummies,640.57,Health and Beauty Products,Vitamins,00:01:40,2024-06-29,12
+57,112,Cuisinart Food Processor,16999,Home and Kitchen Appliances,Kitchen Gadgets,02:38:02,2024-06-29,11
+58,473,The Beatles - Abbey Road,1512.51,Books and Media,Music CDs,23:07:52,2024-06-29,2
+59,232,Gap Kids T-shirt,1489.03,Clothing and Apparel,Children's Clothing,00:00:03,2024-06-29,7
+60,856,Puma Track Pants,1799,Sporting Goods and Outdoor Equipment,Sports Apparel,11:25:34,2024-06-29,6
+61,763,Bananas,50,Groceries and Food Items,Fresh Produce,10:35:19,2024-06-29,6
+62,154,Old Navy Shorts,1199,Clothing and Apparel,Children's Clothing,07:09:21,2024-06-29,16
+63,144,Inception Blu-ray,634.03,Books and Media,Movies,17:27:32,2024-06-29,7
+64,397,Kellogg's Corn Flakes,299,Groceries and Food Items,Packaged Foods,01:09:13,2024-06-29,2
+65,225,Shark Upright Vacuum,23052.15,Home and Kitchen Appliances,Cleaning Appliances,16:27:45,2024-06-29,11
+66,775,Levi's Jeans,2999,Clothing and Apparel,Men's Clothing,20:01:12,2024-06-29,2
+67,563,Tresemme Hair Spray,366.78,Health and Beauty Products,Hair Care Products,14:09:58,2024-06-29,7
+68,98,Taylor Swift - Evermore,659.06,Books and Media,Music CDs,15:27:22,2024-06-29,9
+69,869,Puma Shorts,1299,Clothing and Apparel,Men's Clothing,19:47:01,2024-06-29,3
+70,83,Starbucks Coffee,202.75,Groceries and Food Items,Beverages,17:53:57,2024-06-29,16
+71,703,WeatherTech Floor Mats,16634.75,Automotive Parts and Accessories,Car Accessories,11:27:39,2024-06-29,9
+72,725,Risk,1499,Toys and Games,Board Games,04:04:01,2024-06-29,3
+73,880,Lays Potato Chips,99,Groceries and Food Items,Packaged Foods,11:13:31,2024-06-29,14
+74,35,The Great Gatsby,687.66,Books and Media,Fiction Books,08:11:55,2024-06-29,18
+75,419,Cuisinart Food Processor,16999,Home and Kitchen Appliances,Kitchen Gadgets,09:44:56,2024-06-29,3
+76,141,Coleman Tent,12999,Sporting Goods and Outdoor Equipment,Outdoor Gear,02:44:39,2024-06-29,18
+77,230,Kellogg's Corn Flakes,299,Groceries and Food Items,Packaged Foods,17:01:31,2024-06-29,9
+78,103,Roomba Robot Vacuum,29999,Home and Kitchen Appliances,Cleaning Appliances,10:20:28,2024-06-29,16
+79,152,Bissell Steam Mop,13999,Home and Kitchen Appliances,Cleaning Appliances,19:47:17,2024-06-29,12
+80,676,Roomba Robot Vacuum,29999,Home and Kitchen Appliances,Cleaning Appliances,18:01:27,2024-06-29,4
+81,462,Yoshimura Exhaust,21999,Automotive Parts and Accessories,Motorcycle Parts,10:43:44,2024-06-29,17
+82,323,Risk,1499,Toys and Games,Board Games,07:24:58,2024-06-29,7
+83,738,OshKosh B'gosh Overalls,1799,Clothing and Apparel,Children's Clothing,22:57:06,2024-06-29,15
+84,848,Anthropologie Throw Pillow,2421.15,Furniture and Home Décor,Home Decor,19:41:10,2024-06-29,12
+85,146,Nikon Z6,189990,Electronics,Cameras,16:52:52,2024-06-29,2
+86,587,Coca-Cola,53.66,Groceries and Food Items,Beverages,09:01:12,2024-06-29,7
+87,758,Dell XPS 13,129999,Electronics,Laptops,14:22:50,2024-06-29,17
+88,852,Under Armour Sports Bra,1102.2,Sporting Goods and Outdoor Equipment,Sports Apparel,21:40:50,2024-06-29,12
+89,643,Oreo Cookies,159,Groceries and Food Items,Packaged Foods,12:44:43,2024-06-29,14
+90,620,Cetaphil Cleanser,799,Health and Beauty Products,Skincare Products,04:40:36,2024-06-29,7
+91,721,Olay Moisturizer,699,Health and Beauty Products,Skincare Products,10:51:50,2024-06-29,7
+92,591,Cuisinart Food Processor,16999,Home and Kitchen Appliances,Kitchen Gadgets,12:49:54,2024-06-29,6
+93,65,Pier 1 Candle,599,Furniture and Home Décor,Home Decor,00:31:00,2024-06-29,17
+94,385,Pepsi,35,Groceries and Food Items,Beverages,12:25:15,2024-06-29,2
+95,528,Pioneer Car Stereo,12999,Automotive Parts and Accessories,Car Accessories,06:13:20,2024-06-29,5
+96,580,Lays Potato Chips,99,Groceries and Food Items,Packaged Foods,05:54:18,2024-06-29,9
+97,901,Scrabble,2017.72,Toys and Games,Board Games,04:40:10,2024-06-29,4
+98,982,Pepsi,31.16,Groceries and Food Items,Beverages,15:31:44,2024-06-29,12
+99,872,Old Navy Shorts,1046.27,Clothing and Apparel,Children's Clothing,08:51:43,2024-06-29,6
+100,999,Starbucks Coffee,250,Groceries and Food Items,Beverages,08:20:59,2024-06-29,13
+101,349,Dove Hair Mask,499,Health and Beauty Products,Hair Care Products,14:04:24,2024-06-30,8
+102,631,Harry Potter,599,Books and Media,Fiction Books,08:00:28,2024-06-30,7
+103,493,Calcium Supplements,499,Health and Beauty Products,Vitamins,14:45:24,2024-06-30,7
+104,922,Risk,1313.78,Toys and Games,Board Games,02:33:39,2024-06-30,15
+105,944,Pantene Shampoo,399,Health and Beauty Products,Hair Care Products,23:28:14,2024-06-30,9
+106,254,Calcium Supplements,453.73,Health and Beauty Products,Vitamins,01:47:42,2024-06-30,2
+107,182,Puma Shorts,1167.24,Clothing and Apparel,Men's Clothing,11:18:43,2024-06-30,4
+108,637,Bissell Steam Mop,13999,Home and Kitchen Appliances,Cleaning Appliances,23:46:09,2024-06-30,10
+109,618,La-Z-Boy Armchair,18999,Furniture and Home Décor,Living Room Furniture,03:27:30,2024-06-30,7
+110,233,The Godfather DVD,499,Books and Media,Movies,21:47:36,2024-06-30,17
+111,717,Nike T-shirt,1541.77,Clothing and Apparel,Men's Clothing,00:20:40,2024-06-30,11
+112,270,Pottery Barn Bed Frame,34999,Furniture and Home Décor,Bedroom Furniture,15:37:31,2024-06-30,1
+113,443,Vivo V21,28999,Electronics,Mobile Phones,02:12:35,2024-06-30,3
+114,734,Treadmill,49999,Sporting Goods and Outdoor Equipment,Fitness Equipment,14:51:09,2024-06-30,5
+115,319,To Kill a Mockingbird,349,Books and Media,Fiction Books,05:17:54,2024-06-30,7
+116,629,Cetaphil Cleanser,799,Health and Beauty Products,Skincare Products,01:11:35,2024-06-30,4
+117,906,Instant Pot,11999,Home and Kitchen Appliances,Kitchen Gadgets,04:09:27,2024-06-30,12
+118,222,Olay Moisturizer,699,Health and Beauty Products,Skincare Products,13:49:10,2024-06-30,4
+119,512,Coleman Tent,11511.26,Sporting Goods and Outdoor Equipment,Outdoor Gear,18:23:07,2024-06-30,18
+120,896,Apples,100,Groceries and Food Items,Fresh Produce,11:53:39,2024-06-30,13
+121,238,Carrots,60,Groceries and Food Items,Fresh Produce,04:59:17,2024-06-30,18
+122,398,Olay Moisturizer,699,Health and Beauty Products,Skincare Products,11:23:59,2024-06-30,9
+123,975,Thule Roof Rack,15999,Automotive Parts and Accessories,Car Accessories,12:04:23,2024-06-30,7
+124,511,Oreo Cookies,159,Groceries and Food Items,Packaged Foods,09:59:55,2024-06-30,16
+125,722,Broccoli,115.52,Groceries and Food Items,Fresh Produce,19:23:25,2024-06-30,5
+126,631,NGK Spark Plugs,799,Automotive Parts and Accessories,Motorcycle Parts,00:21:14,2024-06-30,13
+127,661,Apples,100,Groceries and Food Items,Fresh Produce,06:24:17,2024-06-30,2
+128,31,Transformers Optimus Prime,2199,Toys and Games,Action Figures,10:12:20,2024-06-30,12
+129,182,Nike Running Shoes,6206.32,Sporting Goods and Outdoor Equipment,Sports Apparel,22:40:48,2024-06-30,18
+130,283,Bananas,50,Groceries and Food Items,Fresh Produce,10:01:00,2024-06-30,13
+131,992,The Godfather DVD,994.09,Books and Media,Movies,09:58:03,2024-06-30,1
+132,623,Garmin GPS,37014.71,Automotive Parts and Accessories,Car Accessories,19:11:50,2024-06-30,9
+133,395,Carrots,60,Groceries and Food Items,Fresh Produce,04:21:51,2024-06-30,9
+134,474,Coca-Cola,33.97,Groceries and Food Items,Beverages,07:34:42,2024-06-30,4
+135,997,Gap Kids T-shirt,899,Clothing and Apparel,Children's Clothing,03:30:06,2024-06-30,15
+136,824,Adidas Jacket,3499,Clothing and Apparel,Men's Clothing,02:22:40,2024-06-30,3
+137,733,To Kill a Mockingbird,445.2,Books and Media,Fiction Books,16:18:58,2024-06-30,12
+138,112,Adidas Soccer Jersey,2499,Sporting Goods and Outdoor Equipment,Sports Apparel,06:38:29,2024-06-30,9
+139,3,Cetaphil Cleanser,799,Health and Beauty Products,Skincare Products,20:47:41,2024-06-30,15
+140,512,LEGO Mindstorms,35999,Toys and Games,Educational Toys,15:35:34,2024-06-30,13
+141,831,Taylor Swift - Evermore,799,Books and Media,Music CDs,01:00:14,2024-06-30,5
+142,575,Shark Upright Vacuum,38052.33,Home and Kitchen Appliances,Cleaning Appliances,19:44:57,2024-06-30,6
+143,545,Calcium Supplements,499,Health and Beauty Products,Vitamins,02:02:52,2024-06-30,6
+144,853,The North Face Backpack,8999,Sporting Goods and Outdoor Equipment,Outdoor Gear,17:03:43,2024-06-30,17
+145,619,Melissa & Doug Puzzles,1806.16,Toys and Games,Educational Toys,12:03:44,2024-06-30,4
+146,628,Puma Shorts,1299,Clothing and Apparel,Men's Clothing,11:39:42,2024-06-30,5
+147,28,Adidas Jacket,3499,Clothing and Apparel,Men's Clothing,20:39:33,2024-06-30,2
+148,928,Sony Alpha a7 III,199990,Electronics,Cameras,04:14:38,2024-06-30,14
+149,393,Carter's Pajamas,2528.37,Clothing and Apparel,Children's Clothing,14:37:53,2024-06-30,8
+150,903,Instant Pot,11999,Home and Kitchen Appliances,Kitchen Gadgets,08:36:12,2024-06-30,7
+151,896,Neutrogena Face Wash,499,Health and Beauty Products,Skincare Products,17:27:09,2024-07-01,1
+152,51,Nike Running Shoes,6999,Sporting Goods and Outdoor Equipment,Sports Apparel,01:40:27,2024-07-01,10
+153,935,Dyson Vacuum,34999,Home and Kitchen Appliances,Cleaning Appliances,08:16:23,2024-07-01,13
+154,933,Scrabble,1199,Toys and Games,Board Games,15:34:10,2024-07-01,2
+155,410,Forever 21 Skirt,2499,Clothing and Apparel,Women's Clothing,15:47:16,2024-07-01,3
+156,568,Settlers of Catan,3044.57,Toys and Games,Board Games,00:44:16,2024-07-01,4
+157,40,Adidas Soccer Jersey,2499,Sporting Goods and Outdoor Equipment,Sports Apparel,04:56:49,2024-07-01,1
+158,254,Yoga Mat,1499,Sporting Goods and Outdoor Equipment,Fitness Equipment,13:43:38,2024-07-01,2
+159,627,Gap Kids T-shirt,899,Clothing and Apparel,Children's Clothing,20:15:35,2024-07-01,1
+160,342,Apples,100,Groceries and Food Items,Fresh Produce,11:36:23,2024-07-01,7
+161,193,L'Oreal Conditioner,667.81,Health and Beauty Products,Hair Care Products,21:53:00,2024-07-01,3
+162,146,Cuisinart Food Processor,16999,Home and Kitchen Appliances,Kitchen Gadgets,23:03:28,2024-07-01,6
+163,607,Carter's Pajamas,1499,Clothing and Apparel,Children's Clothing,02:42:51,2024-07-01,13
+164,480,Transformers Optimus Prime,2199,Toys and Games,Action Figures,14:16:22,2024-07-01,4
+165,411,Urban Outfitters Wall Art,2499,Furniture and Home Décor,Home Decor,16:14:42,2024-07-01,2
+166,123,Samsung Galaxy S21,69999,Electronics,Mobile Phones,02:43:23,2024-07-01,11
+167,755,Old Navy Shorts,1095.49,Clothing and Apparel,Children's Clothing,05:55:19,2024-07-01,14
+168,748,Cetaphil Cleanser,799,Health and Beauty Products,Skincare Products,04:51:45,2024-07-01,6
+169,985,Avengers: Endgame Blu-ray,1567.13,Books and Media,Movies,12:20:48,2024-07-01,1
+170,368,Bissell Steam Mop,13999,Home and Kitchen Appliances,Cleaning Appliances,13:12:36,2024-07-01,18
+171,494,Pepsi,29.67,Groceries and Food Items,Beverages,07:09:41,2024-07-01,17
+172,462,Instant Pot,10778.13,Home and Kitchen Appliances,Kitchen Gadgets,22:12:11,2024-07-01,10
+173,54,The Great Gatsby,399,Books and Media,Fiction Books,23:49:56,2024-07-01,3
+174,448,Whirlpool Dryer,24990,Home and Kitchen Appliances,Large Appliances,22:49:48,2024-07-01,2
+175,749,Tresemme Hair Spray,299,Health and Beauty Products,Hair Care Products,06:00:05,2024-07-01,11
+176,943,Coleman Tent,19706.87,Sporting Goods and Outdoor Equipment,Outdoor Gear,11:44:53,2024-07-01,5
+177,434,H&M Blouse,1999,Clothing and Apparel,Women's Clothing,00:32:55,2024-07-01,15
+178,404,Multivitamin Gummies,699,Health and Beauty Products,Vitamins,00:33:05,2024-07-01,7
+179,690,Puma Shorts,1299,Clothing and Apparel,Men's Clothing,08:29:22,2024-07-01,15
+180,154,Puma Shorts,2005.72,Clothing and Apparel,Men's Clothing,23:35:35,2024-07-01,5
+181,164,Shark Upright Vacuum,24999,Home and Kitchen Appliances,Cleaning Appliances,16:58:31,2024-07-01,8
+182,217,Cetaphil Cleanser,799,Health and Beauty Products,Skincare Products,17:09:50,2024-07-01,13
+183,477,Nike Running Shoes,6999,Sporting Goods and Outdoor Equipment,Sports Apparel,08:15:16,2024-07-01,1
+184,69,Nikon Z6,189990,Electronics,Cameras,14:59:08,2024-07-01,7
+185,742,Cetaphil Cleanser,799,Health and Beauty Products,Skincare Products,10:38:53,2024-07-01,16
+186,654,Target Vase,799,Furniture and Home Décor,Home Decor,22:03:16,2024-07-01,2
+187,292,The Ordinary Serum,1099,Health and Beauty Products,Skincare Products,01:15:21,2024-07-01,2
+188,958,Forever 21 Skirt,2499,Clothing and Apparel,Women's Clothing,01:11:13,2024-07-01,17
+189,985,Bananas,50,Groceries and Food Items,Fresh Produce,11:05:38,2024-07-01,6
+190,882,Avengers: Endgame Blu-ray,1180.56,Books and Media,Movies,20:46:53,2024-07-01,4
+191,430,Garmin GPS,21999,Automotive Parts and Accessories,Car Accessories,13:28:39,2024-07-01,16
+192,900,Bananas,50,Groceries and Food Items,Fresh Produce,10:06:57,2024-07-01,11
+193,208,1984,299,Books and Media,Fiction Books,02:12:42,2024-07-01,12
+194,2,Barilla Pasta,199,Groceries and Food Items,Packaged Foods,23:25:46,2024-07-01,11
+195,795,Lipton Tea,100,Groceries and Food Items,Beverages,09:44:33,2024-07-01,2
+196,831,Dumbbells,2999,Sporting Goods and Outdoor Equipment,Fitness Equipment,08:18:48,2024-07-01,2
+197,376,Kellogg's Corn Flakes,249.54,Groceries and Food Items,Packaged Foods,01:00:49,2024-07-01,18
+198,475,Broccoli,80,Groceries and Food Items,Fresh Produce,16:28:18,2024-07-01,3
+199,545,Broccoli,70.96,Groceries and Food Items,Fresh Produce,10:39:23,2024-07-01,18
+200,616,Dumbbells,2706.79,Sporting Goods and Outdoor Equipment,Fitness Equipment,23:51:53,2024-07-01,10
+201,179,Calcium Supplements,428.73,Health and Beauty Products,Vitamins,02:47:52,2024-07-02,13
+202,146,Monopoly,1499,Toys and Games,Board Games,20:02:06,2024-07-02,17
+203,134,Neutrogena Face Wash,499,Health and Beauty Products,Skincare Products,06:47:11,2024-07-02,4
+204,308,LEGO Mindstorms,35999,Toys and Games,Educational Toys,01:14:13,2024-07-02,1
+205,668,Ninja Blender,13999,Home and Kitchen Appliances,Kitchen Gadgets,16:44:46,2024-07-02,12
+206,771,Zara Dress,4999,Clothing and Apparel,Women's Clothing,15:45:42,2024-07-02,3
+207,239,Adele - 25,799,Books and Media,Music CDs,17:54:27,2024-07-02,1
+208,636,Apples,100,Groceries and Food Items,Fresh Produce,07:16:33,2024-07-02,9
+209,40,Star Wars Darth Vader,1799,Toys and Games,Action Figures,04:31:10,2024-07-02,1
+210,32,Vivo V21,25743.64,Electronics,Mobile Phones,08:34:05,2024-07-02,2
+211,45,Old Navy Shorts,1102.46,Clothing and Apparel,Children's Clothing,07:29:28,2024-07-02,6
+212,276,Beyonce - Lemonade,899,Books and Media,Music CDs,21:35:57,2024-07-02,7
+213,352,Apples,100,Groceries and Food Items,Fresh Produce,01:02:50,2024-07-02,13
+214,48,LG Washing Machine,31990,Home and Kitchen Appliances,Large Appliances,01:55:58,2024-07-02,9
+215,245,The Godfather DVD,615.95,Books and Media,Movies,06:09:10,2024-07-02,2
+216,349,Lipton Tea,100,Groceries and Food Items,Beverages,09:32:52,2024-07-02,10
+217,319,LG Washing Machine,31990,Home and Kitchen Appliances,Large Appliances,02:47:09,2024-07-02,14
+218,665,Bananas,50,Groceries and Food Items,Fresh Produce,10:36:28,2024-07-02,17
+219,71,Whirlpool Dryer,24990,Home and Kitchen Appliances,Large Appliances,23:05:38,2024-07-02,10
+220,448,Nike T-shirt,1799,Clothing and Apparel,Men's Clothing,04:53:39,2024-07-02,17
+221,16,Instant Pot,11999,Home and Kitchen Appliances,Kitchen Gadgets,04:11:36,2024-07-02,12
+222,490,OshKosh B'gosh Overalls,1507.02,Clothing and Apparel,Children's Clothing,19:55:00,2024-07-02,14
+223,523,The North Face Backpack,8999,Sporting Goods and Outdoor Equipment,Outdoor Gear,00:51:51,2024-07-02,11
+224,29,Settlers of Catan,1999,Toys and Games,Board Games,13:14:21,2024-07-02,8
+225,440,Zara Dress,4999,Clothing and Apparel,Women's Clothing,22:48:24,2024-07-02,6
+226,988,Bosch Dishwasher,57668.05,Home and Kitchen Appliances,Large Appliances,22:07:13,2024-07-02,14
+227,966,Frozen DVD,499,Books and Media,Movies,16:44:21,2024-07-02,6
+228,750,Multivitamin Gummies,699,Health and Beauty Products,Vitamins,12:01:27,2024-07-02,10
+229,982,Yoga Mat,1499,Sporting Goods and Outdoor Equipment,Fitness Equipment,04:04:43,2024-07-02,8
+230,133,Lays Potato Chips,164.51,Groceries and Food Items,Packaged Foods,01:19:09,2024-07-02,4
+231,10,Broccoli,80,Groceries and Food Items,Fresh Produce,09:45:48,2024-07-02,10
+232,223,Zara Dress,4999,Clothing and Apparel,Women's Clothing,07:29:57,2024-07-02,2
+233,254,Puma Shorts,1299,Clothing and Apparel,Men's Clothing,02:05:07,2024-07-02,18
+234,680,Omega-3 Fish Oil,1150.84,Health and Beauty Products,Vitamins,21:43:50,2024-07-02,1
+235,899,LG Washing Machine,26039.96,Home and Kitchen Appliances,Large Appliances,02:17:47,2024-07-02,16
+236,152,Beyonce - Lemonade,899,Books and Media,Music CDs,01:45:16,2024-07-02,9
+237,719,Cuisinart Food Processor,16999,Home and Kitchen Appliances,Kitchen Gadgets,18:23:15,2024-07-02,6
+238,611,Apples,100,Groceries and Food Items,Fresh Produce,12:59:33,2024-07-02,4
+239,485,Ninja Blender,13999,Home and Kitchen Appliances,Kitchen Gadgets,06:46:26,2024-07-02,3
+240,130,Melissa & Doug Puzzles,1556.64,Toys and Games,Educational Toys,22:29:22,2024-07-02,2
+241,672,To Kill a Mockingbird,349,Books and Media,Fiction Books,19:12:23,2024-07-02,9
+242,229,The Great Gatsby,604.16,Books and Media,Fiction Books,09:34:22,2024-07-02,3
+243,172,Uniqlo Sweater,2999,Clothing and Apparel,Women's Clothing,09:31:02,2024-07-02,10
+244,463,Multivitamin Gummies,699,Health and Beauty Products,Vitamins,08:52:14,2024-07-02,3
+245,267,Yoga Mat,1499,Sporting Goods and Outdoor Equipment,Fitness Equipment,04:45:43,2024-07-02,14
+246,726,Levi's Jeans,2999,Clothing and Apparel,Men's Clothing,09:45:31,2024-07-02,13
+247,314,Pantene Shampoo,332.37,Health and Beauty Products,Hair Care Products,15:37:46,2024-07-02,2
+248,219,Omega-3 Fish Oil,899,Health and Beauty Products,Vitamins,01:01:44,2024-07-02,1
+249,40,Pepsi,44.02,Groceries and Food Items,Beverages,07:43:46,2024-07-02,5
+250,540,Adele - 25,1502.34,Books and Media,Music CDs,05:53:12,2024-07-02,5
+251,328,Bananas,50,Groceries and Food Items,Fresh Produce,04:27:16,2024-07-03,17
+252,594,Ashley Recliner,16999,Furniture and Home Décor,Living Room Furniture,19:15:59,2024-07-03,10
+253,287,Adidas Soccer Jersey,2499,Sporting Goods and Outdoor Equipment,Sports Apparel,07:03:20,2024-07-03,6
+254,161,Bananas,50,Groceries and Food Items,Fresh Produce,01:09:40,2024-07-03,1
+255,353,Carrots,89.22,Groceries and Food Items,Fresh Produce,17:29:12,2024-07-03,4
+256,305,The Ordinary Serum,1099,Health and Beauty Products,Skincare Products,20:10:42,2024-07-03,3
+257,480,Pepsi,35,Groceries and Food Items,Beverages,14:44:18,2024-07-03,11
+258,23,Tresemme Hair Spray,299,Health and Beauty Products,Hair Care Products,11:45:13,2024-07-03,4
+259,187,Oreo Cookies,149.67,Groceries and Food Items,Packaged Foods,17:15:55,2024-07-03,17
+260,501,Calcium Supplements,499,Health and Beauty Products,Vitamins,22:08:44,2024-07-03,5
+261,618,Barilla Pasta,162.72,Groceries and Food Items,Packaged Foods,10:42:36,2024-07-03,6
+262,826,Marvel Legends Spider-Man,1499,Toys and Games,Action Figures,20:51:14,2024-07-03,11
+263,931,Omega-3 Fish Oil,1350.34,Health and Beauty Products,Vitamins,04:21:31,2024-07-03,3
+264,921,Lays Potato Chips,99,Groceries and Food Items,Packaged Foods,01:18:12,2024-07-03,7
+265,520,LEGO Mindstorms,31665.61,Toys and Games,Educational Toys,21:28:49,2024-07-03,12
+266,601,Samsung Refrigerator,54990,Home and Kitchen Appliances,Large Appliances,11:51:39,2024-07-03,7
+267,903,Settlers of Catan,1999,Toys and Games,Board Games,13:09:14,2024-07-03,14
+268,251,1984,299,Books and Media,Fiction Books,23:58:31,2024-07-03,2
+269,781,Cetaphil Cleanser,799,Health and Beauty Products,Skincare Products,12:02:30,2024-07-03,7
+270,63,Canon EOS R5,289990,Electronics,Cameras,03:05:39,2024-07-03,15
+271,788,Lipton Tea,100,Groceries and Food Items,Beverages,08:38:21,2024-07-03,16
+272,594,Zara Dress,4999,Clothing and Apparel,Women's Clothing,14:58:40,2024-07-03,10
+273,720,Beyonce - Lemonade,754.76,Books and Media,Music CDs,15:02:37,2024-07-03,16
+274,481,The Godfather DVD,449.36,Books and Media,Movies,02:00:04,2024-07-03,10
+275,506,WeatherTech Floor Mats,9999,Automotive Parts and Accessories,Car Accessories,04:36:38,2024-07-03,12
+276,435,Cetaphil Cleanser,1342.6,Health and Beauty Products,Skincare Products,21:27:58,2024-07-03,4
+277,502,Dove Hair Mask,499,Health and Beauty Products,Hair Care Products,18:10:33,2024-07-03,2
+278,130,Tresemme Hair Spray,299,Health and Beauty Products,Hair Care Products,02:47:16,2024-07-03,17
+279,507,Apples,100,Groceries and Food Items,Fresh Produce,15:34:27,2024-07-03,2
+280,357,Puma Track Pants,1799,Sporting Goods and Outdoor Equipment,Sports Apparel,13:31:52,2024-07-03,16
+281,81,Star Wars Darth Vader,1799,Toys and Games,Action Figures,22:47:23,2024-07-03,1
+282,125,WeatherTech Floor Mats,8896.72,Automotive Parts and Accessories,Car Accessories,22:29:08,2024-07-03,14
+283,882,Puma Shorts,1299,Clothing and Apparel,Men's Clothing,06:57:45,2024-07-03,11
+284,49,KitchenAid Mixer,21999,Home and Kitchen Appliances,Kitchen Gadgets,22:03:52,2024-07-03,15
+285,939,Old Navy Shorts,1199,Clothing and Apparel,Children's Clothing,19:58:39,2024-07-03,8
+286,460,Carter's Pajamas,1499,Clothing and Apparel,Children's Clothing,00:07:10,2024-07-03,10
+287,18,Uniqlo Sweater,2999,Clothing and Apparel,Women's Clothing,12:45:11,2024-07-03,6
+288,556,Samsung Refrigerator,91137.64,Home and Kitchen Appliances,Large Appliances,15:34:16,2024-07-03,15
+289,427,Multivitamin Gummies,699,Health and Beauty Products,Vitamins,04:55:28,2024-07-03,17
+290,75,Sony Alpha a7 III,163935.16,Electronics,Cameras,12:54:09,2024-07-03,4
+291,902,Cetaphil Cleanser,799,Health and Beauty Products,Skincare Products,18:49:31,2024-07-03,14
+292,28,The Godfather DVD,499,Books and Media,Movies,02:41:29,2024-07-03,10
+293,808,Tresemme Hair Spray,299,Health and Beauty Products,Hair Care Products,20:32:41,2024-07-03,8
+294,363,1984,299,Books and Media,Fiction Books,03:40:35,2024-07-03,3
+295,207,Olay Moisturizer,562.47,Health and Beauty Products,Skincare Products,00:49:36,2024-07-03,14
+296,702,Apples,125.35,Groceries and Food Items,Fresh Produce,14:32:14,2024-07-03,15
+297,228,The Ordinary Serum,1099,Health and Beauty Products,Skincare Products,23:04:54,2024-07-03,17
+298,151,iPhone 12,64900,Electronics,Mobile Phones,10:26:55,2024-07-03,2
+299,94,Nike T-shirt,3294.79,Clothing and Apparel,Men's Clothing,22:25:00,2024-07-03,2
+300,502,Omega-3 Fish Oil,803.69,Health and Beauty Products,Vitamins,08:14:27,2024-07-03,17
+301,181,Barilla Pasta,199,Groceries and Food Items,Packaged Foods,09:24:40,2024-07-04,12
+302,830,Multivitamin Gummies,568.58,Health and Beauty Products,Vitamins,05:40:20,2024-07-04,9
+303,175,The Beatles - Abbey Road,899,Books and Media,Music CDs,03:49:40,2024-07-04,6
+304,125,Vitamin C Tablets,377.21,Health and Beauty Products,Vitamins,22:22:32,2024-07-04,16
+305,578,Apples,197.07,Groceries and Food Items,Fresh Produce,01:23:13,2024-07-04,3
+306,401,1984,299,Books and Media,Fiction Books,04:00:01,2024-07-04,1
+307,281,Vitamin C Tablets,399,Health and Beauty Products,Vitamins,15:31:42,2024-07-04,11
+308,674,Fujifilm X-T4,169990,Electronics,Cameras,02:16:47,2024-07-04,10
+309,921,Starbucks Coffee,250,Groceries and Food Items,Beverages,23:01:13,2024-07-04,6
+310,108,The Beatles - Abbey Road,899,Books and Media,Music CDs,04:27:15,2024-07-04,3
+311,668,Denso Oxygen Sensor,2843.7,Automotive Parts and Accessories,Car Parts,22:45:26,2024-07-04,7
+312,485,Michelin Tires,6999,Automotive Parts and Accessories,Car Parts,23:39:52,2024-07-04,15
+313,502,Gap Kids T-shirt,899,Clothing and Apparel,Children's Clothing,09:50:46,2024-07-04,18
+314,153,Barilla Pasta,199,Groceries and Food Items,Packaged Foods,18:21:42,2024-07-04,7
+315,515,Shark Upright Vacuum,24999,Home and Kitchen Appliances,Cleaning Appliances,14:50:38,2024-07-04,6
+316,37,Barilla Pasta,162.65,Groceries and Food Items,Packaged Foods,22:50:40,2024-07-04,14
+317,655,The Beatles - Abbey Road,899,Books and Media,Music CDs,04:26:54,2024-07-04,16
+318,672,Calcium Supplements,433.69,Health and Beauty Products,Vitamins,22:39:51,2024-07-04,16
+319,389,Kellogg's Corn Flakes,299,Groceries and Food Items,Packaged Foods,04:25:01,2024-07-04,4
+320,247,Old Navy Shorts,1199,Clothing and Apparel,Children's Clothing,10:36:15,2024-07-04,18
+321,292,The Ordinary Serum,955.6,Health and Beauty Products,Skincare Products,12:04:42,2024-07-04,17
+322,142,OshKosh B'gosh Overalls,3042.65,Clothing and Apparel,Children's Clothing,17:04:45,2024-07-04,2
+323,351,Vitamin C Tablets,399,Health and Beauty Products,Vitamins,17:32:17,2024-07-04,7
+324,615,Under Armour Sports Bra,1299,Sporting Goods and Outdoor Equipment,Sports Apparel,22:50:30,2024-07-04,10
+325,369,Lipton Tea,100,Groceries and Food Items,Beverages,17:27:40,2024-07-04,4
+326,986,Settlers of Catan,1999,Toys and Games,Board Games,13:46:20,2024-07-04,9
+327,998,Adidas Soccer Jersey,2068.41,Sporting Goods and Outdoor Equipment,Sports Apparel,01:27:59,2024-07-04,18
+328,184,Calcium Supplements,499,Health and Beauty Products,Vitamins,08:59:00,2024-07-04,14
+329,842,Oreo Cookies,159,Groceries and Food Items,Packaged Foods,11:45:26,2024-07-04,8
+330,940,Carrots,49.93,Groceries and Food Items,Fresh Produce,01:34:15,2024-07-04,12
+331,737,Pepsi,35,Groceries and Food Items,Beverages,15:04:39,2024-07-04,1
+332,600,Apples,100,Groceries and Food Items,Fresh Produce,07:35:15,2024-07-04,17
+333,148,Transformers Optimus Prime,2199,Toys and Games,Action Figures,22:32:24,2024-07-04,2
+334,828,Pantene Shampoo,399,Health and Beauty Products,Hair Care Products,14:14:02,2024-07-04,16
+335,325,H&M Blouse,1999,Clothing and Apparel,Women's Clothing,22:40:51,2024-07-04,1
+336,123,Yeti Cooler,14999,Sporting Goods and Outdoor Equipment,Outdoor Gear,04:30:54,2024-07-04,12
+337,241,Old Navy Shorts,1075.4,Clothing and Apparel,Children's Clothing,03:35:42,2024-07-04,10
+338,406,Neutrogena Face Wash,499,Health and Beauty Products,Skincare Products,01:50:02,2024-07-04,5
+339,347,Ashley Recliner,16999,Furniture and Home Décor,Living Room Furniture,05:40:25,2024-07-04,9
+340,572,Oreo Cookies,159,Groceries and Food Items,Packaged Foods,13:36:22,2024-07-04,12
+341,996,Kellogg's Corn Flakes,299,Groceries and Food Items,Packaged Foods,13:48:08,2024-07-04,2
+342,246,Zara Dress,7516.01,Clothing and Apparel,Women's Clothing,18:47:55,2024-07-04,8
+343,627,Settlers of Catan,1999,Toys and Games,Board Games,13:41:25,2024-07-04,18
+344,150,Carrots,53.6,Groceries and Food Items,Fresh Produce,12:16:51,2024-07-04,1
+345,368,Harry Potter,599,Books and Media,Fiction Books,02:37:04,2024-07-04,7
+346,816,Cetaphil Cleanser,799,Health and Beauty Products,Skincare Products,07:56:11,2024-07-04,5
+347,508,Taylor Swift - Evermore,1420.53,Books and Media,Music CDs,23:14:53,2024-07-04,12
+348,809,Bissell Steam Mop,13999,Home and Kitchen Appliances,Cleaning Appliances,12:47:53,2024-07-04,16
+349,290,Treadmill,49999,Sporting Goods and Outdoor Equipment,Fitness Equipment,05:43:28,2024-07-04,12
+350,542,Dove Hair Mask,499,Health and Beauty Products,Hair Care Products,23:30:12,2024-07-04,17
+351,226,Puma Shorts,1299,Clothing and Apparel,Men's Clothing,20:44:38,2024-07-05,14
+352,854,Nike T-shirt,1799,Clothing and Apparel,Men's Clothing,16:31:34,2024-07-05,1
+353,68,Nike Running Shoes,6999,Sporting Goods and Outdoor Equipment,Sports Apparel,10:47:19,2024-07-05,7
+354,20,Avengers: Endgame Blu-ray,654.9,Books and Media,Movies,20:48:03,2024-07-05,6
+355,435,To Kill a Mockingbird,339.93,Books and Media,Fiction Books,09:13:28,2024-07-05,8
+356,843,Risk,1285.58,Toys and Games,Board Games,05:42:23,2024-07-05,10
+357,351,Coca-Cola,40,Groceries and Food Items,Beverages,04:24:15,2024-07-05,1
+358,692,Bananas,50,Groceries and Food Items,Fresh Produce,18:19:11,2024-07-05,5
+359,922,Olay Moisturizer,699,Health and Beauty Products,Skincare Products,01:43:03,2024-07-05,3
+360,869,Adidas Soccer Jersey,2229.37,Sporting Goods and Outdoor Equipment,Sports Apparel,13:45:29,2024-07-05,8
+361,476,Monopoly,1499,Toys and Games,Board Games,02:08:45,2024-07-05,16
+362,358,The Beatles - Abbey Road,899,Books and Media,Music CDs,12:13:35,2024-07-05,12
+363,798,Zara Dress,4999,Clothing and Apparel,Women's Clothing,21:50:00,2024-07-05,17
+364,853,Ashley Recliner,16999,Furniture and Home Décor,Living Room Furniture,02:15:09,2024-07-05,18
+365,379,Multivitamin Gummies,579.43,Health and Beauty Products,Vitamins,00:34:46,2024-07-05,18
+366,938,Olay Moisturizer,699,Health and Beauty Products,Skincare Products,04:29:21,2024-07-05,9
+367,297,Adele - 25,799,Books and Media,Music CDs,08:07:58,2024-07-05,1
+368,167,Levi's Jeans,2999,Clothing and Apparel,Men's Clothing,02:40:32,2024-07-05,4
+369,489,Oreo Cookies,159,Groceries and Food Items,Packaged Foods,11:09:03,2024-07-05,15
+370,982,The Ordinary Serum,1099,Health and Beauty Products,Skincare Products,20:51:52,2024-07-05,15
+371,234,Ninja Blender,13999,Home and Kitchen Appliances,Kitchen Gadgets,05:03:35,2024-07-05,11
+372,705,Bissell Steam Mop,13999,Home and Kitchen Appliances,Cleaning Appliances,12:02:29,2024-07-05,14
+373,23,HP Spectre x360,114999,Electronics,Laptops,22:47:28,2024-07-05,8
+374,485,Pepsi,35,Groceries and Food Items,Beverages,00:56:54,2024-07-05,16
+375,755,Target Vase,693.28,Furniture and Home Décor,Home Decor,16:07:28,2024-07-05,1
+376,367,Nike T-shirt,1799,Clothing and Apparel,Men's Clothing,08:54:01,2024-07-05,13
+377,445,The North Face Backpack,8999,Sporting Goods and Outdoor Equipment,Outdoor Gear,10:33:56,2024-07-05,5
+378,370,Carter's Pajamas,1499,Clothing and Apparel,Children's Clothing,21:40:33,2024-07-05,15
+379,382,Gap Kids T-shirt,833.26,Clothing and Apparel,Children's Clothing,00:27:24,2024-07-05,1
+380,60,Transformers Optimus Prime,2199,Toys and Games,Action Figures,09:38:00,2024-07-05,15
+381,993,Tresemme Hair Spray,299,Health and Beauty Products,Hair Care Products,01:46:46,2024-07-05,17
+382,171,Resistance Bands,799,Sporting Goods and Outdoor Equipment,Fitness Equipment,20:09:29,2024-07-05,7
+383,204,Resistance Bands,799,Sporting Goods and Outdoor Equipment,Fitness Equipment,14:59:57,2024-07-05,7
+384,571,Transformers Optimus Prime,2199,Toys and Games,Action Figures,21:56:20,2024-07-05,16
+385,47,MacBook Air,92990,Electronics,Laptops,05:33:54,2024-07-05,17
+386,92,OshKosh B'gosh Overalls,1799,Clothing and Apparel,Children's Clothing,07:55:15,2024-07-05,9
+387,787,Pepsi,35,Groceries and Food Items,Beverages,03:11:29,2024-07-05,4
+388,101,Dumbbells,2999,Sporting Goods and Outdoor Equipment,Fitness Equipment,14:16:34,2024-07-05,4
+389,452,To Kill a Mockingbird,349,Books and Media,Fiction Books,03:18:10,2024-07-05,8
+390,17,Thule Roof Rack,15999,Automotive Parts and Accessories,Car Accessories,21:31:42,2024-07-05,9
+391,864,Apples,100,Groceries and Food Items,Fresh Produce,19:24:40,2024-07-05,9
+392,744,Roomba Robot Vacuum,29999,Home and Kitchen Appliances,Cleaning Appliances,22:06:27,2024-07-05,15
+393,59,Pantene Shampoo,399,Health and Beauty Products,Hair Care Products,13:09:31,2024-07-05,14
+394,15,Tempur-Pedic Mattress,49990,Furniture and Home Décor,Bedroom Furniture,01:27:17,2024-07-05,8
+395,950,West Elm Nightstand,13670.06,Furniture and Home Décor,Bedroom Furniture,17:48:37,2024-07-05,5
+396,298,Puma Shorts,1299,Clothing and Apparel,Men's Clothing,09:31:19,2024-07-05,9
+397,363,Lays Potato Chips,84.53,Groceries and Food Items,Packaged Foods,09:09:23,2024-07-05,8
+398,733,Monopoly,1499,Toys and Games,Board Games,21:00:22,2024-07-05,12
+399,714,Lipton Tea,100,Groceries and Food Items,Beverages,12:22:01,2024-07-05,15
+400,983,Nike T-shirt,1799,Clothing and Apparel,Men's Clothing,01:04:40,2024-07-05,8
+401,920,Puma Shorts,1299,Clothing and Apparel,Men's Clothing,01:35:18,2024-07-06,9
+402,80,Neutrogena Face Wash,499,Health and Beauty Products,Skincare Products,13:36:19,2024-07-06,15
+403,830,Adidas Soccer Jersey,2499,Sporting Goods and Outdoor Equipment,Sports Apparel,07:16:08,2024-07-06,10
+404,209,The Ordinary Serum,897.93,Health and Beauty Products,Skincare Products,23:45:37,2024-07-06,1
+405,596,Oreo Cookies,236.35,Groceries and Food Items,Packaged Foods,06:25:40,2024-07-06,18
+406,311,Pantene Shampoo,399,Health and Beauty Products,Hair Care Products,00:01:31,2024-07-06,9
+407,629,Coca-Cola,40,Groceries and Food Items,Beverages,05:36:25,2024-07-06,12
+408,307,Gap Kids T-shirt,899,Clothing and Apparel,Children's Clothing,07:27:27,2024-07-06,10
+409,154,Calcium Supplements,499,Health and Beauty Products,Vitamins,15:44:49,2024-07-06,2
+410,472,Uniqlo Sweater,2999,Clothing and Apparel,Women's Clothing,03:58:21,2024-07-06,13
+411,712,Dyson Vacuum,34999,Home and Kitchen Appliances,Cleaning Appliances,14:19:45,2024-07-06,12
+412,911,Marvel Legends Spider-Man,1298.06,Toys and Games,Action Figures,15:18:03,2024-07-06,18
+413,331,Broccoli,80,Groceries and Food Items,Fresh Produce,07:22:59,2024-07-06,4
+414,292,Cuisinart Food Processor,16999,Home and Kitchen Appliances,Kitchen Gadgets,04:35:15,2024-07-06,8
+415,408,Adidas Soccer Jersey,2499,Sporting Goods and Outdoor Equipment,Sports Apparel,01:13:26,2024-07-06,12
+416,892,Risk,1499,Toys and Games,Board Games,11:13:42,2024-07-06,12
+417,234,The Ordinary Serum,1984.55,Health and Beauty Products,Skincare Products,09:05:21,2024-07-06,12
+418,802,Nike T-shirt,1799,Clothing and Apparel,Men's Clothing,04:32:12,2024-07-06,11
+419,708,Broccoli,80,Groceries and Food Items,Fresh Produce,21:34:38,2024-07-06,12
+420,583,Multivitamin Gummies,699,Health and Beauty Products,Vitamins,18:21:33,2024-07-06,17
+421,389,Fisher-Price Learning Table,3499,Toys and Games,Educational Toys,15:05:21,2024-07-06,2
+422,609,Dove Hair Mask,499,Health and Beauty Products,Hair Care Products,23:13:42,2024-07-06,2
+423,28,Pepsi,35,Groceries and Food Items,Beverages,18:42:37,2024-07-06,5
+424,44,Adidas Jacket,3499,Clothing and Apparel,Men's Clothing,03:03:58,2024-07-06,6
+425,384,Olay Moisturizer,699,Health and Beauty Products,Skincare Products,07:25:00,2024-07-06,2
+426,790,Puma Shorts,1299,Clothing and Apparel,Men's Clothing,01:18:24,2024-07-06,2
+427,640,LEGO Mindstorms,35999,Toys and Games,Educational Toys,06:47:13,2024-07-06,12
+428,76,Lipton Tea,100,Groceries and Food Items,Beverages,02:05:49,2024-07-06,3
+429,425,Risk,1499,Toys and Games,Board Games,23:32:50,2024-07-06,15
+430,106,Lays Potato Chips,99,Groceries and Food Items,Packaged Foods,17:43:40,2024-07-06,11
+431,602,Scrabble,1199,Toys and Games,Board Games,13:18:22,2024-07-06,16
+432,74,Star Wars Darth Vader,1631.08,Toys and Games,Action Figures,17:35:30,2024-07-06,7
+433,102,Levi's Jeans,2777.37,Clothing and Apparel,Men's Clothing,11:42:31,2024-07-06,1
+434,587,Treadmill,49999,Sporting Goods and Outdoor Equipment,Fitness Equipment,06:23:49,2024-07-06,12
+435,321,Olay Moisturizer,699,Health and Beauty Products,Skincare Products,23:09:51,2024-07-06,17
+436,616,Calcium Supplements,499,Health and Beauty Products,Vitamins,13:44:21,2024-07-06,1
+437,769,Bosch Dishwasher,28967.63,Home and Kitchen Appliances,Large Appliances,12:35:00,2024-07-06,8
+438,198,H&M Blouse,1999,Clothing and Apparel,Women's Clothing,19:54:23,2024-07-06,14
+439,348,Scrabble,1199,Toys and Games,Board Games,09:42:01,2024-07-06,13
+440,353,Ninja Blender,13999,Home and Kitchen Appliances,Kitchen Gadgets,13:45:53,2024-07-06,3
+441,229,Under Armour Sports Bra,1299,Sporting Goods and Outdoor Equipment,Sports Apparel,16:09:06,2024-07-06,12
+442,545,Olay Moisturizer,699,Health and Beauty Products,Skincare Products,12:01:06,2024-07-06,16
+443,698,Multivitamin Gummies,699,Health and Beauty Products,Vitamins,08:08:46,2024-07-06,7
+444,651,Shark Upright Vacuum,24999,Home and Kitchen Appliances,Cleaning Appliances,05:12:54,2024-07-06,9
+445,277,Tresemme Hair Spray,299,Health and Beauty Products,Hair Care Products,11:01:11,2024-07-06,15
+446,276,Ashley Recliner,29105.16,Furniture and Home Décor,Living Room Furniture,22:51:27,2024-07-06,4
+447,336,Settlers of Catan,1656.94,Toys and Games,Board Games,00:35:16,2024-07-06,2
+448,564,Nike T-shirt,1799,Clothing and Apparel,Men's Clothing,02:16:30,2024-07-06,11
+449,37,Settlers of Catan,1999,Toys and Games,Board Games,04:56:12,2024-07-06,9
+450,87,Ninja Blender,13999,Home and Kitchen Appliances,Kitchen Gadgets,20:15:29,2024-07-06,15
+451,629,Broccoli,80,Groceries and Food Items,Fresh Produce,20:54:49,2024-07-07,11
+452,291,Monopoly,1499,Toys and Games,Board Games,08:30:37,2024-07-07,16
+453,422,Nike T-shirt,2355.08,Clothing and Apparel,Men's Clothing,02:54:53,2024-07-07,13
+454,749,Dumbbells,2450.27,Sporting Goods and Outdoor Equipment,Fitness Equipment,17:07:52,2024-07-07,14
+455,400,The North Face Backpack,8999,Sporting Goods and Outdoor Equipment,Outdoor Gear,07:12:54,2024-07-07,11
+456,997,Old Navy Shorts,1199,Clothing and Apparel,Children's Clothing,23:10:47,2024-07-07,12
+457,815,Bananas,50,Groceries and Food Items,Fresh Produce,15:34:06,2024-07-07,14
+458,767,Bissell Steam Mop,13999,Home and Kitchen Appliances,Cleaning Appliances,19:11:37,2024-07-07,17
+459,773,Lipton Tea,100,Groceries and Food Items,Beverages,09:23:42,2024-07-07,17
+460,907,Carter's Pajamas,1206.56,Clothing and Apparel,Children's Clothing,03:40:30,2024-07-07,18
+461,992,Vitamin C Tablets,399,Health and Beauty Products,Vitamins,23:51:37,2024-07-07,14
+462,544,Dyson Vacuum,57982.23,Home and Kitchen Appliances,Cleaning Appliances,05:26:11,2024-07-07,5
+463,397,Whirlpool Dryer,22375.01,Home and Kitchen Appliances,Large Appliances,18:50:13,2024-07-07,17
+464,808,Starbucks Coffee,250,Groceries and Food Items,Beverages,10:46:37,2024-07-07,2
+465,817,OshKosh B'gosh Overalls,1799,Clothing and Apparel,Children's Clothing,21:59:34,2024-07-07,16
+466,172,Ashley Recliner,16999,Furniture and Home Décor,Living Room Furniture,00:47:33,2024-07-07,8
+467,869,The North Face Backpack,8307.27,Sporting Goods and Outdoor Equipment,Outdoor Gear,21:06:36,2024-07-07,6
+468,595,LG Washing Machine,27670.68,Home and Kitchen Appliances,Large Appliances,10:13:59,2024-07-07,14
+469,281,MacBook Air,92990,Electronics,Laptops,12:36:50,2024-07-07,14
+470,517,Fujifilm X-T4,169990,Electronics,Cameras,21:03:17,2024-07-07,9
+471,94,Shark Upright Vacuum,24999,Home and Kitchen Appliances,Cleaning Appliances,06:54:01,2024-07-07,2
+472,825,Apples,100,Groceries and Food Items,Fresh Produce,08:21:44,2024-07-07,7
+473,597,KitchenAid Mixer,21999,Home and Kitchen Appliances,Kitchen Gadgets,08:29:32,2024-07-07,5
+474,397,Yeti Cooler,14999,Sporting Goods and Outdoor Equipment,Outdoor Gear,05:26:05,2024-07-07,12
+475,642,Zara Dress,4999,Clothing and Apparel,Women's Clothing,06:12:07,2024-07-07,9
+476,151,VTech KidiZoom,2999,Toys and Games,Educational Toys,18:43:31,2024-07-07,1
+477,146,Bissell Steam Mop,13999,Home and Kitchen Appliances,Cleaning Appliances,11:04:55,2024-07-07,2
+478,631,Puma Shorts,1228.91,Clothing and Apparel,Men's Clothing,14:09:54,2024-07-07,14
+479,455,Multivitamin Gummies,699,Health and Beauty Products,Vitamins,14:44:06,2024-07-07,16
+480,48,Cetaphil Cleanser,799,Health and Beauty Products,Skincare Products,12:53:38,2024-07-07,9
+481,624,Nikon Z6,189990,Electronics,Cameras,03:52:49,2024-07-07,16
+482,411,Forever 21 Skirt,3676.32,Clothing and Apparel,Women's Clothing,19:42:12,2024-07-07,5
+483,204,Anthropologie Throw Pillow,1463.65,Furniture and Home Décor,Home Decor,20:07:37,2024-07-07,14
+484,358,Roomba Robot Vacuum,29999,Home and Kitchen Appliances,Cleaning Appliances,01:45:20,2024-07-07,4
+485,746,Crate & Barrel Dresser,20999,Furniture and Home Décor,Bedroom Furniture,15:35:38,2024-07-07,9
+486,950,Harry Potter,599,Books and Media,Fiction Books,18:40:31,2024-07-07,11
+487,994,Treadmill,49999,Sporting Goods and Outdoor Equipment,Fitness Equipment,20:39:58,2024-07-07,6
+488,205,Yoshimura Exhaust,21999,Automotive Parts and Accessories,Motorcycle Parts,14:28:21,2024-07-07,16
+489,866,Nike Running Shoes,6263.9,Sporting Goods and Outdoor Equipment,Sports Apparel,19:40:59,2024-07-07,4
+490,888,Multivitamin Gummies,699,Health and Beauty Products,Vitamins,21:21:13,2024-07-07,14
+491,112,Dove Hair Mask,499,Health and Beauty Products,Hair Care Products,05:28:52,2024-07-07,3
+492,941,Gap Kids T-shirt,899,Clothing and Apparel,Children's Clothing,19:39:29,2024-07-07,3
+493,379,Adele - 25,1106.49,Books and Media,Music CDs,07:03:01,2024-07-07,7
+494,552,To Kill a Mockingbird,349,Books and Media,Fiction Books,20:51:22,2024-07-07,2
+495,675,LG Washing Machine,31990,Home and Kitchen Appliances,Large Appliances,01:51:55,2024-07-07,3
+496,645,MacBook Air,92990,Electronics,Laptops,15:41:00,2024-07-07,18
+497,59,Dyson Vacuum,34999,Home and Kitchen Appliances,Cleaning Appliances,15:56:28,2024-07-07,13
+498,690,The Ordinary Serum,1007.79,Health and Beauty Products,Skincare Products,12:48:11,2024-07-07,12
+499,500,Yoshimura Exhaust,21999,Automotive Parts and Accessories,Motorcycle Parts,06:51:06,2024-07-07,17
+500,4,KitchenAid Mixer,21999,Home and Kitchen Appliances,Kitchen Gadgets,16:23:10,2024-07-07,18
+501,547,Dove Hair Mask,499,Health and Beauty Products,Hair Care Products,03:15:55,2024-07-08,13
+502,258,Olay Moisturizer,699,Health and Beauty Products,Skincare Products,08:57:28,2024-07-08,7
+503,167,Thule Roof Rack,15999,Automotive Parts and Accessories,Car Accessories,15:20:43,2024-07-08,13
+504,47,Fisher-Price Learning Table,3499,Toys and Games,Educational Toys,09:00:15,2024-07-08,6
+505,197,Whirlpool Dryer,24990,Home and Kitchen Appliances,Large Appliances,09:40:28,2024-07-08,15
+506,976,Canon EOS R5,289990,Electronics,Cameras,01:45:20,2024-07-08,7
+507,439,Bosch Dishwasher,34990,Home and Kitchen Appliances,Large Appliances,15:44:19,2024-07-08,9
+508,189,The Beatles - Abbey Road,899,Books and Media,Music CDs,07:54:41,2024-07-08,4
+509,296,Calcium Supplements,419.62,Health and Beauty Products,Vitamins,02:47:47,2024-07-08,7
+510,109,Bananas,45.92,Groceries and Food Items,Fresh Produce,23:01:01,2024-07-08,12
+511,706,Vivo V21,28999,Electronics,Mobile Phones,02:03:18,2024-07-08,12
+512,173,Old Navy Shorts,1072.64,Clothing and Apparel,Children's Clothing,04:11:15,2024-07-08,9
+513,18,Forever 21 Skirt,3674.38,Clothing and Apparel,Women's Clothing,18:38:13,2024-07-08,16
+514,309,Garmin GPS,21999,Sporting Goods and Outdoor Equipment,Outdoor Gear,02:47:02,2024-07-08,13
+515,286,The Ordinary Serum,2109.94,Health and Beauty Products,Skincare Products,12:37:15,2024-07-08,18
+516,420,Garmin GPS,33581.69,Automotive Parts and Accessories,Car Accessories,20:10:11,2024-07-08,5
+517,607,Fisher-Price Learning Table,3283.75,Toys and Games,Educational Toys,11:48:27,2024-07-08,6
+518,495,Whirlpool Dryer,24990,Home and Kitchen Appliances,Large Appliances,17:53:06,2024-07-08,8
+519,680,To Kill a Mockingbird,349,Books and Media,Fiction Books,22:59:41,2024-07-08,16
+520,411,The Great Gatsby,399,Books and Media,Fiction Books,12:35:07,2024-07-08,5
+521,192,Scrabble,1199,Toys and Games,Board Games,07:11:22,2024-07-08,5
+522,600,Gap Kids T-shirt,899,Clothing and Apparel,Children's Clothing,16:36:09,2024-07-08,15
+523,60,Fujifilm X-T4,169990,Electronics,Cameras,08:09:47,2024-07-08,4
+524,318,Olay Moisturizer,613.49,Health and Beauty Products,Skincare Products,16:14:59,2024-07-08,2
+525,844,Carter's Pajamas,1264.2,Clothing and Apparel,Children's Clothing,23:42:07,2024-07-08,7
+526,792,Ikea Sofa,25999,Furniture and Home Décor,Living Room Furniture,06:58:52,2024-07-08,9
+527,258,Calcium Supplements,499,Health and Beauty Products,Vitamins,23:26:21,2024-07-08,16
+528,409,Calcium Supplements,907.9,Health and Beauty Products,Vitamins,11:37:28,2024-07-08,3
+529,895,Barilla Pasta,199,Groceries and Food Items,Packaged Foods,07:26:51,2024-07-08,14
+530,768,Oreo Cookies,159,Groceries and Food Items,Packaged Foods,22:57:53,2024-07-08,17
+531,839,Gap Kids T-shirt,899,Clothing and Apparel,Children's Clothing,21:13:04,2024-07-08,2
+532,279,Lays Potato Chips,115.46,Groceries and Food Items,Packaged Foods,20:25:58,2024-07-08,7
+533,195,The North Face Backpack,8999,Sporting Goods and Outdoor Equipment,Outdoor Gear,11:20:51,2024-07-08,12
+534,991,Nike T-shirt,1799,Clothing and Apparel,Men's Clothing,16:52:02,2024-07-08,4
+535,47,Bananas,50,Groceries and Food Items,Fresh Produce,17:12:01,2024-07-08,9
+536,345,Old Navy Shorts,1199,Clothing and Apparel,Children's Clothing,00:20:23,2024-07-08,1
+537,3,Old Navy Shorts,1199,Clothing and Apparel,Children's Clothing,08:59:13,2024-07-08,6
+538,340,Dyson Vacuum,31654.82,Home and Kitchen Appliances,Cleaning Appliances,16:02:15,2024-07-08,13
+539,418,Scrabble,1199,Toys and Games,Board Games,19:37:43,2024-07-08,11
+540,614,Vitamin C Tablets,399,Health and Beauty Products,Vitamins,10:12:07,2024-07-08,10
+541,933,Yeti Cooler,22113.81,Sporting Goods and Outdoor Equipment,Outdoor Gear,23:45:10,2024-07-08,10
+542,838,Harry Potter,599,Books and Media,Fiction Books,10:11:38,2024-07-08,2
+543,472,Nike T-shirt,1799,Clothing and Apparel,Men's Clothing,16:25:05,2024-07-08,8
+544,856,Tresemme Hair Spray,299,Health and Beauty Products,Hair Care Products,08:31:27,2024-07-08,18
+545,331,Bananas,44.95,Groceries and Food Items,Fresh Produce,10:31:39,2024-07-08,10
+546,930,Levi's Jeans,2999,Clothing and Apparel,Men's Clothing,18:35:49,2024-07-08,10
+547,43,Monopoly,1499,Toys and Games,Board Games,23:49:55,2024-07-08,4
+548,989,Vitamin C Tablets,336.95,Health and Beauty Products,Vitamins,22:27:31,2024-07-08,7
+549,799,Yoga Mat,2448.14,Sporting Goods and Outdoor Equipment,Fitness Equipment,22:13:08,2024-07-08,9
+550,908,K&N Air Filter,2999,Automotive Parts and Accessories,Motorcycle Parts,18:14:37,2024-07-08,2
+551,509,Melissa & Doug Puzzles,1499,Toys and Games,Educational Toys,04:39:11,2024-07-09,7
+552,916,Shark Upright Vacuum,24999,Home and Kitchen Appliances,Cleaning Appliances,12:21:10,2024-07-09,7
+553,123,Neutrogena Face Wash,499,Health and Beauty Products,Skincare Products,16:16:57,2024-07-09,15
+554,853,Vivo V21,28999,Electronics,Mobile Phones,11:47:23,2024-07-09,1
+555,49,Fisher-Price Learning Table,3499,Toys and Games,Educational Toys,10:26:53,2024-07-09,10
+556,527,KitchenAid Mixer,21999,Home and Kitchen Appliances,Kitchen Gadgets,18:33:09,2024-07-09,18
+557,372,Lenovo ThinkPad X1,139990,Electronics,Laptops,19:48:03,2024-07-09,1
+558,262,Neutrogena Face Wash,499,Health and Beauty Products,Skincare Products,19:54:14,2024-07-09,11
+559,909,Multivitamin Gummies,587.51,Health and Beauty Products,Vitamins,05:49:11,2024-07-09,7
+560,409,Forever 21 Skirt,2499,Clothing and Apparel,Women's Clothing,21:00:46,2024-07-09,3
+561,978,OnePlus 9,66587.78,Electronics,Mobile Phones,18:44:13,2024-07-09,11
+562,114,Anthropologie Throw Pillow,2527.18,Furniture and Home Décor,Home Decor,08:17:43,2024-07-09,6
+563,928,Nike T-shirt,1799,Clothing and Apparel,Men's Clothing,20:47:41,2024-07-09,12
+564,820,Monopoly,1499,Toys and Games,Board Games,05:41:33,2024-07-09,18
+565,848,Coleman Tent,12999,Sporting Goods and Outdoor Equipment,Outdoor Gear,06:44:33,2024-07-09,2
+566,200,The Great Gatsby,399,Books and Media,Fiction Books,12:22:46,2024-07-09,14
+567,227,Dove Hair Mask,499,Health and Beauty Products,Hair Care Products,03:07:32,2024-07-09,10
+568,109,Olay Moisturizer,699,Health and Beauty Products,Skincare Products,01:14:04,2024-07-09,8
+569,750,To Kill a Mockingbird,694.87,Books and Media,Fiction Books,10:59:35,2024-07-09,18
+570,4,Taylor Swift - Evermore,799,Books and Media,Music CDs,14:49:25,2024-07-09,7
+571,894,Dove Hair Mask,499,Health and Beauty Products,Hair Care Products,08:19:47,2024-07-09,11
+572,145,Yoga Mat,1499,Sporting Goods and Outdoor Equipment,Fitness Equipment,13:05:34,2024-07-09,2
+573,622,Lays Potato Chips,99,Groceries and Food Items,Packaged Foods,09:02:42,2024-07-09,16
+574,23,Gap Kids T-shirt,899,Clothing and Apparel,Children's Clothing,21:50:01,2024-07-09,4
+575,701,The Great Gatsby,399,Books and Media,Fiction Books,11:28:00,2024-07-09,8
+576,63,La-Z-Boy Armchair,18999,Furniture and Home Décor,Living Room Furniture,05:04:28,2024-07-09,6
+577,307,Omega-3 Fish Oil,899,Health and Beauty Products,Vitamins,03:06:27,2024-07-09,17
+578,13,Lipton Tea,100,Groceries and Food Items,Beverages,19:15:25,2024-07-09,11
+579,415,Tresemme Hair Spray,299,Health and Beauty Products,Hair Care Products,00:21:46,2024-07-09,13
+580,269,Pepsi,35,Groceries and Food Items,Beverages,15:46:11,2024-07-09,18
+581,763,Yoshimura Exhaust,20849.49,Automotive Parts and Accessories,Motorcycle Parts,21:46:55,2024-07-09,13
+582,421,Oreo Cookies,159,Groceries and Food Items,Packaged Foods,07:57:22,2024-07-09,4
+583,843,OshKosh B'gosh Overalls,1687.46,Clothing and Apparel,Children's Clothing,01:19:31,2024-07-09,4
+584,7,Calcium Supplements,499,Health and Beauty Products,Vitamins,12:12:47,2024-07-09,13
+585,165,Uniqlo Sweater,2999,Clothing and Apparel,Women's Clothing,06:32:24,2024-07-09,7
+586,526,Dove Hair Mask,499,Health and Beauty Products,Hair Care Products,10:00:58,2024-07-09,12
+587,604,Cuisinart Food Processor,16999,Home and Kitchen Appliances,Kitchen Gadgets,05:39:57,2024-07-09,13
+588,729,Forever 21 Skirt,2499,Clothing and Apparel,Women's Clothing,02:18:46,2024-07-09,4
+589,197,The Beatles - Abbey Road,899,Books and Media,Music CDs,15:01:13,2024-07-09,11
+590,246,Urban Outfitters Wall Art,2499,Furniture and Home Décor,Home Decor,21:09:19,2024-07-09,10
+591,349,Lays Potato Chips,99,Groceries and Food Items,Packaged Foods,00:35:18,2024-07-09,11
+592,786,Adidas Jacket,3499,Clothing and Apparel,Men's Clothing,03:19:16,2024-07-09,10
+593,844,Starbucks Coffee,250,Groceries and Food Items,Beverages,18:59:17,2024-07-09,6
+594,136,Dyson Vacuum,34999,Home and Kitchen Appliances,Cleaning Appliances,15:33:02,2024-07-09,4
+595,72,Bridgestone Tires,7999,Automotive Parts and Accessories,Motorcycle Parts,12:50:18,2024-07-09,8
+596,807,Beyonce - Lemonade,899,Books and Media,Music CDs,00:25:54,2024-07-09,17
+597,847,Multivitamin Gummies,699,Health and Beauty Products,Vitamins,02:17:55,2024-07-09,3
+598,101,Bissell Steam Mop,13164.77,Home and Kitchen Appliances,Cleaning Appliances,02:49:43,2024-07-09,16
+599,102,1984,299,Books and Media,Fiction Books,13:06:07,2024-07-09,17
+600,946,Bananas,50,Groceries and Food Items,Fresh Produce,00:58:59,2024-07-09,9
+601,811,Coca-Cola,40,Groceries and Food Items,Beverages,04:42:24,2024-07-10,3
+602,440,H&M Blouse,1999,Clothing and Apparel,Women's Clothing,10:00:47,2024-07-10,17
+603,353,Treadmill,41113.82,Sporting Goods and Outdoor Equipment,Fitness Equipment,15:54:27,2024-07-10,12
+604,679,Apples,100,Groceries and Food Items,Fresh Produce,09:14:12,2024-07-10,1
+605,299,Coca-Cola,40,Groceries and Food Items,Beverages,06:22:31,2024-07-10,8
+606,692,Ninja Blender,17466.27,Home and Kitchen Appliances,Kitchen Gadgets,22:20:10,2024-07-10,15
+607,824,Avengers: Endgame Blu-ray,799,Books and Media,Movies,13:14:37,2024-07-10,16
+608,47,Carrots,60,Groceries and Food Items,Fresh Produce,16:33:51,2024-07-10,13
+609,186,Yoshimura Exhaust,21999,Automotive Parts and Accessories,Motorcycle Parts,03:56:34,2024-07-10,11
+610,148,Old Navy Shorts,1199,Clothing and Apparel,Children's Clothing,15:36:06,2024-07-10,14
+611,190,Bosch Dishwasher,34990,Home and Kitchen Appliances,Large Appliances,17:32:46,2024-07-10,4
+612,934,The Great Gatsby,372.56,Books and Media,Fiction Books,05:07:40,2024-07-10,16
+613,267,H&M Blouse,1999,Clothing and Apparel,Women's Clothing,04:28:53,2024-07-10,2
+614,971,Cetaphil Cleanser,799,Health and Beauty Products,Skincare Products,05:15:20,2024-07-10,6
+615,734,Uniqlo Sweater,2999,Clothing and Apparel,Women's Clothing,00:08:33,2024-07-10,14
+616,886,Adele - 25,799,Books and Media,Music CDs,06:22:28,2024-07-10,12
+617,397,Carrots,60,Groceries and Food Items,Fresh Produce,02:12:28,2024-07-10,1
+618,751,Yoga Mat,1499,Sporting Goods and Outdoor Equipment,Fitness Equipment,00:56:31,2024-07-10,2
+619,357,The Ordinary Serum,1099,Health and Beauty Products,Skincare Products,15:11:50,2024-07-10,7
+620,486,Puma Shorts,1299,Clothing and Apparel,Men's Clothing,18:50:23,2024-07-10,17
+621,115,Monopoly,1849.77,Toys and Games,Board Games,02:50:41,2024-07-10,13
+622,535,Calcium Supplements,499,Health and Beauty Products,Vitamins,09:36:29,2024-07-10,15
+623,139,Cuisinart Food Processor,14590.77,Home and Kitchen Appliances,Kitchen Gadgets,05:52:32,2024-07-10,15
+624,112,Scrabble,1199,Toys and Games,Board Games,14:13:30,2024-07-10,14
+625,883,Marvel Legends Spider-Man,1499,Toys and Games,Action Figures,15:01:41,2024-07-10,5
+626,352,Bissell Steam Mop,13999,Home and Kitchen Appliances,Cleaning Appliances,12:51:24,2024-07-10,1
+627,253,Risk,1499,Toys and Games,Board Games,09:32:26,2024-07-10,3
+628,575,Gap Kids T-shirt,899,Clothing and Apparel,Children's Clothing,22:05:50,2024-07-10,18
+629,993,Kellogg's Corn Flakes,299,Groceries and Food Items,Packaged Foods,19:44:43,2024-07-10,7
+630,404,Barilla Pasta,173.82,Groceries and Food Items,Packaged Foods,11:45:50,2024-07-10,8
+631,833,Denso Oxygen Sensor,2999,Automotive Parts and Accessories,Car Parts,01:18:47,2024-07-10,13
+632,359,OshKosh B'gosh Overalls,1642.16,Clothing and Apparel,Children's Clothing,22:57:33,2024-07-10,13
+633,465,Vitamin C Tablets,399,Health and Beauty Products,Vitamins,07:49:44,2024-07-10,10
+634,479,Tempur-Pedic Mattress,69024.11,Furniture and Home Décor,Bedroom Furniture,02:45:16,2024-07-10,4
+635,579,Melissa & Doug Puzzles,1499,Toys and Games,Educational Toys,13:11:28,2024-07-10,10
+636,829,Lays Potato Chips,99,Groceries and Food Items,Packaged Foods,16:27:19,2024-07-10,18
+637,685,Dove Hair Mask,499,Health and Beauty Products,Hair Care Products,20:24:17,2024-07-10,10
+638,879,Forever 21 Skirt,2499,Clothing and Apparel,Women's Clothing,09:25:23,2024-07-10,16
+639,967,Omega-3 Fish Oil,899,Health and Beauty Products,Vitamins,14:04:13,2024-07-10,9
+640,156,La-Z-Boy Armchair,35129.26,Furniture and Home Décor,Living Room Furniture,19:29:49,2024-07-10,6
+641,857,Dove Hair Mask,499,Health and Beauty Products,Hair Care Products,13:32:57,2024-07-10,12
+642,442,Pepsi,35,Groceries and Food Items,Beverages,00:45:10,2024-07-10,4
+643,213,MacBook Air,92990,Electronics,Laptops,00:30:08,2024-07-10,14
+644,158,Whirlpool Dryer,22999.66,Home and Kitchen Appliances,Large Appliances,16:24:51,2024-07-10,5
+645,54,Vitamin C Tablets,399,Health and Beauty Products,Vitamins,12:47:00,2024-07-10,4
+646,652,Broccoli,80,Groceries and Food Items,Fresh Produce,09:24:39,2024-07-10,4
+647,856,Levi's Jeans,2999,Clothing and Apparel,Men's Clothing,09:31:11,2024-07-10,12
+648,516,Lipton Tea,100,Groceries and Food Items,Beverages,06:37:14,2024-07-10,5
+649,267,LG Washing Machine,27077.79,Home and Kitchen Appliances,Large Appliances,05:54:40,2024-07-10,1
+650,740,Barilla Pasta,199,Groceries and Food Items,Packaged Foods,02:34:14,2024-07-10,16
+651,539,Calcium Supplements,499,Health and Beauty Products,Vitamins,09:02:02,2024-07-11,15
+652,207,Puma Track Pants,1799,Sporting Goods and Outdoor Equipment,Sports Apparel,08:52:37,2024-07-11,17
+653,540,Carter's Pajamas,1499,Clothing and Apparel,Children's Clothing,10:09:25,2024-07-11,2
+654,610,ACDelco Battery,4999,Automotive Parts and Accessories,Car Parts,06:34:29,2024-07-11,4
+655,980,GI Joe Duke,1145.88,Toys and Games,Action Figures,21:51:23,2024-07-11,10
+656,821,Puma Shorts,1299,Clothing and Apparel,Men's Clothing,12:45:59,2024-07-11,13
+657,674,Oreo Cookies,140.85,Groceries and Food Items,Packaged Foods,15:41:41,2024-07-11,11
+658,957,Yeti Cooler,14999,Sporting Goods and Outdoor Equipment,Outdoor Gear,11:00:40,2024-07-11,5
+659,647,Frozen DVD,499,Books and Media,Movies,14:51:01,2024-07-11,9
+660,412,L'Oreal Conditioner,399,Health and Beauty Products,Hair Care Products,10:05:59,2024-07-11,17
+661,234,Bissell Steam Mop,13999,Home and Kitchen Appliances,Cleaning Appliances,14:40:42,2024-07-11,3
+662,702,Puma Shorts,1233.94,Clothing and Apparel,Men's Clothing,11:08:12,2024-07-11,4
+663,189,Adele - 25,799,Books and Media,Music CDs,05:18:10,2024-07-11,12
+664,806,GI Joe Duke,1299,Toys and Games,Action Figures,05:17:49,2024-07-11,17
+665,964,Melissa & Doug Puzzles,1499,Toys and Games,Educational Toys,22:45:53,2024-07-11,5
+666,843,Old Navy Shorts,1199,Clothing and Apparel,Children's Clothing,02:04:32,2024-07-11,3
+667,377,The Ordinary Serum,1749.98,Health and Beauty Products,Skincare Products,19:10:15,2024-07-11,8
+668,647,Wayfair Coffee Table,8999,Furniture and Home Décor,Living Room Furniture,01:16:56,2024-07-11,7
+669,810,Yoga Mat,1499,Sporting Goods and Outdoor Equipment,Fitness Equipment,05:06:44,2024-07-11,10
+670,289,Ninja Blender,13999,Home and Kitchen Appliances,Kitchen Gadgets,23:07:33,2024-07-11,9
+671,710,Crate & Barrel Dresser,25724.5,Furniture and Home Décor,Bedroom Furniture,17:25:12,2024-07-11,4
+672,378,Marvel Legends Spider-Man,2986.08,Toys and Games,Action Figures,02:54:01,2024-07-11,18
+673,495,Levi's Jeans,2785.12,Clothing and Apparel,Men's Clothing,01:37:50,2024-07-11,11
+674,254,Melissa & Doug Puzzles,1499,Toys and Games,Educational Toys,12:10:34,2024-07-11,3
+675,800,The Great Gatsby,399,Books and Media,Fiction Books,01:42:42,2024-07-11,3
+676,686,Marvel Legends Spider-Man,1499,Toys and Games,Action Figures,13:45:55,2024-07-11,4
+677,524,Old Navy Shorts,2371.32,Clothing and Apparel,Children's Clothing,03:31:49,2024-07-11,16
+678,53,Neutrogena Face Wash,499,Health and Beauty Products,Skincare Products,06:51:04,2024-07-11,18
+679,891,Monopoly,1499,Toys and Games,Board Games,06:44:47,2024-07-11,15
+680,23,L'Oreal Conditioner,399,Health and Beauty Products,Hair Care Products,10:45:53,2024-07-11,4
+681,468,VTech KidiZoom,2999,Toys and Games,Educational Toys,22:33:26,2024-07-11,6
+682,111,The Ordinary Serum,1099,Health and Beauty Products,Skincare Products,20:16:25,2024-07-11,4
+683,9,Neutrogena Face Wash,499,Health and Beauty Products,Skincare Products,08:56:00,2024-07-11,4
+684,749,Bananas,41.59,Groceries and Food Items,Fresh Produce,06:16:44,2024-07-11,16
+685,830,Whirlpool Dryer,24990,Home and Kitchen Appliances,Large Appliances,07:09:31,2024-07-11,1
+686,501,Melissa & Doug Puzzles,1499,Toys and Games,Educational Toys,22:59:59,2024-07-11,5
+687,835,Urban Outfitters Wall Art,3022.21,Furniture and Home Décor,Home Decor,04:16:44,2024-07-11,7
+688,568,Treadmill,49999,Sporting Goods and Outdoor Equipment,Fitness Equipment,10:11:23,2024-07-11,18
+689,147,Bissell Steam Mop,11203.42,Home and Kitchen Appliances,Cleaning Appliances,05:27:38,2024-07-11,4
+690,600,Vitamin C Tablets,399,Health and Beauty Products,Vitamins,23:53:29,2024-07-11,7
+691,486,Urban Outfitters Wall Art,2499,Furniture and Home Décor,Home Decor,19:20:58,2024-07-11,8
+692,648,Kellogg's Corn Flakes,299,Groceries and Food Items,Packaged Foods,09:46:04,2024-07-11,7
+693,611,Calcium Supplements,499,Health and Beauty Products,Vitamins,14:39:18,2024-07-11,11
+694,46,Levi's Jeans,2999,Clothing and Apparel,Men's Clothing,21:58:50,2024-07-11,12
+695,881,Old Navy Shorts,1199,Clothing and Apparel,Children's Clothing,22:35:51,2024-07-11,10
+696,557,Denso Oxygen Sensor,2999,Automotive Parts and Accessories,Car Parts,02:14:27,2024-07-11,9
+697,381,Calcium Supplements,949.76,Health and Beauty Products,Vitamins,21:34:45,2024-07-11,11
+698,287,Omega-3 Fish Oil,899,Health and Beauty Products,Vitamins,20:36:53,2024-07-11,16
+699,410,The North Face Backpack,8999,Sporting Goods and Outdoor Equipment,Outdoor Gear,19:34:38,2024-07-11,13
+700,56,Vivo V21,28999,Electronics,Mobile Phones,07:12:26,2024-07-11,12
+701,592,Samsung Galaxy S21,69999,Electronics,Mobile Phones,17:39:49,2024-07-12,2
+702,410,Apples,100,Groceries and Food Items,Fresh Produce,17:06:44,2024-07-12,17
+703,447,Coca-Cola,40,Groceries and Food Items,Beverages,22:36:19,2024-07-12,7
+704,613,GI Joe Duke,1299,Toys and Games,Action Figures,19:43:44,2024-07-12,12
+705,922,Tempur-Pedic Mattress,49990,Furniture and Home Décor,Bedroom Furniture,17:14:51,2024-07-12,13
+706,712,Puma Shorts,1590.07,Clothing and Apparel,Men's Clothing,02:37:12,2024-07-12,3
+707,447,Olay Moisturizer,699,Health and Beauty Products,Skincare Products,09:05:00,2024-07-12,3
+708,575,Shark Upright Vacuum,24999,Home and Kitchen Appliances,Cleaning Appliances,11:24:15,2024-07-12,11
+709,738,LEGO Mindstorms,35999,Toys and Games,Educational Toys,16:10:04,2024-07-12,7
+710,627,Barilla Pasta,199,Groceries and Food Items,Packaged Foods,19:18:47,2024-07-12,15
+711,581,Oreo Cookies,137.93,Groceries and Food Items,Packaged Foods,13:20:55,2024-07-12,1
+712,834,Coleman Tent,12999,Sporting Goods and Outdoor Equipment,Outdoor Gear,13:06:10,2024-07-12,6
+713,949,Calcium Supplements,499,Health and Beauty Products,Vitamins,07:34:41,2024-07-12,18
+714,424,KitchenAid Mixer,18938.17,Home and Kitchen Appliances,Kitchen Gadgets,21:08:16,2024-07-12,11
+715,297,Omega-3 Fish Oil,899,Health and Beauty Products,Vitamins,19:14:25,2024-07-12,14
+716,200,KitchenAid Mixer,21999,Home and Kitchen Appliances,Kitchen Gadgets,09:35:34,2024-07-12,2
+717,71,The Godfather DVD,499,Books and Media,Movies,23:54:27,2024-07-12,14
+718,413,The North Face Backpack,14487.32,Sporting Goods and Outdoor Equipment,Outdoor Gear,08:58:40,2024-07-12,11
+719,562,Lays Potato Chips,99,Groceries and Food Items,Packaged Foods,02:52:46,2024-07-12,5
+720,909,Pier 1 Candle,599,Furniture and Home Décor,Home Decor,13:25:49,2024-07-12,15
+721,525,Garmin GPS,19444.09,Sporting Goods and Outdoor Equipment,Outdoor Gear,21:01:58,2024-07-12,6
+722,887,Broccoli,80,Groceries and Food Items,Fresh Produce,21:02:07,2024-07-12,7
+723,211,Calcium Supplements,404.23,Health and Beauty Products,Vitamins,13:31:28,2024-07-12,7
+724,389,Kellogg's Corn Flakes,299,Groceries and Food Items,Packaged Foods,22:01:51,2024-07-12,13
+725,753,Vitamin C Tablets,399,Health and Beauty Products,Vitamins,07:52:59,2024-07-12,17
+726,926,Kellogg's Corn Flakes,299,Groceries and Food Items,Packaged Foods,20:49:32,2024-07-12,14
+727,975,Dyson Vacuum,34999,Home and Kitchen Appliances,Cleaning Appliances,12:31:05,2024-07-12,6
+728,830,Inception Blu-ray,906.21,Books and Media,Movies,03:22:20,2024-07-12,2
+729,885,Yoga Mat,1499,Sporting Goods and Outdoor Equipment,Fitness Equipment,18:35:40,2024-07-12,8
+730,169,Gap Kids T-shirt,899,Clothing and Apparel,Children's Clothing,11:56:15,2024-07-12,16
+731,657,Harry Potter,599,Books and Media,Fiction Books,01:15:11,2024-07-12,10
+732,474,Carrots,83.85,Groceries and Food Items,Fresh Produce,05:43:26,2024-07-12,1
+733,244,Adidas Jacket,3499,Clothing and Apparel,Men's Clothing,22:28:00,2024-07-12,8
+734,642,The Ordinary Serum,1099,Health and Beauty Products,Skincare Products,09:59:23,2024-07-12,4
+735,322,Cetaphil Cleanser,1170.0,Health and Beauty Products,Skincare Products,14:27:48,2024-07-12,13
+736,772,LEGO Mindstorms,35999,Toys and Games,Educational Toys,00:20:31,2024-07-12,16
+737,358,Starbucks Coffee,226.19,Groceries and Food Items,Beverages,08:08:29,2024-07-12,13
+738,114,Adidas Jacket,2820.11,Clothing and Apparel,Men's Clothing,14:27:13,2024-07-12,4
+739,608,The Great Gatsby,399,Books and Media,Fiction Books,12:17:46,2024-07-12,5
+740,217,Adidas Soccer Jersey,2021.99,Sporting Goods and Outdoor Equipment,Sports Apparel,16:01:28,2024-07-12,9
+741,142,Risk,1499,Toys and Games,Board Games,19:34:51,2024-07-12,8
+742,763,Dyson Vacuum,34999,Home and Kitchen Appliances,Cleaning Appliances,05:31:26,2024-07-12,18
+743,248,Neutrogena Face Wash,641.14,Health and Beauty Products,Skincare Products,08:41:51,2024-07-12,1
+744,334,OshKosh B'gosh Overalls,1799,Clothing and Apparel,Children's Clothing,00:35:06,2024-07-12,12
+745,881,Sony Alpha a7 III,199990,Electronics,Cameras,21:06:15,2024-07-12,15
+746,754,Calcium Supplements,499,Health and Beauty Products,Vitamins,14:37:08,2024-07-12,2
+747,561,LG Washing Machine,30249.42,Home and Kitchen Appliances,Large Appliances,23:21:06,2024-07-12,3
+748,392,ACDelco Battery,4999,Automotive Parts and Accessories,Car Parts,23:24:36,2024-07-12,1
+749,781,KitchenAid Mixer,21999,Home and Kitchen Appliances,Kitchen Gadgets,04:58:58,2024-07-12,6
+750,993,Omega-3 Fish Oil,899,Health and Beauty Products,Vitamins,08:02:42,2024-07-12,15
+751,856,Apples,100,Groceries and Food Items,Fresh Produce,18:32:22,2024-07-13,7
+752,530,Calcium Supplements,499,Health and Beauty Products,Vitamins,19:05:20,2024-07-13,3
+753,723,Inception Blu-ray,699,Books and Media,Movies,12:39:15,2024-07-13,7
+754,749,Fisher-Price Learning Table,3499,Toys and Games,Educational Toys,17:26:07,2024-07-13,1
+755,203,LEGO Mindstorms,35999,Toys and Games,Educational Toys,04:21:53,2024-07-13,13
+756,824,The Ordinary Serum,1099,Health and Beauty Products,Skincare Products,15:37:09,2024-07-13,8
+757,340,Broccoli,68.21,Groceries and Food Items,Fresh Produce,15:26:02,2024-07-13,6
+758,180,GI Joe Duke,1299,Toys and Games,Action Figures,07:05:53,2024-07-13,7
+759,466,Lipton Tea,100,Groceries and Food Items,Beverages,08:06:37,2024-07-13,3
+760,561,Cetaphil Cleanser,799,Health and Beauty Products,Skincare Products,22:55:42,2024-07-13,18
+761,271,Calcium Supplements,499,Health and Beauty Products,Vitamins,19:19:31,2024-07-13,8
+762,548,Thule Roof Rack,15999,Automotive Parts and Accessories,Car Accessories,11:16:59,2024-07-13,1
+763,10,Levi's Jeans,2999,Clothing and Apparel,Men's Clothing,05:48:06,2024-07-13,8
+764,552,Yoga Mat,1499,Sporting Goods and Outdoor Equipment,Fitness Equipment,13:39:35,2024-07-13,4
+765,874,Bosch Dishwasher,34990,Home and Kitchen Appliances,Large Appliances,07:38:46,2024-07-13,4
+766,813,Broccoli,80,Groceries and Food Items,Fresh Produce,13:23:14,2024-07-13,7
+767,805,Levi's Jeans,2424.32,Clothing and Apparel,Men's Clothing,13:01:06,2024-07-13,6
+768,861,Scrabble,1199,Toys and Games,Board Games,07:48:36,2024-07-13,18
+769,967,Transformers Optimus Prime,2199,Toys and Games,Action Figures,11:20:36,2024-07-13,14
+770,208,The Godfather DVD,499,Books and Media,Movies,07:11:15,2024-07-13,3
+771,567,Wayfair Coffee Table,8999,Furniture and Home Décor,Living Room Furniture,12:44:40,2024-07-13,5
+772,193,Lays Potato Chips,99,Groceries and Food Items,Packaged Foods,19:47:48,2024-07-13,3
+773,420,Olay Moisturizer,699,Health and Beauty Products,Skincare Products,14:20:57,2024-07-13,8
+774,122,Carrots,60,Groceries and Food Items,Fresh Produce,02:53:02,2024-07-13,6
+775,48,1984,299,Books and Media,Fiction Books,06:18:57,2024-07-13,7
+776,673,Cetaphil Cleanser,799,Health and Beauty Products,Skincare Products,20:42:13,2024-07-13,4
+777,471,Broccoli,80,Groceries and Food Items,Fresh Produce,17:43:32,2024-07-13,17
+778,207,Garmin GPS,21999,Sporting Goods and Outdoor Equipment,Outdoor Gear,02:54:10,2024-07-13,12
+779,84,Omega-3 Fish Oil,806.88,Health and Beauty Products,Vitamins,20:20:28,2024-07-13,11
+780,251,Pepsi,29.5,Groceries and Food Items,Beverages,22:48:33,2024-07-13,4
+781,954,Multivitamin Gummies,699,Health and Beauty Products,Vitamins,17:51:06,2024-07-13,12
+782,672,Fisher-Price Learning Table,3499,Toys and Games,Educational Toys,02:02:12,2024-07-13,8
+783,498,Anthropologie Throw Pillow,2727.32,Furniture and Home Décor,Home Decor,09:13:33,2024-07-13,6
+784,547,Calcium Supplements,423.72,Health and Beauty Products,Vitamins,20:55:38,2024-07-13,18
+785,339,Pier 1 Candle,599,Furniture and Home Décor,Home Decor,04:05:05,2024-07-13,13
+786,432,OshKosh B'gosh Overalls,1669.67,Clothing and Apparel,Children's Clothing,21:28:09,2024-07-13,15
+787,74,Apples,100,Groceries and Food Items,Fresh Produce,15:31:04,2024-07-13,14
+788,838,Shark Upright Vacuum,24999,Home and Kitchen Appliances,Cleaning Appliances,03:23:09,2024-07-13,9
+789,67,Gap Kids T-shirt,779.94,Clothing and Apparel,Children's Clothing,02:13:25,2024-07-13,4
+790,441,Under Armour Sports Bra,1299,Sporting Goods and Outdoor Equipment,Sports Apparel,00:47:00,2024-07-13,7
+791,754,Instant Pot,11999,Home and Kitchen Appliances,Kitchen Gadgets,22:43:35,2024-07-13,2
+792,606,Whirlpool Dryer,24990,Home and Kitchen Appliances,Large Appliances,13:34:26,2024-07-13,5
+793,143,Apples,100,Groceries and Food Items,Fresh Produce,09:38:56,2024-07-13,15
+794,36,Neutrogena Face Wash,856.4,Health and Beauty Products,Skincare Products,19:28:23,2024-07-13,14
+795,827,Pepsi,35,Groceries and Food Items,Beverages,11:28:43,2024-07-13,1
+796,98,Taylor Swift - Evermore,799,Books and Media,Music CDs,09:25:52,2024-07-13,7
+797,47,Starbucks Coffee,250,Groceries and Food Items,Beverages,23:07:48,2024-07-13,10
+798,212,Transformers Optimus Prime,2199,Toys and Games,Action Figures,13:58:52,2024-07-13,16
+799,230,Kellogg's Corn Flakes,299,Groceries and Food Items,Packaged Foods,19:17:11,2024-07-13,1
+800,703,Coca-Cola,34.69,Groceries and Food Items,Beverages,08:22:37,2024-07-13,18
+801,39,Tempur-Pedic Mattress,46839.34,Furniture and Home Décor,Bedroom Furniture,04:05:16,2024-07-14,10
+802,375,Barilla Pasta,199,Groceries and Food Items,Packaged Foods,17:53:59,2024-07-14,3
+803,93,Coleman Tent,12999,Sporting Goods and Outdoor Equipment,Outdoor Gear,10:16:48,2024-07-14,15
+804,645,LEGO Mindstorms,35999,Toys and Games,Educational Toys,04:08:43,2024-07-14,9
+805,103,Pantene Shampoo,399,Health and Beauty Products,Hair Care Products,13:01:02,2024-07-14,9
+806,127,Vitamin C Tablets,399,Health and Beauty Products,Vitamins,00:55:16,2024-07-14,16
+807,773,Coca-Cola,40,Groceries and Food Items,Beverages,04:03:29,2024-07-14,1
+808,578,The North Face Backpack,8999,Sporting Goods and Outdoor Equipment,Outdoor Gear,17:10:52,2024-07-14,6
+809,110,West Elm Nightstand,9999,Furniture and Home Décor,Bedroom Furniture,17:29:12,2024-07-14,16
+810,560,Ashley Recliner,30368.8,Furniture and Home Décor,Living Room Furniture,14:22:26,2024-07-14,15
+811,454,LEGO Mindstorms,35999,Toys and Games,Educational Toys,23:02:42,2024-07-14,11
+812,761,The Beatles - Abbey Road,746.11,Books and Media,Music CDs,23:50:24,2024-07-14,16
+813,82,K&N Air Filter,2999,Automotive Parts and Accessories,Motorcycle Parts,16:58:56,2024-07-14,16
+814,42,Ninja Blender,13999,Home and Kitchen Appliances,Kitchen Gadgets,16:48:13,2024-07-14,1
+815,885,Nike T-shirt,1799,Clothing and Apparel,Men's Clothing,09:35:47,2024-07-14,14
+816,252,Omega-3 Fish Oil,899,Health and Beauty Products,Vitamins,16:37:01,2024-07-14,11
+817,486,Coca-Cola,40,Groceries and Food Items,Beverages,17:13:33,2024-07-14,1
+818,145,H&M Blouse,1999,Clothing and Apparel,Women's Clothing,15:52:29,2024-07-14,5
+819,201,Adidas Jacket,3251.08,Clothing and Apparel,Men's Clothing,20:47:20,2024-07-14,16
+820,886,Gap Kids T-shirt,899,Clothing and Apparel,Children's Clothing,21:08:46,2024-07-14,14
+821,736,Old Navy Shorts,1199,Clothing and Apparel,Children's Clothing,05:46:45,2024-07-14,6
+822,891,Pioneer Car Stereo,12999,Automotive Parts and Accessories,Car Accessories,16:26:18,2024-07-14,16
+823,522,Pepsi,35,Groceries and Food Items,Beverages,01:37:15,2024-07-14,4
+824,420,Bosch Dishwasher,34990,Home and Kitchen Appliances,Large Appliances,09:26:56,2024-07-14,9
+825,326,Marvel Legends Spider-Man,1499,Toys and Games,Action Figures,05:47:19,2024-07-14,2
+826,302,Carter's Pajamas,1243.83,Clothing and Apparel,Children's Clothing,18:54:48,2024-07-14,5
+827,125,Cetaphil Cleanser,799,Health and Beauty Products,Skincare Products,02:38:35,2024-07-14,5
+828,422,Avengers: Endgame Blu-ray,799,Books and Media,Movies,01:39:16,2024-07-14,8
+829,925,Uniqlo Sweater,2999,Clothing and Apparel,Women's Clothing,02:32:05,2024-07-14,16
+830,374,Taylor Swift - Evermore,799,Books and Media,Music CDs,05:06:01,2024-07-14,18
+831,280,Melissa & Doug Puzzles,1499,Toys and Games,Educational Toys,03:31:04,2024-07-14,6
+832,979,Nike T-shirt,2433.6,Clothing and Apparel,Men's Clothing,20:17:20,2024-07-14,2
+833,291,Instant Pot,11999,Home and Kitchen Appliances,Kitchen Gadgets,12:18:42,2024-07-14,11
+834,247,Barilla Pasta,199,Groceries and Food Items,Packaged Foods,05:46:03,2024-07-14,18
+835,118,Uniqlo Sweater,2999,Clothing and Apparel,Women's Clothing,17:11:15,2024-07-14,1
+836,931,Under Armour Sports Bra,1084.54,Sporting Goods and Outdoor Equipment,Sports Apparel,06:45:52,2024-07-14,2
+837,245,Vitamin C Tablets,399,Health and Beauty Products,Vitamins,09:14:15,2024-07-14,8
+838,944,Pantene Shampoo,399,Health and Beauty Products,Hair Care Products,13:12:54,2024-07-14,4
+839,16,Carrots,60,Groceries and Food Items,Fresh Produce,00:17:13,2024-07-14,5
+840,898,Olay Moisturizer,699,Health and Beauty Products,Skincare Products,07:17:48,2024-07-14,18
+841,466,Tresemme Hair Spray,299,Health and Beauty Products,Hair Care Products,19:43:29,2024-07-14,16
+842,726,Olay Moisturizer,699,Health and Beauty Products,Skincare Products,22:23:40,2024-07-14,7
+843,386,Nike T-shirt,1592.32,Clothing and Apparel,Men's Clothing,04:17:46,2024-07-14,17
+844,550,Shark Upright Vacuum,24999,Home and Kitchen Appliances,Cleaning Appliances,22:20:55,2024-07-14,2
+845,339,Beyonce - Lemonade,899,Books and Media,Music CDs,01:35:16,2024-07-14,15
+846,998,Old Navy Shorts,1199,Clothing and Apparel,Children's Clothing,20:04:14,2024-07-14,13
+847,771,Shark Upright Vacuum,24999,Home and Kitchen Appliances,Cleaning Appliances,20:28:10,2024-07-14,9
+848,95,Bananas,50,Groceries and Food Items,Fresh Produce,18:30:51,2024-07-14,14
+849,669,HP Spectre x360,114999,Electronics,Laptops,03:20:45,2024-07-14,6
+850,758,GI Joe Duke,1299,Toys and Games,Action Figures,23:12:31,2024-07-14,5
+851,961,Uniqlo Sweater,2999,Clothing and Apparel,Women's Clothing,11:46:16,2024-07-15,5
+852,566,Taylor Swift - Evermore,799,Books and Media,Music CDs,06:38:12,2024-07-15,12
+853,551,H&M Blouse,3461.38,Clothing and Apparel,Women's Clothing,08:49:23,2024-07-15,16
+854,846,Fisher-Price Learning Table,3499,Toys and Games,Educational Toys,15:30:38,2024-07-15,18
+855,276,Beyonce - Lemonade,899,Books and Media,Music CDs,21:29:30,2024-07-15,7
+856,681,Vitamin C Tablets,399,Health and Beauty Products,Vitamins,08:32:43,2024-07-15,13
+857,692,Starbucks Coffee,250,Groceries and Food Items,Beverages,20:36:19,2024-07-15,18
+858,544,Vitamin C Tablets,399,Health and Beauty Products,Vitamins,18:12:38,2024-07-15,14
+859,419,Omega-3 Fish Oil,899,Health and Beauty Products,Vitamins,07:55:57,2024-07-15,2
+860,552,Vitamin C Tablets,560.96,Health and Beauty Products,Vitamins,12:24:13,2024-07-15,15
+861,362,Puma Track Pants,1799,Sporting Goods and Outdoor Equipment,Sports Apparel,19:33:52,2024-07-15,2
+862,934,Nike T-shirt,1799,Clothing and Apparel,Men's Clothing,11:54:38,2024-07-15,8
+863,106,Yeti Cooler,14999,Sporting Goods and Outdoor Equipment,Outdoor Gear,23:55:20,2024-07-15,16
+864,111,Forever 21 Skirt,2499,Clothing and Apparel,Women's Clothing,10:53:35,2024-07-15,4
+865,850,L'Oreal Conditioner,399,Health and Beauty Products,Hair Care Products,15:56:23,2024-07-15,13
+866,480,Ikea Sofa,25999,Furniture and Home Décor,Living Room Furniture,20:34:50,2024-07-15,17
+867,305,LG Washing Machine,31990,Home and Kitchen Appliances,Large Appliances,22:03:10,2024-07-15,5
+868,275,Yoga Mat,1499,Sporting Goods and Outdoor Equipment,Fitness Equipment,10:12:19,2024-07-15,9
+869,445,H&M Blouse,1999,Clothing and Apparel,Women's Clothing,01:53:04,2024-07-15,6
+870,411,The Ordinary Serum,1099,Health and Beauty Products,Skincare Products,01:56:30,2024-07-15,14
+871,830,Neutrogena Face Wash,989.92,Health and Beauty Products,Skincare Products,03:20:29,2024-07-15,2
+872,232,KitchenAid Mixer,21999,Home and Kitchen Appliances,Kitchen Gadgets,03:28:12,2024-07-15,3
+873,771,Dove Hair Mask,499,Health and Beauty Products,Hair Care Products,21:04:56,2024-07-15,12
+874,378,Pantene Shampoo,371.81,Health and Beauty Products,Hair Care Products,06:21:07,2024-07-15,16
+875,233,Levi's Jeans,2999,Clothing and Apparel,Men's Clothing,00:22:25,2024-07-15,13
+876,435,Dell XPS 13,129999,Electronics,Laptops,00:22:11,2024-07-15,16
+877,184,Barilla Pasta,180.41,Groceries and Food Items,Packaged Foods,15:18:35,2024-07-15,9
+878,45,Dyson Vacuum,34999,Home and Kitchen Appliances,Cleaning Appliances,22:11:51,2024-07-15,17
+879,708,LG Washing Machine,31990,Home and Kitchen Appliances,Large Appliances,10:17:24,2024-07-15,10
+880,103,Puma Track Pants,1799,Sporting Goods and Outdoor Equipment,Sports Apparel,16:42:42,2024-07-15,2
+881,968,Dumbbells,2999,Sporting Goods and Outdoor Equipment,Fitness Equipment,05:32:15,2024-07-15,11
+882,985,Oreo Cookies,159,Groceries and Food Items,Packaged Foods,06:19:04,2024-07-15,6
+883,789,Tresemme Hair Spray,299,Health and Beauty Products,Hair Care Products,12:24:17,2024-07-15,10
+884,914,Dumbbells,2999,Sporting Goods and Outdoor Equipment,Fitness Equipment,13:16:28,2024-07-15,7
+885,471,Canon EOS R5,289990,Electronics,Cameras,01:37:29,2024-07-15,6
+886,667,Gap Kids T-shirt,899,Clothing and Apparel,Children's Clothing,18:05:19,2024-07-15,14
+887,326,The Ordinary Serum,1099,Health and Beauty Products,Skincare Products,23:05:12,2024-07-15,14
+888,328,Levi's Jeans,2999,Clothing and Apparel,Men's Clothing,09:35:54,2024-07-15,11
+889,363,Puma Shorts,1181.44,Clothing and Apparel,Men's Clothing,18:06:54,2024-07-15,18
+890,238,Broccoli,80,Groceries and Food Items,Fresh Produce,13:09:02,2024-07-15,5
+891,174,To Kill a Mockingbird,349,Books and Media,Fiction Books,02:37:41,2024-07-15,8
+892,16,LG Washing Machine,61695.99,Home and Kitchen Appliances,Large Appliances,19:25:11,2024-07-15,17
+893,176,Barilla Pasta,199,Groceries and Food Items,Packaged Foods,03:09:58,2024-07-15,15
+894,497,Uniqlo Sweater,2497.71,Clothing and Apparel,Women's Clothing,01:38:38,2024-07-15,17
+895,901,Coca-Cola,40,Groceries and Food Items,Beverages,06:58:28,2024-07-15,1
+896,7,Settlers of Catan,2487.94,Toys and Games,Board Games,21:08:11,2024-07-15,9
+897,541,Broccoli,80,Groceries and Food Items,Fresh Produce,23:40:14,2024-07-15,12
+898,990,Omega-3 Fish Oil,899,Health and Beauty Products,Vitamins,04:58:58,2024-07-15,10
+899,912,1984,527.9,Books and Media,Fiction Books,16:53:49,2024-07-15,14
+900,853,Puma Track Pants,1560.95,Sporting Goods and Outdoor Equipment,Sports Apparel,21:27:34,2024-07-15,18
+901,190,MacBook Air,92990,Electronics,Laptops,22:20:56,2024-07-16,4
+902,805,Levi's Jeans,2999,Clothing and Apparel,Men's Clothing,14:00:36,2024-07-16,16
+903,630,Frozen DVD,499,Books and Media,Movies,07:51:54,2024-07-16,2
+904,43,Cetaphil Cleanser,642.39,Health and Beauty Products,Skincare Products,10:59:40,2024-07-16,1
+905,450,Multivitamin Gummies,655.53,Health and Beauty Products,Vitamins,16:52:40,2024-07-16,8
+906,163,Gap Kids T-shirt,899,Clothing and Apparel,Children's Clothing,08:06:22,2024-07-16,8
+907,284,HP Spectre x360,114999,Electronics,Laptops,17:33:10,2024-07-16,17
+908,179,Monopoly,1499,Toys and Games,Board Games,03:24:17,2024-07-16,16
+909,404,Gap Kids T-shirt,1779.26,Clothing and Apparel,Children's Clothing,04:09:17,2024-07-16,5
+910,826,Kellogg's Corn Flakes,299,Groceries and Food Items,Packaged Foods,05:43:18,2024-07-16,9
+911,622,Roomba Robot Vacuum,43584.4,Home and Kitchen Appliances,Cleaning Appliances,04:23:30,2024-07-16,18
+912,18,Multivitamin Gummies,624.81,Health and Beauty Products,Vitamins,04:17:55,2024-07-16,5
+913,384,Vitamin C Tablets,399,Health and Beauty Products,Vitamins,17:32:30,2024-07-16,18
+914,704,Multivitamin Gummies,699,Health and Beauty Products,Vitamins,07:30:47,2024-07-16,4
+915,944,HP Spectre x360,114999,Electronics,Laptops,02:08:54,2024-07-16,18
+916,323,MacBook Air,92990,Electronics,Laptops,15:39:59,2024-07-16,13
+917,598,Coca-Cola,40,Groceries and Food Items,Beverages,21:54:46,2024-07-16,10
+918,889,Coleman Tent,12999,Sporting Goods and Outdoor Equipment,Outdoor Gear,05:50:25,2024-07-16,3
+919,844,Broccoli,80,Groceries and Food Items,Fresh Produce,00:00:54,2024-07-16,10
+920,501,Kellogg's Corn Flakes,299,Groceries and Food Items,Packaged Foods,06:37:23,2024-07-16,16
+921,93,Melissa & Doug Puzzles,1499,Toys and Games,Educational Toys,11:10:55,2024-07-16,1
+922,328,Neutrogena Face Wash,499,Health and Beauty Products,Skincare Products,14:30:17,2024-07-16,11
+923,923,Zara Dress,4698.33,Clothing and Apparel,Women's Clothing,09:03:46,2024-07-16,10
+924,915,NGK Spark Plugs,799,Automotive Parts and Accessories,Motorcycle Parts,06:55:47,2024-07-16,2
+925,606,Apples,100,Groceries and Food Items,Fresh Produce,06:09:48,2024-07-16,18
+926,921,Resistance Bands,799,Sporting Goods and Outdoor Equipment,Fitness Equipment,19:15:32,2024-07-16,5
+927,32,Uniqlo Sweater,2999,Clothing and Apparel,Women's Clothing,13:22:36,2024-07-16,9
+928,889,Under Armour Sports Bra,1143.59,Sporting Goods and Outdoor Equipment,Sports Apparel,05:54:34,2024-07-16,6
+929,393,Ashley Recliner,16999,Furniture and Home Décor,Living Room Furniture,15:26:02,2024-07-16,5
+930,882,Transformers Optimus Prime,2199,Toys and Games,Action Figures,07:33:32,2024-07-16,13
+931,200,Pantene Shampoo,399,Health and Beauty Products,Hair Care Products,23:15:23,2024-07-16,13
+932,79,Yoga Mat,1499,Sporting Goods and Outdoor Equipment,Fitness Equipment,10:58:23,2024-07-16,11
+933,296,Dove Hair Mask,453.29,Health and Beauty Products,Hair Care Products,12:14:46,2024-07-16,16
+934,596,Adidas Soccer Jersey,2499,Sporting Goods and Outdoor Equipment,Sports Apparel,15:06:32,2024-07-16,12
+935,446,Forever 21 Skirt,2499,Clothing and Apparel,Women's Clothing,07:44:26,2024-07-16,11
+936,820,Transformers Optimus Prime,2199,Toys and Games,Action Figures,00:55:03,2024-07-16,17
+937,392,Lenovo ThinkPad X1,139990,Electronics,Laptops,11:20:40,2024-07-16,9
+938,502,Pepsi,35,Groceries and Food Items,Beverages,15:30:29,2024-07-16,10
+939,524,ACDelco Battery,4999,Automotive Parts and Accessories,Car Parts,13:39:18,2024-07-16,17
+940,449,Transformers Optimus Prime,2199,Toys and Games,Action Figures,08:04:55,2024-07-16,11
+941,298,Puma Shorts,1299,Clothing and Apparel,Men's Clothing,20:34:25,2024-07-16,7
+942,330,Yeti Cooler,14999,Sporting Goods and Outdoor Equipment,Outdoor Gear,19:27:15,2024-07-16,6
+943,591,Calcium Supplements,857.79,Health and Beauty Products,Vitamins,21:53:02,2024-07-16,12
+944,518,Omega-3 Fish Oil,753.43,Health and Beauty Products,Vitamins,04:55:43,2024-07-16,18
+945,105,Treadmill,40208.21,Sporting Goods and Outdoor Equipment,Fitness Equipment,20:49:49,2024-07-16,16
+946,822,L'Oreal Conditioner,399,Health and Beauty Products,Hair Care Products,14:47:31,2024-07-16,13
+947,182,Pantene Shampoo,399,Health and Beauty Products,Hair Care Products,12:04:42,2024-07-16,8
+948,564,The Ordinary Serum,1099,Health and Beauty Products,Skincare Products,06:37:25,2024-07-16,10
+949,289,Scrabble,1199,Toys and Games,Board Games,21:32:05,2024-07-16,3
+950,367,Starbucks Coffee,250,Groceries and Food Items,Beverages,05:24:30,2024-07-16,14
+951,254,Starbucks Coffee,421.36,Groceries and Food Items,Beverages,21:32:30,2024-07-17,12
+952,43,Levi's Jeans,2999,Clothing and Apparel,Men's Clothing,22:27:25,2024-07-17,18
+953,53,Starbucks Coffee,250,Groceries and Food Items,Beverages,20:10:40,2024-07-17,17
+954,627,Coca-Cola,40,Groceries and Food Items,Beverages,08:25:40,2024-07-17,15
+955,100,Levi's Jeans,2999,Clothing and Apparel,Men's Clothing,11:13:07,2024-07-17,2
+956,111,HP Spectre x360,114999,Electronics,Laptops,05:14:23,2024-07-17,11
+957,510,Cuisinart Food Processor,15534.84,Home and Kitchen Appliances,Kitchen Gadgets,10:24:58,2024-07-17,13
+958,452,Tresemme Hair Spray,299,Health and Beauty Products,Hair Care Products,16:17:37,2024-07-17,9
+959,857,Bissell Steam Mop,12744.82,Home and Kitchen Appliances,Cleaning Appliances,16:44:56,2024-07-17,3
+960,443,Pier 1 Candle,599,Furniture and Home Décor,Home Decor,01:32:39,2024-07-17,11
+961,569,Old Navy Shorts,1199,Clothing and Apparel,Children's Clothing,22:09:04,2024-07-17,3
+962,152,Olay Moisturizer,699,Health and Beauty Products,Skincare Products,11:51:29,2024-07-17,17
+963,466,Bananas,44.14,Groceries and Food Items,Fresh Produce,09:08:11,2024-07-17,1
+964,630,Lipton Tea,151.26,Groceries and Food Items,Beverages,22:05:13,2024-07-17,12
+965,501,Oreo Cookies,159,Groceries and Food Items,Packaged Foods,11:56:59,2024-07-17,1
+966,529,Neutrogena Face Wash,499,Health and Beauty Products,Skincare Products,00:45:49,2024-07-17,1
+967,869,Levi's Jeans,2999,Clothing and Apparel,Men's Clothing,04:24:16,2024-07-17,15
+968,4,Nike T-shirt,1799,Clothing and Apparel,Men's Clothing,03:49:17,2024-07-17,5
+969,181,Garmin GPS,21999,Sporting Goods and Outdoor Equipment,Outdoor Gear,21:47:12,2024-07-17,8
+970,11,1984,299,Books and Media,Fiction Books,16:40:35,2024-07-17,14
+971,789,The Great Gatsby,751.96,Books and Media,Fiction Books,23:49:52,2024-07-17,15
+972,462,Yoga Mat,1354.02,Sporting Goods and Outdoor Equipment,Fitness Equipment,06:52:22,2024-07-17,2
+973,792,Instant Pot,11999,Home and Kitchen Appliances,Kitchen Gadgets,06:58:55,2024-07-17,8
+974,256,Lipton Tea,100,Groceries and Food Items,Beverages,19:50:33,2024-07-17,2
+975,714,Dumbbells,2999,Sporting Goods and Outdoor Equipment,Fitness Equipment,03:04:27,2024-07-17,9
+976,865,Yoshimura Exhaust,21999,Automotive Parts and Accessories,Motorcycle Parts,05:47:57,2024-07-17,5
+977,709,LEGO Mindstorms,35999,Toys and Games,Educational Toys,11:12:25,2024-07-17,14
+978,709,LG Washing Machine,29630.69,Home and Kitchen Appliances,Large Appliances,07:09:48,2024-07-17,10
+979,428,Beyonce - Lemonade,899,Books and Media,Music CDs,08:22:33,2024-07-17,2
+980,115,Instant Pot,11999,Home and Kitchen Appliances,Kitchen Gadgets,10:44:44,2024-07-17,4
+981,368,Pantene Shampoo,330.76,Health and Beauty Products,Hair Care Products,13:37:38,2024-07-17,14
+982,584,Pantene Shampoo,330.06,Health and Beauty Products,Hair Care Products,16:07:37,2024-07-17,5
+983,924,Bridgestone Tires,7999,Automotive Parts and Accessories,Motorcycle Parts,02:33:22,2024-07-17,5
+984,827,Risk,1499,Toys and Games,Board Games,15:27:40,2024-07-17,2
+985,582,Melissa & Doug Puzzles,1499,Toys and Games,Educational Toys,23:56:22,2024-07-17,13
+986,323,The North Face Backpack,8999,Sporting Goods and Outdoor Equipment,Outdoor Gear,13:36:40,2024-07-17,7
+987,405,OshKosh B'gosh Overalls,1799,Clothing and Apparel,Children's Clothing,12:32:44,2024-07-17,5
+988,768,Pottery Barn Bed Frame,34999,Furniture and Home Décor,Bedroom Furniture,06:36:48,2024-07-17,10
+989,678,Ninja Blender,13999,Home and Kitchen Appliances,Kitchen Gadgets,13:45:21,2024-07-17,10
+990,564,Roomba Robot Vacuum,29999,Home and Kitchen Appliances,Cleaning Appliances,09:25:58,2024-07-17,1
+991,414,Yoshimura Exhaust,21999,Automotive Parts and Accessories,Motorcycle Parts,10:50:52,2024-07-17,16
+992,481,Barilla Pasta,164.67,Groceries and Food Items,Packaged Foods,15:33:08,2024-07-17,12
+993,416,Bosch Dishwasher,34990,Home and Kitchen Appliances,Large Appliances,23:56:19,2024-07-17,8
+994,467,Gap Kids T-shirt,899,Clothing and Apparel,Children's Clothing,20:29:19,2024-07-17,14
+995,130,KitchenAid Mixer,21999,Home and Kitchen Appliances,Kitchen Gadgets,11:37:25,2024-07-17,15
+996,397,Nike T-shirt,1799,Clothing and Apparel,Men's Clothing,04:48:33,2024-07-17,6
+997,245,MacBook Air,92990,Electronics,Laptops,19:42:42,2024-07-17,14
+998,212,Neutrogena Face Wash,499,Health and Beauty Products,Skincare Products,15:43:13,2024-07-17,12
+999,628,1984,299,Books and Media,Fiction Books,22:03:23,2024-07-17,4
+1000,489,VTech KidiZoom,2999,Toys and Games,Educational Toys,12:44:46,2024-07-17,1
+1001,396,Vitamin C Tablets,399,Health and Beauty Products,Vitamins,13:43:02,2024-07-18,11
+1002,743,Barilla Pasta,199,Groceries and Food Items,Packaged Foods,02:25:36,2024-07-18,13
+1003,839,Adidas Soccer Jersey,2499,Sporting Goods and Outdoor Equipment,Sports Apparel,11:00:41,2024-07-18,15
+1004,464,Bosch Dishwasher,34990,Home and Kitchen Appliances,Large Appliances,08:57:03,2024-07-18,18
+1005,777,Carter's Pajamas,1352.41,Clothing and Apparel,Children's Clothing,02:27:18,2024-07-18,18
+1006,861,Dove Hair Mask,499,Health and Beauty Products,Hair Care Products,16:48:58,2024-07-18,1
+1007,318,Transformers Optimus Prime,2044.99,Toys and Games,Action Figures,18:01:29,2024-07-18,3
+1008,579,Shark Upright Vacuum,24999,Home and Kitchen Appliances,Cleaning Appliances,04:09:40,2024-07-18,12
+1009,53,Lays Potato Chips,99,Groceries and Food Items,Packaged Foods,12:33:36,2024-07-18,14
+1010,567,VTech KidiZoom,3967.78,Toys and Games,Educational Toys,17:08:00,2024-07-18,18
+1011,255,Harry Potter,599,Books and Media,Fiction Books,11:46:53,2024-07-18,13
+1012,426,Oreo Cookies,159,Groceries and Food Items,Packaged Foods,10:04:51,2024-07-18,3
+1013,188,Adidas Soccer Jersey,2499,Sporting Goods and Outdoor Equipment,Sports Apparel,02:35:41,2024-07-18,12
+1014,956,Garmin GPS,21999,Sporting Goods and Outdoor Equipment,Outdoor Gear,17:49:26,2024-07-18,15
+1015,661,Coleman Tent,12999,Sporting Goods and Outdoor Equipment,Outdoor Gear,10:19:09,2024-07-18,10
+1016,160,KitchenAid Mixer,21999,Home and Kitchen Appliances,Kitchen Gadgets,01:10:08,2024-07-18,12
+1017,272,Whirlpool Dryer,49415.26,Home and Kitchen Appliances,Large Appliances,23:23:21,2024-07-18,7
+1018,136,Pantene Shampoo,399,Health and Beauty Products,Hair Care Products,23:47:19,2024-07-18,1
+1019,254,Nike T-shirt,1799,Clothing and Apparel,Men's Clothing,07:14:51,2024-07-18,9
+1020,183,Puma Shorts,1299,Clothing and Apparel,Men's Clothing,14:41:20,2024-07-18,17
+1021,594,The Great Gatsby,399,Books and Media,Fiction Books,06:00:43,2024-07-18,1
+1022,248,The Ordinary Serum,941.21,Health and Beauty Products,Skincare Products,05:30:43,2024-07-18,10
+1023,845,Bananas,50,Groceries and Food Items,Fresh Produce,07:05:32,2024-07-18,17
+1024,756,Forever 21 Skirt,2499,Clothing and Apparel,Women's Clothing,12:53:49,2024-07-18,3
+1025,478,Whirlpool Dryer,24990,Home and Kitchen Appliances,Large Appliances,22:47:19,2024-07-18,10
+1026,719,Monopoly,1499,Toys and Games,Board Games,08:06:38,2024-07-18,16
+1027,519,Adidas Soccer Jersey,2499,Sporting Goods and Outdoor Equipment,Sports Apparel,14:59:07,2024-07-18,6
+1028,754,Dumbbells,2999,Sporting Goods and Outdoor Equipment,Fitness Equipment,03:16:07,2024-07-18,12
+1029,866,Avengers: Endgame Blu-ray,799,Books and Media,Movies,05:23:02,2024-07-18,16
+1030,374,Oreo Cookies,159,Groceries and Food Items,Packaged Foods,20:26:30,2024-07-18,15
+1031,170,Levi's Jeans,2481.07,Clothing and Apparel,Men's Clothing,07:31:23,2024-07-18,7
+1032,550,Whirlpool Dryer,24990,Home and Kitchen Appliances,Large Appliances,07:46:53,2024-07-18,5
+1033,885,Pepsi,35,Groceries and Food Items,Beverages,23:30:19,2024-07-18,2
+1034,884,Old Navy Shorts,1199,Clothing and Apparel,Children's Clothing,09:02:36,2024-07-18,2
+1035,533,Apples,100,Groceries and Food Items,Fresh Produce,17:19:16,2024-07-18,1
+1036,166,Thule Roof Rack,15999,Automotive Parts and Accessories,Car Accessories,20:31:02,2024-07-18,14
+1037,380,VTech KidiZoom,2999,Toys and Games,Educational Toys,19:58:42,2024-07-18,5
+1038,906,Uniqlo Sweater,2563.03,Clothing and Apparel,Women's Clothing,20:26:53,2024-07-18,3
+1039,239,OshKosh B'gosh Overalls,1799,Clothing and Apparel,Children's Clothing,04:24:13,2024-07-18,11
+1040,762,Barilla Pasta,166.43,Groceries and Food Items,Packaged Foods,05:30:52,2024-07-18,6
+1041,897,Levi's Jeans,2999,Clothing and Apparel,Men's Clothing,03:29:37,2024-07-18,14
+1042,849,Melissa & Doug Puzzles,1499,Toys and Games,Educational Toys,02:13:33,2024-07-18,16
+1043,355,Broccoli,80,Groceries and Food Items,Fresh Produce,15:29:17,2024-07-18,12
+1044,902,Carrots,60,Groceries and Food Items,Fresh Produce,11:53:52,2024-07-18,13
+1045,603,Cetaphil Cleanser,662.83,Health and Beauty Products,Skincare Products,15:33:47,2024-07-18,16
+1046,51,Pepsi,35,Groceries and Food Items,Beverages,04:56:33,2024-07-18,9
+1047,73,Kellogg's Corn Flakes,299,Groceries and Food Items,Packaged Foods,18:43:26,2024-07-18,11
+1048,95,Resistance Bands,799,Sporting Goods and Outdoor Equipment,Fitness Equipment,17:58:35,2024-07-18,15
+1049,548,Instant Pot,11999,Home and Kitchen Appliances,Kitchen Gadgets,21:15:30,2024-07-18,7
+1050,737,The North Face Backpack,8999,Sporting Goods and Outdoor Equipment,Outdoor Gear,19:50:51,2024-07-18,13
+1051,496,1984,299,Books and Media,Fiction Books,08:49:23,2024-07-19,8
+1052,875,Avengers: Endgame Blu-ray,799,Books and Media,Movies,07:39:44,2024-07-19,4
+1053,511,Old Navy Shorts,1199,Clothing and Apparel,Children's Clothing,00:56:37,2024-07-19,5
+1054,449,Nike T-shirt,1799,Clothing and Apparel,Men's Clothing,20:14:25,2024-07-19,16
+1055,923,Vitamin C Tablets,399,Health and Beauty Products,Vitamins,19:52:42,2024-07-19,12
+1056,890,Ninja Blender,13999,Home and Kitchen Appliances,Kitchen Gadgets,11:04:19,2024-07-19,15
+1057,769,Monopoly,1499,Toys and Games,Board Games,18:06:21,2024-07-19,16
+1058,219,Dell XPS 13,129999,Electronics,Laptops,20:45:51,2024-07-19,6
+1059,747,Star Wars Darth Vader,1799,Toys and Games,Action Figures,23:29:53,2024-07-19,16
+1060,100,Barilla Pasta,199,Groceries and Food Items,Packaged Foods,13:07:56,2024-07-19,8
+1061,285,Vivo V21,28999,Electronics,Mobile Phones,22:53:02,2024-07-19,6
+1062,727,Adele - 25,644.16,Books and Media,Music CDs,12:27:10,2024-07-19,15
+1063,720,The Ordinary Serum,1099,Health and Beauty Products,Skincare Products,07:15:59,2024-07-19,17
+1064,869,Oreo Cookies,159,Groceries and Food Items,Packaged Foods,21:10:37,2024-07-19,3
+1065,310,Yeti Cooler,14999,Sporting Goods and Outdoor Equipment,Outdoor Gear,11:20:57,2024-07-19,2
+1066,324,Adidas Jacket,3499,Clothing and Apparel,Men's Clothing,20:43:04,2024-07-19,9
+1067,941,Gap Kids T-shirt,899,Clothing and Apparel,Children's Clothing,14:56:55,2024-07-19,6
+1068,330,Pantene Shampoo,399,Health and Beauty Products,Hair Care Products,16:07:07,2024-07-19,2
+1069,372,Whirlpool Dryer,24990,Home and Kitchen Appliances,Large Appliances,15:50:27,2024-07-19,9
+1070,399,Resistance Bands,799,Sporting Goods and Outdoor Equipment,Fitness Equipment,11:44:50,2024-07-19,5
+1071,304,Carter's Pajamas,1499,Clothing and Apparel,Children's Clothing,10:03:32,2024-07-19,17
+1072,582,H&M Blouse,1897.6,Clothing and Apparel,Women's Clothing,23:40:40,2024-07-19,6
+1073,332,Carrots,60,Groceries and Food Items,Fresh Produce,22:33:33,2024-07-19,14
+1074,195,Treadmill,89020.54,Sporting Goods and Outdoor Equipment,Fitness Equipment,18:02:30,2024-07-19,2
+1075,362,Frozen DVD,499,Books and Media,Movies,17:09:41,2024-07-19,3
+1076,346,Garmin GPS,21999,Automotive Parts and Accessories,Car Accessories,14:00:32,2024-07-19,7
+1077,746,Tresemme Hair Spray,240.25,Health and Beauty Products,Hair Care Products,22:38:06,2024-07-19,12
+1078,616,Canon EOS R5,289990,Electronics,Cameras,18:31:38,2024-07-19,18
+1079,323,Levi's Jeans,2999,Clothing and Apparel,Men's Clothing,13:13:40,2024-07-19,9
+1080,133,Old Navy Shorts,1199,Clothing and Apparel,Children's Clothing,03:54:18,2024-07-19,18
+1081,418,Tempur-Pedic Mattress,49990,Furniture and Home Décor,Bedroom Furniture,06:10:29,2024-07-19,7
+1082,543,Star Wars Darth Vader,1799,Toys and Games,Action Figures,17:27:40,2024-07-19,5
+1083,435,KitchenAid Mixer,21999,Home and Kitchen Appliances,Kitchen Gadgets,00:05:16,2024-07-19,9
+1084,481,Settlers of Catan,1999,Toys and Games,Board Games,20:26:40,2024-07-19,18
+1085,590,GI Joe Duke,1219.27,Toys and Games,Action Figures,18:07:21,2024-07-19,3
+1086,409,Carrots,56.26,Groceries and Food Items,Fresh Produce,13:04:20,2024-07-19,6
+1087,839,Resistance Bands,799,Sporting Goods and Outdoor Equipment,Fitness Equipment,20:10:29,2024-07-19,14
+1088,7,Carter's Pajamas,1499,Clothing and Apparel,Children's Clothing,15:18:12,2024-07-19,14
+1089,781,Tresemme Hair Spray,361.38,Health and Beauty Products,Hair Care Products,01:10:18,2024-07-19,2
+1090,183,Pantene Shampoo,338.25,Health and Beauty Products,Hair Care Products,13:08:01,2024-07-19,13
+1091,241,Avengers: Endgame Blu-ray,799,Books and Media,Movies,05:02:23,2024-07-19,5
+1092,201,Melissa & Doug Puzzles,1499,Toys and Games,Educational Toys,10:48:43,2024-07-19,18
+1093,288,Scrabble,1199,Toys and Games,Board Games,12:11:59,2024-07-19,17
+1094,915,H&M Blouse,3802.02,Clothing and Apparel,Women's Clothing,07:32:30,2024-07-19,4
+1095,490,Melissa & Doug Puzzles,1499,Toys and Games,Educational Toys,08:40:45,2024-07-19,8
+1096,519,LG Washing Machine,28309.12,Home and Kitchen Appliances,Large Appliances,14:59:17,2024-07-19,18
+1097,293,iPhone 12,98361.53,Electronics,Mobile Phones,01:30:55,2024-07-19,14
+1098,746,Kellogg's Corn Flakes,368.39,Groceries and Food Items,Packaged Foods,13:51:40,2024-07-19,16
+1099,20,L'Oreal Conditioner,399,Health and Beauty Products,Hair Care Products,07:21:51,2024-07-19,1
+1100,841,Kellogg's Corn Flakes,299,Groceries and Food Items,Packaged Foods,20:49:19,2024-07-19,7
+1101,916,Adidas Jacket,3499,Clothing and Apparel,Men's Clothing,09:54:51,2024-07-20,11
+1102,52,Coca-Cola,34.86,Groceries and Food Items,Beverages,07:24:13,2024-07-20,12
+1103,328,Harry Potter,522.17,Books and Media,Fiction Books,00:07:00,2024-07-20,1
+1104,932,Old Navy Shorts,1199,Clothing and Apparel,Children's Clothing,02:45:45,2024-07-20,14
+1105,809,L'Oreal Conditioner,583.04,Health and Beauty Products,Hair Care Products,22:28:59,2024-07-20,9
+1106,86,Taylor Swift - Evermore,799,Books and Media,Music CDs,11:18:15,2024-07-20,5
+1107,168,Adidas Soccer Jersey,2202.13,Sporting Goods and Outdoor Equipment,Sports Apparel,18:57:18,2024-07-20,12
+1108,546,ACDelco Battery,4999,Automotive Parts and Accessories,Car Parts,22:24:45,2024-07-20,3
+1109,439,Bananas,50,Groceries and Food Items,Fresh Produce,01:27:42,2024-07-20,6
+1110,771,Under Armour Sports Bra,1078.65,Sporting Goods and Outdoor Equipment,Sports Apparel,19:20:06,2024-07-20,10
+1111,241,Melissa & Doug Puzzles,1499,Toys and Games,Educational Toys,18:21:42,2024-07-20,4
+1112,81,Forever 21 Skirt,2499,Clothing and Apparel,Women's Clothing,20:59:29,2024-07-20,9
+1113,686,Target Vase,799,Furniture and Home Décor,Home Decor,00:06:45,2024-07-20,2
+1114,48,Oreo Cookies,159,Groceries and Food Items,Packaged Foods,14:11:36,2024-07-20,15
+1115,581,Instant Pot,11999,Home and Kitchen Appliances,Kitchen Gadgets,00:01:59,2024-07-20,11
+1116,119,GI Joe Duke,1299,Toys and Games,Action Figures,00:06:49,2024-07-20,5
+1117,651,VTech KidiZoom,2999,Toys and Games,Educational Toys,19:52:35,2024-07-20,3
+1118,141,LG Washing Machine,34227.78,Home and Kitchen Appliances,Large Appliances,07:32:50,2024-07-20,11
+1119,568,Bridgestone Tires,7999,Automotive Parts and Accessories,Motorcycle Parts,02:43:35,2024-07-20,12
+1120,253,Nikon Z6,161387.82,Electronics,Cameras,06:33:41,2024-07-20,17
+1121,644,The Beatles - Abbey Road,899,Books and Media,Music CDs,10:27:00,2024-07-20,12
+1122,369,Avengers: Endgame Blu-ray,799,Books and Media,Movies,11:51:33,2024-07-20,7
+1123,862,Yoga Mat,1499,Sporting Goods and Outdoor Equipment,Fitness Equipment,17:45:47,2024-07-20,3
+1124,343,Inception Blu-ray,699,Books and Media,Movies,13:08:51,2024-07-20,2
+1125,319,HP Spectre x360,114999,Electronics,Laptops,11:01:33,2024-07-20,7
+1126,283,Under Armour Sports Bra,1299,Sporting Goods and Outdoor Equipment,Sports Apparel,16:00:06,2024-07-20,9
+1127,391,Nike T-shirt,1441.37,Clothing and Apparel,Men's Clothing,01:05:37,2024-07-20,15
+1128,43,Ninja Blender,13999,Home and Kitchen Appliances,Kitchen Gadgets,08:09:09,2024-07-20,2
+1129,296,Broccoli,80,Groceries and Food Items,Fresh Produce,11:11:33,2024-07-20,9
+1130,685,LG Washing Machine,31990,Home and Kitchen Appliances,Large Appliances,16:24:17,2024-07-20,12
+1131,299,Carrots,60,Groceries and Food Items,Fresh Produce,12:28:11,2024-07-20,12
+1132,689,Risk,1499,Toys and Games,Board Games,06:08:39,2024-07-20,8
+1133,920,Dove Hair Mask,499,Health and Beauty Products,Hair Care Products,08:02:21,2024-07-20,4
+1134,199,Yeti Cooler,14999,Sporting Goods and Outdoor Equipment,Outdoor Gear,14:21:32,2024-07-20,17
+1135,118,Dumbbells,2999,Sporting Goods and Outdoor Equipment,Fitness Equipment,12:40:06,2024-07-20,3
+1136,237,Yeti Cooler,14999,Sporting Goods and Outdoor Equipment,Outdoor Gear,22:37:32,2024-07-20,8
+1137,604,Apples,100,Groceries and Food Items,Fresh Produce,14:04:25,2024-07-20,17
+1138,82,Ninja Blender,13999,Home and Kitchen Appliances,Kitchen Gadgets,09:49:08,2024-07-20,7
+1139,334,Oreo Cookies,159,Groceries and Food Items,Packaged Foods,15:33:58,2024-07-20,4
+1140,949,Coca-Cola,32.91,Groceries and Food Items,Beverages,12:12:31,2024-07-20,12
+1141,195,Uniqlo Sweater,2999,Clothing and Apparel,Women's Clothing,01:58:05,2024-07-20,16
+1142,120,Resistance Bands,799,Sporting Goods and Outdoor Equipment,Fitness Equipment,14:27:52,2024-07-20,17
+1143,661,Levi's Jeans,2999,Clothing and Apparel,Men's Clothing,02:06:59,2024-07-20,16
+1144,960,1984,299,Books and Media,Fiction Books,12:23:20,2024-07-20,17
+1145,175,The Godfather DVD,499,Books and Media,Movies,17:11:33,2024-07-20,13
+1146,221,H&M Blouse,1603.18,Clothing and Apparel,Women's Clothing,19:12:56,2024-07-20,1
+1147,694,Star Wars Darth Vader,1799,Toys and Games,Action Figures,07:48:58,2024-07-20,1
+1148,357,Pantene Shampoo,399,Health and Beauty Products,Hair Care Products,20:29:12,2024-07-20,9
+1149,570,The Godfather DVD,499,Books and Media,Movies,16:28:31,2024-07-20,15
+1150,469,Bridgestone Tires,6751.58,Automotive Parts and Accessories,Motorcycle Parts,13:08:23,2024-07-20,7
+1151,429,Old Navy Shorts,1968.8,Clothing and Apparel,Children's Clothing,06:26:41,2024-07-21,1
+1152,157,Scrabble,1199,Toys and Games,Board Games,15:08:27,2024-07-21,8
+1153,649,Garmin GPS,21999,Sporting Goods and Outdoor Equipment,Outdoor Gear,18:53:28,2024-07-21,18
+1154,967,Multivitamin Gummies,560.74,Health and Beauty Products,Vitamins,10:26:28,2024-07-21,9
+1155,528,VTech KidiZoom,2999,Toys and Games,Educational Toys,04:32:06,2024-07-21,4
+1156,925,LEGO Mindstorms,35947.2,Toys and Games,Educational Toys,20:38:15,2024-07-21,8
+1157,751,Cetaphil Cleanser,688.06,Health and Beauty Products,Skincare Products,10:53:41,2024-07-21,10
+1158,158,Lipton Tea,100,Groceries and Food Items,Beverages,22:41:30,2024-07-21,14
+1159,186,Pepsi,31.45,Groceries and Food Items,Beverages,14:05:56,2024-07-21,17
+1160,514,VTech KidiZoom,2999,Toys and Games,Educational Toys,00:46:52,2024-07-21,11
+1161,274,Adidas Soccer Jersey,2499,Sporting Goods and Outdoor Equipment,Sports Apparel,16:44:30,2024-07-21,18
+1162,945,Oreo Cookies,159,Groceries and Food Items,Packaged Foods,18:59:52,2024-07-21,6
+1163,530,Denso Oxygen Sensor,2999,Automotive Parts and Accessories,Car Parts,00:41:17,2024-07-21,3
+1164,681,Apples,100,Groceries and Food Items,Fresh Produce,01:05:49,2024-07-21,16
+1165,961,Nike T-shirt,1799,Clothing and Apparel,Men's Clothing,04:10:05,2024-07-21,14
+1166,599,Bissell Steam Mop,27506.44,Home and Kitchen Appliances,Cleaning Appliances,08:30:23,2024-07-21,9
+1167,878,Apples,100,Groceries and Food Items,Fresh Produce,03:17:44,2024-07-21,2
+1168,337,Apples,100,Groceries and Food Items,Fresh Produce,22:19:48,2024-07-21,11
+1169,801,Bananas,50,Groceries and Food Items,Fresh Produce,17:10:38,2024-07-21,3
+1170,507,The North Face Backpack,8999,Sporting Goods and Outdoor Equipment,Outdoor Gear,14:48:55,2024-07-21,3
+1171,615,Ashley Recliner,16999,Furniture and Home Décor,Living Room Furniture,14:06:00,2024-07-21,2
+1172,957,Nike Running Shoes,6641.61,Sporting Goods and Outdoor Equipment,Sports Apparel,15:40:53,2024-07-21,13
+1173,390,Omega-3 Fish Oil,899,Health and Beauty Products,Vitamins,00:19:17,2024-07-21,7
+1174,952,Omega-3 Fish Oil,1614.71,Health and Beauty Products,Vitamins,14:34:09,2024-07-21,9
+1175,432,Cetaphil Cleanser,799,Health and Beauty Products,Skincare Products,05:36:29,2024-07-21,18
+1176,74,The Beatles - Abbey Road,899,Books and Media,Music CDs,03:28:35,2024-07-21,15
+1177,615,Broccoli,80,Groceries and Food Items,Fresh Produce,17:58:05,2024-07-21,17
+1178,614,Lays Potato Chips,99,Groceries and Food Items,Packaged Foods,23:22:09,2024-07-21,14
+1179,781,Settlers of Catan,1999,Toys and Games,Board Games,16:43:28,2024-07-21,12
+1180,800,Broccoli,150.57,Groceries and Food Items,Fresh Produce,18:20:28,2024-07-21,15
+1181,206,Risk,1499,Toys and Games,Board Games,23:21:40,2024-07-21,17
+1182,132,L'Oreal Conditioner,399,Health and Beauty Products,Hair Care Products,22:28:14,2024-07-21,18
+1183,989,Samsung Refrigerator,103749.43,Home and Kitchen Appliances,Large Appliances,06:37:20,2024-07-21,4
+1184,205,Nike T-shirt,1799,Clothing and Apparel,Men's Clothing,21:19:05,2024-07-21,1
+1185,126,Oreo Cookies,159,Groceries and Food Items,Packaged Foods,12:06:57,2024-07-21,9
+1186,776,Beyonce - Lemonade,899,Books and Media,Music CDs,05:42:39,2024-07-21,4
+1187,169,Coleman Tent,11454.78,Sporting Goods and Outdoor Equipment,Outdoor Gear,06:20:27,2024-07-21,2
+1188,698,L'Oreal Conditioner,496.25,Health and Beauty Products,Hair Care Products,20:50:58,2024-07-21,1
+1189,956,Uniqlo Sweater,2999,Clothing and Apparel,Women's Clothing,09:24:07,2024-07-21,3
+1190,897,Treadmill,49999,Sporting Goods and Outdoor Equipment,Fitness Equipment,16:17:11,2024-07-21,5
+1191,982,Samsung Refrigerator,54990,Home and Kitchen Appliances,Large Appliances,21:39:34,2024-07-21,7
+1192,997,GI Joe Duke,1299,Toys and Games,Action Figures,21:02:22,2024-07-21,18
+1193,904,Cetaphil Cleanser,799,Health and Beauty Products,Skincare Products,05:53:06,2024-07-21,10
+1194,543,Zara Dress,4399.25,Clothing and Apparel,Women's Clothing,00:03:07,2024-07-21,15
+1195,659,Carter's Pajamas,1259.21,Clothing and Apparel,Children's Clothing,12:01:25,2024-07-21,5
+1196,400,The Ordinary Serum,1099,Health and Beauty Products,Skincare Products,02:40:31,2024-07-21,8
+1197,860,WeatherTech Floor Mats,8900.99,Automotive Parts and Accessories,Car Accessories,21:54:17,2024-07-21,2
+1198,696,Pepsi,35,Groceries and Food Items,Beverages,16:20:21,2024-07-21,5
+1199,684,L'Oreal Conditioner,399,Health and Beauty Products,Hair Care Products,16:59:24,2024-07-21,15
+1200,152,Ikea Sofa,25999,Furniture and Home Décor,Living Room Furniture,13:38:32,2024-07-21,16
+1201,668,Target Vase,671.52,Furniture and Home Décor,Home Decor,19:49:03,2024-07-22,1
+1202,13,Bosch Spark Plugs,499,Automotive Parts and Accessories,Car Parts,07:58:43,2024-07-22,4
+1203,270,Cetaphil Cleanser,799,Health and Beauty Products,Skincare Products,15:33:45,2024-07-22,16
+1204,865,Inception Blu-ray,699,Books and Media,Movies,08:44:01,2024-07-22,2
+1205,518,Olay Moisturizer,699,Health and Beauty Products,Skincare Products,13:09:14,2024-07-22,4
+1206,218,Forever 21 Skirt,2499,Clothing and Apparel,Women's Clothing,20:54:47,2024-07-22,2
+1207,272,Dove Hair Mask,499,Health and Beauty Products,Hair Care Products,21:21:41,2024-07-22,16
+1208,748,Apples,91.43,Groceries and Food Items,Fresh Produce,05:34:45,2024-07-22,8
+1209,612,Taylor Swift - Evermore,799,Books and Media,Music CDs,23:54:16,2024-07-22,13
+1210,72,Risk,1499,Toys and Games,Board Games,07:53:34,2024-07-22,3
+1211,614,Thule Roof Rack,15999,Automotive Parts and Accessories,Car Accessories,06:55:27,2024-07-22,7
+1212,353,Lays Potato Chips,99,Groceries and Food Items,Packaged Foods,04:16:06,2024-07-22,15
+1213,171,Cetaphil Cleanser,799,Health and Beauty Products,Skincare Products,11:21:35,2024-07-22,14
+1214,684,Lays Potato Chips,90.48,Groceries and Food Items,Packaged Foods,12:36:07,2024-07-22,3
+1215,681,Oreo Cookies,159,Groceries and Food Items,Packaged Foods,19:53:52,2024-07-22,11
+1216,985,Carter's Pajamas,1499,Clothing and Apparel,Children's Clothing,22:34:26,2024-07-22,8
+1217,788,Frozen DVD,499,Books and Media,Movies,21:31:22,2024-07-22,1
+1218,687,Nike T-shirt,1799,Clothing and Apparel,Men's Clothing,11:12:35,2024-07-22,1
+1219,827,Resistance Bands,799,Sporting Goods and Outdoor Equipment,Fitness Equipment,23:40:45,2024-07-22,12
+1220,902,Samsung Refrigerator,54990,Home and Kitchen Appliances,Large Appliances,17:29:10,2024-07-22,6
+1221,353,Lipton Tea,100,Groceries and Food Items,Beverages,11:52:21,2024-07-22,8
+1222,349,Zara Dress,4999,Clothing and Apparel,Women's Clothing,17:57:59,2024-07-22,14
+1223,602,Forever 21 Skirt,3224.26,Clothing and Apparel,Women's Clothing,16:52:03,2024-07-22,15
+1224,376,Uniqlo Sweater,2999,Clothing and Apparel,Women's Clothing,13:06:04,2024-07-22,6
+1225,177,Bissell Steam Mop,13999,Home and Kitchen Appliances,Cleaning Appliances,02:34:10,2024-07-22,18
+1226,500,Fujifilm X-T4,265180.72,Electronics,Cameras,12:28:25,2024-07-22,16
+1227,459,The Great Gatsby,733.5,Books and Media,Fiction Books,12:44:26,2024-07-22,11
+1228,987,OshKosh B'gosh Overalls,1799,Clothing and Apparel,Children's Clothing,14:21:17,2024-07-22,14
+1229,266,iPhone 12,54842.75,Electronics,Mobile Phones,17:31:43,2024-07-22,7
+1230,114,Pepsi,35,Groceries and Food Items,Beverages,17:03:45,2024-07-22,5
+1231,143,Adidas Jacket,3499,Clothing and Apparel,Men's Clothing,03:47:55,2024-07-22,14
+1232,807,Yoshimura Exhaust,21999,Automotive Parts and Accessories,Motorcycle Parts,16:16:50,2024-07-22,5
+1233,629,Omega-3 Fish Oil,899,Health and Beauty Products,Vitamins,08:03:54,2024-07-22,7
+1234,321,Bosch Spark Plugs,468.13,Automotive Parts and Accessories,Car Parts,13:15:14,2024-07-22,18
+1235,947,Cuisinart Food Processor,16999,Home and Kitchen Appliances,Kitchen Gadgets,21:36:23,2024-07-22,1
+1236,87,The Beatles - Abbey Road,1297.64,Books and Media,Music CDs,00:31:50,2024-07-22,6
+1237,968,Carrots,60,Groceries and Food Items,Fresh Produce,04:20:18,2024-07-22,6
+1238,490,LEGO Mindstorms,59320.82,Toys and Games,Educational Toys,10:16:57,2024-07-22,15
+1239,284,LEGO Mindstorms,35999,Toys and Games,Educational Toys,10:56:26,2024-07-22,2
+1240,595,The North Face Backpack,8999,Sporting Goods and Outdoor Equipment,Outdoor Gear,20:11:18,2024-07-22,3
+1241,238,Zara Dress,4999,Clothing and Apparel,Women's Clothing,12:27:53,2024-07-22,18
+1242,377,Adele - 25,1467.18,Books and Media,Music CDs,20:23:07,2024-07-22,10
+1243,787,Lenovo ThinkPad X1,139990,Electronics,Laptops,10:14:42,2024-07-22,10
+1244,23,Coleman Tent,12999,Sporting Goods and Outdoor Equipment,Outdoor Gear,20:57:45,2024-07-22,3
+1245,992,HP Spectre x360,179524.1,Electronics,Laptops,23:14:56,2024-07-22,15
+1246,908,Cetaphil Cleanser,799,Health and Beauty Products,Skincare Products,03:58:10,2024-07-22,2
+1247,624,Dell XPS 13,129999,Electronics,Laptops,10:58:42,2024-07-22,1
+1248,560,Neutrogena Face Wash,466.4,Health and Beauty Products,Skincare Products,20:23:41,2024-07-22,11
+1249,42,Gap Kids T-shirt,899,Clothing and Apparel,Children's Clothing,22:04:09,2024-07-22,17
+1250,226,Broccoli,67.11,Groceries and Food Items,Fresh Produce,01:43:00,2024-07-22,18
+1251,561,Puma Track Pants,1799,Sporting Goods and Outdoor Equipment,Sports Apparel,17:07:54,2024-07-23,3
+1252,205,Old Navy Shorts,1052.35,Clothing and Apparel,Children's Clothing,01:59:06,2024-07-23,11
+1253,59,Levi's Jeans,2727.08,Clothing and Apparel,Men's Clothing,21:53:10,2024-07-23,14
+1254,738,Oreo Cookies,159,Groceries and Food Items,Packaged Foods,10:02:57,2024-07-23,10
+1255,795,NGK Spark Plugs,799,Automotive Parts and Accessories,Motorcycle Parts,06:15:55,2024-07-23,1
+1256,783,Bosch Dishwasher,68553.95,Home and Kitchen Appliances,Large Appliances,15:13:48,2024-07-23,16
+1257,586,Adele - 25,799,Books and Media,Music CDs,08:00:13,2024-07-23,3
+1258,551,Omega-3 Fish Oil,899,Health and Beauty Products,Vitamins,08:41:27,2024-07-23,11
+1259,348,Coleman Tent,12999,Sporting Goods and Outdoor Equipment,Outdoor Gear,15:37:41,2024-07-23,4
+1260,793,Melissa & Doug Puzzles,1499,Toys and Games,Educational Toys,19:13:14,2024-07-23,16
+1261,771,Carrots,96.63,Groceries and Food Items,Fresh Produce,07:55:50,2024-07-23,1
+1262,689,Pepsi,35,Groceries and Food Items,Beverages,06:50:20,2024-07-23,3
+1263,919,Forever 21 Skirt,2499,Clothing and Apparel,Women's Clothing,05:25:25,2024-07-23,15
+1264,825,Yoga Mat,1499,Sporting Goods and Outdoor Equipment,Fitness Equipment,01:06:53,2024-07-23,8
+1265,194,Old Navy Shorts,2071.44,Clothing and Apparel,Children's Clothing,05:43:24,2024-07-23,11
+1266,294,1984,299,Books and Media,Fiction Books,02:07:30,2024-07-23,3
+1267,972,LG Washing Machine,31990,Home and Kitchen Appliances,Large Appliances,23:21:42,2024-07-23,18
+1268,376,Lays Potato Chips,99,Groceries and Food Items,Packaged Foods,16:18:38,2024-07-23,10
+1269,186,Tresemme Hair Spray,299,Health and Beauty Products,Hair Care Products,04:09:17,2024-07-23,18
+1270,49,Puma Shorts,1299,Clothing and Apparel,Men's Clothing,19:07:54,2024-07-23,12
+1271,95,Carter's Pajamas,1499,Clothing and Apparel,Children's Clothing,23:44:03,2024-07-23,17
+1272,400,Barilla Pasta,199,Groceries and Food Items,Packaged Foods,07:38:24,2024-07-23,10
+1273,381,Old Navy Shorts,2323.36,Clothing and Apparel,Children's Clothing,21:27:03,2024-07-23,11
+1274,500,Coleman Tent,19240.76,Sporting Goods and Outdoor Equipment,Outdoor Gear,07:58:18,2024-07-23,7
+1275,358,Bananas,62.91,Groceries and Food Items,Fresh Produce,08:54:09,2024-07-23,9
+1276,146,Dove Hair Mask,473.72,Health and Beauty Products,Hair Care Products,05:18:40,2024-07-23,3
+1277,725,OshKosh B'gosh Overalls,1799,Clothing and Apparel,Children's Clothing,01:29:31,2024-07-23,2
+1278,735,KitchenAid Mixer,21999,Home and Kitchen Appliances,Kitchen Gadgets,11:01:00,2024-07-23,4
+1279,704,Fisher-Price Learning Table,3499,Toys and Games,Educational Toys,13:08:12,2024-07-23,2
+1280,350,Inception Blu-ray,699,Books and Media,Movies,18:12:59,2024-07-23,16
+1281,817,Puma Track Pants,2960.12,Sporting Goods and Outdoor Equipment,Sports Apparel,20:31:56,2024-07-23,18
+1282,645,Kellogg's Corn Flakes,245.68,Groceries and Food Items,Packaged Foods,03:26:21,2024-07-23,6
+1283,215,Gap Kids T-shirt,899,Clothing and Apparel,Children's Clothing,13:33:38,2024-07-23,1
+1284,144,Old Navy Shorts,1199,Clothing and Apparel,Children's Clothing,23:46:58,2024-07-23,12
+1285,759,Coleman Tent,12999,Sporting Goods and Outdoor Equipment,Outdoor Gear,13:51:21,2024-07-23,12
+1286,549,Risk,1499,Toys and Games,Board Games,07:51:39,2024-07-23,10
+1287,719,Forever 21 Skirt,2499,Clothing and Apparel,Women's Clothing,08:59:54,2024-07-23,3
+1288,867,Ninja Blender,13999,Home and Kitchen Appliances,Kitchen Gadgets,05:07:17,2024-07-23,9
+1289,790,L'Oreal Conditioner,399,Health and Beauty Products,Hair Care Products,06:23:38,2024-07-23,15
+1290,873,Levi's Jeans,2999,Clothing and Apparel,Men's Clothing,18:03:26,2024-07-23,9
+1291,162,OshKosh B'gosh Overalls,1799,Clothing and Apparel,Children's Clothing,01:18:41,2024-07-23,4
+1292,777,Barilla Pasta,199,Groceries and Food Items,Packaged Foods,13:52:25,2024-07-23,4
+1293,194,Starbucks Coffee,250,Groceries and Food Items,Beverages,08:21:08,2024-07-23,11
+1294,589,Kellogg's Corn Flakes,299,Groceries and Food Items,Packaged Foods,14:00:39,2024-07-23,12
+1295,681,Yeti Cooler,14999,Sporting Goods and Outdoor Equipment,Outdoor Gear,02:44:35,2024-07-23,6
+1296,418,Vitamin C Tablets,399,Health and Beauty Products,Vitamins,16:42:09,2024-07-23,8
+1297,403,Pottery Barn Bed Frame,34999,Furniture and Home Décor,Bedroom Furniture,14:09:51,2024-07-23,16
+1298,251,KitchenAid Mixer,21999,Home and Kitchen Appliances,Kitchen Gadgets,20:13:07,2024-07-23,16
+1299,163,Nikon Z6,157044.99,Electronics,Cameras,13:12:41,2024-07-23,11
+1300,915,Zara Dress,4999,Clothing and Apparel,Women's Clothing,04:00:56,2024-07-23,16
+1301,832,Nike Running Shoes,6999,Sporting Goods and Outdoor Equipment,Sports Apparel,16:53:36,2024-07-24,7
+1302,730,Star Wars Darth Vader,1799,Toys and Games,Action Figures,16:54:59,2024-07-24,13
+1303,815,WeatherTech Floor Mats,9999,Automotive Parts and Accessories,Car Accessories,00:08:41,2024-07-24,15
+1304,198,Samsung Refrigerator,54990,Home and Kitchen Appliances,Large Appliances,05:26:25,2024-07-24,16
+1305,678,Cuisinart Food Processor,16999,Home and Kitchen Appliances,Kitchen Gadgets,08:32:41,2024-07-24,11
+1306,51,Carter's Pajamas,1215.75,Clothing and Apparel,Children's Clothing,05:08:07,2024-07-24,8
+1307,160,Olay Moisturizer,699,Health and Beauty Products,Skincare Products,16:48:46,2024-07-24,10
+1308,111,Kellogg's Corn Flakes,501.05,Groceries and Food Items,Packaged Foods,06:35:17,2024-07-24,7
+1309,864,Melissa & Doug Puzzles,1499,Toys and Games,Educational Toys,07:25:13,2024-07-24,11
+1310,789,Calcium Supplements,499,Health and Beauty Products,Vitamins,08:20:29,2024-07-24,1
+1311,985,Uniqlo Sweater,2999,Clothing and Apparel,Women's Clothing,10:46:37,2024-07-24,2
+1312,127,Ikea Sofa,25999,Furniture and Home Décor,Living Room Furniture,04:44:00,2024-07-24,15
+1313,801,Nike Running Shoes,12260.62,Sporting Goods and Outdoor Equipment,Sports Apparel,22:55:31,2024-07-24,18
+1314,491,Nike Running Shoes,6999,Sporting Goods and Outdoor Equipment,Sports Apparel,00:55:20,2024-07-24,9
+1315,301,Monopoly,1499,Toys and Games,Board Games,08:42:11,2024-07-24,18
+1316,570,Bissell Steam Mop,13999,Home and Kitchen Appliances,Cleaning Appliances,10:53:57,2024-07-24,9
+1317,342,Old Navy Shorts,1199,Clothing and Apparel,Children's Clothing,08:58:11,2024-07-24,6
+1318,989,LEGO Mindstorms,35999,Toys and Games,Educational Toys,12:03:12,2024-07-24,2
+1319,953,Starbucks Coffee,250,Groceries and Food Items,Beverages,07:09:34,2024-07-24,8
+1320,465,Shark Upright Vacuum,24999,Home and Kitchen Appliances,Cleaning Appliances,19:30:37,2024-07-24,18
+1321,262,Beyonce - Lemonade,899,Books and Media,Music CDs,16:03:11,2024-07-24,12
+1322,467,Zara Dress,4999,Clothing and Apparel,Women's Clothing,20:40:22,2024-07-24,4
+1323,986,Starbucks Coffee,250,Groceries and Food Items,Beverages,03:56:04,2024-07-24,13
+1324,297,The Great Gatsby,399,Books and Media,Fiction Books,11:37:57,2024-07-24,14
+1325,627,Old Navy Shorts,1199,Clothing and Apparel,Children's Clothing,22:07:28,2024-07-24,13
+1326,164,Lays Potato Chips,99,Groceries and Food Items,Packaged Foods,23:07:53,2024-07-24,16
+1327,643,Tresemme Hair Spray,299,Health and Beauty Products,Hair Care Products,18:17:02,2024-07-24,1
+1328,398,MacBook Air,85821.29,Electronics,Laptops,06:46:45,2024-07-24,9
+1329,79,Garmin GPS,19787.05,Automotive Parts and Accessories,Car Accessories,16:00:54,2024-07-24,11
+1330,210,Marvel Legends Spider-Man,1499,Toys and Games,Action Figures,22:11:11,2024-07-24,4
+1331,287,Calcium Supplements,499,Health and Beauty Products,Vitamins,18:14:08,2024-07-24,17
+1332,437,Harry Potter,599,Books and Media,Fiction Books,08:13:36,2024-07-24,12
+1333,454,Thule Roof Rack,15999,Automotive Parts and Accessories,Car Accessories,22:57:31,2024-07-24,9
+1334,59,KitchenAid Mixer,21999,Home and Kitchen Appliances,Kitchen Gadgets,20:14:25,2024-07-24,17
+1335,672,Nike Running Shoes,6999,Sporting Goods and Outdoor Equipment,Sports Apparel,11:04:30,2024-07-24,2
+1336,953,Fisher-Price Learning Table,3499,Toys and Games,Educational Toys,14:08:48,2024-07-24,18
+1337,840,Yoga Mat,1499,Sporting Goods and Outdoor Equipment,Fitness Equipment,18:55:48,2024-07-24,5
+1338,445,Adidas Jacket,3174.21,Clothing and Apparel,Men's Clothing,07:36:05,2024-07-24,15
+1339,629,Nike Running Shoes,6999,Sporting Goods and Outdoor Equipment,Sports Apparel,17:22:52,2024-07-24,12
+1340,910,Dove Hair Mask,499,Health and Beauty Products,Hair Care Products,09:23:14,2024-07-24,15
+1341,302,H&M Blouse,1999,Clothing and Apparel,Women's Clothing,16:41:54,2024-07-24,6
+1342,912,Lipton Tea,100,Groceries and Food Items,Beverages,16:00:57,2024-07-24,17
+1343,761,Adidas Jacket,3222.56,Clothing and Apparel,Men's Clothing,23:40:58,2024-07-24,11
+1344,514,Puma Shorts,1730.71,Clothing and Apparel,Men's Clothing,00:11:20,2024-07-24,5
+1345,108,Calcium Supplements,499,Health and Beauty Products,Vitamins,21:36:03,2024-07-24,17
+1346,600,Lipton Tea,137.8,Groceries and Food Items,Beverages,03:07:31,2024-07-24,11
+1347,24,L'Oreal Conditioner,399,Health and Beauty Products,Hair Care Products,22:40:14,2024-07-24,5
+1348,138,Pepsi,35,Groceries and Food Items,Beverages,19:37:40,2024-07-24,1
+1349,223,Pepsi,35,Groceries and Food Items,Beverages,07:16:35,2024-07-24,1
+1350,96,Vitamin C Tablets,399,Health and Beauty Products,Vitamins,19:18:59,2024-07-24,10
+1351,176,Bananas,50,Groceries and Food Items,Fresh Produce,09:43:39,2024-07-25,9
+1352,276,Apples,100,Groceries and Food Items,Fresh Produce,07:16:15,2024-07-25,3
+1353,37,Nike T-shirt,1799,Clothing and Apparel,Men's Clothing,07:55:32,2024-07-25,1
+1354,348,Instant Pot,17226.69,Home and Kitchen Appliances,Kitchen Gadgets,07:01:29,2024-07-25,16
+1355,511,Michelin Tires,6999,Automotive Parts and Accessories,Car Parts,12:18:01,2024-07-25,17
+1356,998,Omega-3 Fish Oil,899,Health and Beauty Products,Vitamins,23:11:20,2024-07-25,7
+1357,475,Pantene Shampoo,626.3,Health and Beauty Products,Hair Care Products,11:00:03,2024-07-25,7
+1358,557,Gap Kids T-shirt,899,Clothing and Apparel,Children's Clothing,10:14:42,2024-07-25,10
+1359,690,Adidas Soccer Jersey,2499,Sporting Goods and Outdoor Equipment,Sports Apparel,18:29:51,2024-07-25,14
+1360,934,LEGO Mindstorms,35999,Toys and Games,Educational Toys,05:56:02,2024-07-25,7
+1361,51,Samsung Galaxy S21,69999,Electronics,Mobile Phones,15:53:21,2024-07-25,4
+1362,185,Whirlpool Dryer,24990,Home and Kitchen Appliances,Large Appliances,23:46:23,2024-07-25,5
+1363,869,OshKosh B'gosh Overalls,1799,Clothing and Apparel,Children's Clothing,05:31:51,2024-07-25,5
+1364,112,Settlers of Catan,1999,Toys and Games,Board Games,19:09:12,2024-07-25,3
+1365,110,Lipton Tea,87.27,Groceries and Food Items,Beverages,19:52:49,2024-07-25,7
+1366,196,Lipton Tea,100,Groceries and Food Items,Beverages,13:07:11,2024-07-25,10
+1367,398,Sony Alpha a7 III,199990,Electronics,Cameras,12:59:55,2024-07-25,9
+1368,285,Harry Potter,599,Books and Media,Fiction Books,03:21:07,2024-07-25,5
+1369,503,Adidas Jacket,6051.44,Clothing and Apparel,Men's Clothing,08:42:07,2024-07-25,9
+1370,714,Bissell Steam Mop,12254.39,Home and Kitchen Appliances,Cleaning Appliances,14:03:25,2024-07-25,14
+1371,256,Adidas Jacket,3499,Clothing and Apparel,Men's Clothing,14:57:30,2024-07-25,4
+1372,485,Multivitamin Gummies,699,Health and Beauty Products,Vitamins,12:54:29,2024-07-25,10
+1373,289,Nikon Z6,189990,Electronics,Cameras,00:46:46,2024-07-25,2
+1374,870,Pepsi,35,Groceries and Food Items,Beverages,20:12:07,2024-07-25,2
+1375,670,Urban Outfitters Wall Art,2499,Furniture and Home Décor,Home Decor,00:45:50,2024-07-25,14
+1376,22,Lipton Tea,87.82,Groceries and Food Items,Beverages,21:07:28,2024-07-25,4
+1377,757,Zara Dress,4000.09,Clothing and Apparel,Women's Clothing,02:52:38,2024-07-25,14
+1378,539,Crate & Barrel Dresser,19330.17,Furniture and Home Décor,Bedroom Furniture,00:45:55,2024-07-25,14
+1379,48,Vitamin C Tablets,399,Health and Beauty Products,Vitamins,13:38:41,2024-07-25,15
+1380,606,OshKosh B'gosh Overalls,1799,Clothing and Apparel,Children's Clothing,20:08:50,2024-07-25,18
+1381,532,Ninja Blender,13999,Home and Kitchen Appliances,Kitchen Gadgets,17:41:46,2024-07-25,16
+1382,289,Gap Kids T-shirt,899,Clothing and Apparel,Children's Clothing,12:40:53,2024-07-25,4
+1383,779,Calcium Supplements,499,Health and Beauty Products,Vitamins,21:15:33,2024-07-25,14
+1384,842,Levi's Jeans,2999,Clothing and Apparel,Men's Clothing,02:54:14,2024-07-25,12
+1385,838,Coleman Tent,22187.01,Sporting Goods and Outdoor Equipment,Outdoor Gear,13:23:48,2024-07-25,14
+1386,610,Tresemme Hair Spray,299,Health and Beauty Products,Hair Care Products,15:05:01,2024-07-25,14
+1387,605,Cetaphil Cleanser,676.91,Health and Beauty Products,Skincare Products,00:21:22,2024-07-25,8
+1388,142,Roomba Robot Vacuum,29999,Home and Kitchen Appliances,Cleaning Appliances,08:52:39,2024-07-25,17
+1389,920,Star Wars Darth Vader,1799,Toys and Games,Action Figures,09:18:11,2024-07-25,11
+1390,335,Harry Potter,599,Books and Media,Fiction Books,15:38:42,2024-07-25,18
+1391,14,Tempur-Pedic Mattress,43435.8,Furniture and Home Décor,Bedroom Furniture,15:43:53,2024-07-25,1
+1392,291,HP Spectre x360,114999,Electronics,Laptops,17:55:34,2024-07-25,8
+1393,704,Levi's Jeans,2999,Clothing and Apparel,Men's Clothing,01:35:21,2024-07-25,10
+1394,998,Bananas,43.7,Groceries and Food Items,Fresh Produce,12:14:23,2024-07-25,1
+1395,550,Dove Hair Mask,499,Health and Beauty Products,Hair Care Products,04:02:23,2024-07-25,16
+1396,194,Scrabble,2160.21,Toys and Games,Board Games,20:57:43,2024-07-25,11
+1397,66,Multivitamin Gummies,699,Health and Beauty Products,Vitamins,01:43:58,2024-07-25,8
+1398,915,Nike T-shirt,1799,Clothing and Apparel,Men's Clothing,05:49:08,2024-07-25,1
+1399,233,Bissell Steam Mop,13999,Home and Kitchen Appliances,Cleaning Appliances,20:49:22,2024-07-25,15
+1400,212,To Kill a Mockingbird,349,Books and Media,Fiction Books,14:54:04,2024-07-25,13
+1401,933,Oreo Cookies,159,Groceries and Food Items,Packaged Foods,13:55:04,2024-07-26,5
+1402,151,Sony Alpha a7 III,199990,Electronics,Cameras,10:10:42,2024-07-26,1
+1403,328,Neutrogena Face Wash,499,Health and Beauty Products,Skincare Products,23:39:53,2024-07-26,7
+1404,370,Star Wars Darth Vader,1636.95,Toys and Games,Action Figures,21:09:47,2024-07-26,7
+1405,338,Scrabble,1730.86,Toys and Games,Board Games,21:12:20,2024-07-26,13
+1406,998,Samsung Refrigerator,54990,Home and Kitchen Appliances,Large Appliances,13:58:55,2024-07-26,6
+1407,221,Zara Dress,4999,Clothing and Apparel,Women's Clothing,23:17:13,2024-07-26,17
+1408,735,Forever 21 Skirt,2499,Clothing and Apparel,Women's Clothing,23:30:49,2024-07-26,14
+1409,360,Under Armour Sports Bra,1299,Sporting Goods and Outdoor Equipment,Sports Apparel,00:25:02,2024-07-26,7
+1410,423,Forever 21 Skirt,2499,Clothing and Apparel,Women's Clothing,09:15:34,2024-07-26,8
+1411,642,Nike Running Shoes,6999,Sporting Goods and Outdoor Equipment,Sports Apparel,06:53:02,2024-07-26,1
+1412,958,OnePlus 9,49999,Electronics,Mobile Phones,00:32:48,2024-07-26,9
+1413,270,Gap Kids T-shirt,899,Clothing and Apparel,Children's Clothing,19:01:25,2024-07-26,8
+1414,116,Vitamin C Tablets,335.63,Health and Beauty Products,Vitamins,21:12:38,2024-07-26,16
+1415,293,Yoga Mat,1499,Sporting Goods and Outdoor Equipment,Fitness Equipment,19:55:26,2024-07-26,4
+1416,13,Oreo Cookies,142.33,Groceries and Food Items,Packaged Foods,17:41:19,2024-07-26,7
+1417,242,Sony Alpha a7 III,199990,Electronics,Cameras,22:13:23,2024-07-26,3
+1418,375,Starbucks Coffee,229.23,Groceries and Food Items,Beverages,23:53:33,2024-07-26,17
+1419,939,Nike Running Shoes,6999,Sporting Goods and Outdoor Equipment,Sports Apparel,17:33:42,2024-07-26,6
+1420,501,Dumbbells,2999,Sporting Goods and Outdoor Equipment,Fitness Equipment,19:39:20,2024-07-26,2
+1421,31,Tresemme Hair Spray,299,Health and Beauty Products,Hair Care Products,01:13:04,2024-07-26,15
+1422,302,MacBook Air,92990,Electronics,Laptops,20:22:27,2024-07-26,5
+1423,858,Forever 21 Skirt,2499,Clothing and Apparel,Women's Clothing,21:34:21,2024-07-26,15
+1424,369,Thule Roof Rack,15999,Automotive Parts and Accessories,Car Accessories,15:19:46,2024-07-26,2
+1425,819,Dove Hair Mask,499,Health and Beauty Products,Hair Care Products,05:21:56,2024-07-26,16
+1426,894,Star Wars Darth Vader,1799,Toys and Games,Action Figures,13:05:42,2024-07-26,11
+1427,237,Yeti Cooler,14999,Sporting Goods and Outdoor Equipment,Outdoor Gear,20:11:15,2024-07-26,12
+1428,103,Ikea Sofa,25999,Furniture and Home Décor,Living Room Furniture,08:49:15,2024-07-26,14
+1429,762,Pepsi,35,Groceries and Food Items,Beverages,08:16:41,2024-07-26,12
+1430,222,Melissa & Doug Puzzles,1499,Toys and Games,Educational Toys,05:30:22,2024-07-26,6
+1431,54,Pantene Shampoo,484.08,Health and Beauty Products,Hair Care Products,23:39:20,2024-07-26,1
+1432,765,Pottery Barn Bed Frame,34999,Furniture and Home Décor,Bedroom Furniture,20:05:52,2024-07-26,7
+1433,610,Calcium Supplements,499,Health and Beauty Products,Vitamins,08:14:49,2024-07-26,18
+1434,247,Calcium Supplements,499,Health and Beauty Products,Vitamins,09:40:16,2024-07-26,8
+1435,834,Dyson Vacuum,34999,Home and Kitchen Appliances,Cleaning Appliances,19:40:06,2024-07-26,9
+1436,839,The North Face Backpack,8999,Sporting Goods and Outdoor Equipment,Outdoor Gear,21:48:41,2024-07-26,13
+1437,547,OshKosh B'gosh Overalls,1799,Clothing and Apparel,Children's Clothing,02:51:14,2024-07-26,11
+1438,582,Ninja Blender,13999,Home and Kitchen Appliances,Kitchen Gadgets,08:05:13,2024-07-26,15
+1439,445,Bananas,43.67,Groceries and Food Items,Fresh Produce,07:46:26,2024-07-26,13
+1440,971,Tresemme Hair Spray,269.33,Health and Beauty Products,Hair Care Products,21:27:54,2024-07-26,11
+1441,655,Resistance Bands,799,Sporting Goods and Outdoor Equipment,Fitness Equipment,12:39:37,2024-07-26,7
+1442,550,Oreo Cookies,159,Groceries and Food Items,Packaged Foods,21:42:50,2024-07-26,4
+1443,780,Vitamin C Tablets,399,Health and Beauty Products,Vitamins,14:21:41,2024-07-26,18
+1444,356,Dell XPS 13,129999,Electronics,Laptops,10:06:23,2024-07-26,14
+1445,160,Carter's Pajamas,2089.64,Clothing and Apparel,Children's Clothing,11:26:18,2024-07-26,13
+1446,26,Resistance Bands,799,Sporting Goods and Outdoor Equipment,Fitness Equipment,21:00:05,2024-07-26,17
+1447,271,Nike T-shirt,1799,Clothing and Apparel,Men's Clothing,16:01:15,2024-07-26,17
+1448,51,OshKosh B'gosh Overalls,1799,Clothing and Apparel,Children's Clothing,17:46:15,2024-07-26,17
+1449,564,Carter's Pajamas,1499,Clothing and Apparel,Children's Clothing,21:13:44,2024-07-26,10
+1450,619,Fujifilm X-T4,169990,Electronics,Cameras,15:01:11,2024-07-26,13
+1451,633,The Godfather DVD,499,Books and Media,Movies,03:24:44,2024-07-27,9
+1452,420,Oreo Cookies,159,Groceries and Food Items,Packaged Foods,17:42:16,2024-07-27,7
+1453,972,La-Z-Boy Armchair,18999,Furniture and Home Décor,Living Room Furniture,17:40:40,2024-07-27,14
+1454,223,Pantene Shampoo,399,Health and Beauty Products,Hair Care Products,09:10:40,2024-07-27,4
+1455,973,Fisher-Price Learning Table,3499,Toys and Games,Educational Toys,12:24:54,2024-07-27,8
+1456,444,Avengers: Endgame Blu-ray,799,Books and Media,Movies,09:26:26,2024-07-27,6
+1457,236,Broccoli,80,Groceries and Food Items,Fresh Produce,02:01:33,2024-07-27,11
+1458,415,LEGO Mindstorms,35999,Toys and Games,Educational Toys,08:18:11,2024-07-27,5
+1459,938,Puma Track Pants,1799,Sporting Goods and Outdoor Equipment,Sports Apparel,20:32:15,2024-07-27,18
+1460,984,LEGO Mindstorms,35999,Toys and Games,Educational Toys,06:42:23,2024-07-27,7
+1461,637,Apples,100,Groceries and Food Items,Fresh Produce,12:25:42,2024-07-27,3
+1462,776,OshKosh B'gosh Overalls,1462.0,Clothing and Apparel,Children's Clothing,11:51:35,2024-07-27,17
+1463,771,Dyson Vacuum,34999,Home and Kitchen Appliances,Cleaning Appliances,07:27:58,2024-07-27,2
+1464,229,Carrots,100.04,Groceries and Food Items,Fresh Produce,05:54:16,2024-07-27,10
+1465,46,Risk,1347.45,Toys and Games,Board Games,04:50:24,2024-07-27,10
+1466,499,Vitamin C Tablets,399,Health and Beauty Products,Vitamins,18:38:13,2024-07-27,10
+1467,124,Cuisinart Food Processor,16999,Home and Kitchen Appliances,Kitchen Gadgets,06:22:29,2024-07-27,4
+1468,127,Yeti Cooler,14999,Sporting Goods and Outdoor Equipment,Outdoor Gear,14:01:52,2024-07-27,7
+1469,879,Apples,100,Groceries and Food Items,Fresh Produce,12:40:44,2024-07-27,6
+1470,651,Tresemme Hair Spray,386.18,Health and Beauty Products,Hair Care Products,17:15:10,2024-07-27,15
+1471,576,1984,299,Books and Media,Fiction Books,22:56:58,2024-07-27,8
+1472,242,Old Navy Shorts,1199,Clothing and Apparel,Children's Clothing,14:45:26,2024-07-27,16
+1473,20,Garmin GPS,21999,Sporting Goods and Outdoor Equipment,Outdoor Gear,21:03:59,2024-07-27,7
+1474,408,Carrots,119.19,Groceries and Food Items,Fresh Produce,09:23:01,2024-07-27,14
+1475,327,La-Z-Boy Armchair,17975.69,Furniture and Home Décor,Living Room Furniture,13:30:52,2024-07-27,16
+1476,404,Bridgestone Tires,7122.54,Automotive Parts and Accessories,Motorcycle Parts,05:17:50,2024-07-27,16
+1477,401,Cetaphil Cleanser,799,Health and Beauty Products,Skincare Products,16:25:33,2024-07-27,2
+1478,903,Carrots,53.72,Groceries and Food Items,Fresh Produce,20:03:51,2024-07-27,14
+1479,331,Ashley Recliner,16999,Furniture and Home Décor,Living Room Furniture,10:29:47,2024-07-27,10
+1480,918,Levi's Jeans,2718.59,Clothing and Apparel,Men's Clothing,21:47:10,2024-07-27,10
+1481,875,The Godfather DVD,499,Books and Media,Movies,01:44:40,2024-07-27,13
+1482,996,Roomba Robot Vacuum,29999,Home and Kitchen Appliances,Cleaning Appliances,21:48:07,2024-07-27,17
+1483,723,Avengers: Endgame Blu-ray,799,Books and Media,Movies,07:16:52,2024-07-27,17
+1484,287,Star Wars Darth Vader,1799,Toys and Games,Action Figures,09:37:25,2024-07-27,2
+1485,416,The Great Gatsby,399,Books and Media,Fiction Books,20:46:21,2024-07-27,9
+1486,735,Lipton Tea,100,Groceries and Food Items,Beverages,11:37:53,2024-07-27,16
+1487,816,L'Oreal Conditioner,399,Health and Beauty Products,Hair Care Products,15:46:38,2024-07-27,17
+1488,771,Lays Potato Chips,82.72,Groceries and Food Items,Packaged Foods,22:11:13,2024-07-27,7
+1489,398,Dyson Vacuum,66325.08,Home and Kitchen Appliances,Cleaning Appliances,10:12:57,2024-07-27,11
+1490,80,Uniqlo Sweater,2999,Clothing and Apparel,Women's Clothing,16:09:18,2024-07-27,5
+1491,257,The Godfather DVD,499,Books and Media,Movies,07:30:26,2024-07-27,4
+1492,641,Yoshimura Exhaust,21999,Automotive Parts and Accessories,Motorcycle Parts,03:22:23,2024-07-27,9
+1493,655,Carter's Pajamas,1499,Clothing and Apparel,Children's Clothing,05:53:00,2024-07-27,17
+1494,201,Tresemme Hair Spray,273.49,Health and Beauty Products,Hair Care Products,04:11:10,2024-07-27,16
+1495,108,Lenovo ThinkPad X1,198376.08,Electronics,Laptops,10:39:49,2024-07-27,6
+1496,969,Instant Pot,11999,Home and Kitchen Appliances,Kitchen Gadgets,02:24:25,2024-07-27,12
+1497,101,MacBook Air,92990,Electronics,Laptops,11:50:42,2024-07-27,4
+1498,510,Yeti Cooler,14999,Sporting Goods and Outdoor Equipment,Outdoor Gear,14:59:48,2024-07-27,11
+1499,944,Yeti Cooler,14999,Sporting Goods and Outdoor Equipment,Outdoor Gear,17:53:09,2024-07-27,7
+1500,635,Adidas Soccer Jersey,2499,Sporting Goods and Outdoor Equipment,Sports Apparel,15:10:51,2024-07-27,14

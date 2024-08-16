@@ -1,0 +1,163 @@
+.demand-forecast-container {
+    margin: 20px;
+}
+
+.entity-type-selector button {
+    margin-right: 10px;
+    padding: 10px 20px;
+    cursor: pointer;
+    border-radius: 15px;
+}
+
+.entity-type-selector button.active {
+    font-weight: bold;
+}
+
+.industry-filter {
+    margin-top: 20px;
+}
+
+.forecast-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+.forecast-table th {
+    border-top: 1px solid #ccc; /* Optional: Add top border for header */
+    padding: 10px;
+    text-align: center;
+    border-right: none; 
+}
+
+.forecast-table td {
+    border-right: none; /* Remove vertical lines between columns */
+    padding: 10px;
+    border-right: none; 
+    /* text-align: center; */
+}
+/* 
+.forecast-table th, .forecast-table td {
+    border: 1px solid #ccc;
+    padding: 10px;
+    text-align: left;
+} */
+
+.forecast-table .forecast-item {
+    cursor: pointer;
+}
+
+.forecast-table .rising {
+    background-color: #d4edda;
+}
+
+.forecast-table .declining {
+    background-color: #f8d7da;
+}
+
+.forecast-table .stable {
+    background-color: #fff3cd;
+}
+
+.error {
+    color: red;
+    margin-top: 20px;
+}
+.similar-products-container {
+    display: flex;
+    gap: 10px;
+    flex-wrap: wrap;
+}
+
+.similar-product-item {
+    border: 2px solid black;
+    border-radius: 8px;
+    padding: 5px 10px;
+    display: inline-block;
+}
+.container {
+    display: flex;
+    align-items: center; /* Vertically center the content */
+    justify-content: center; /* Horizontally center the content */
+    height: 100%; /* Ensure the container takes up the full height of the table cell */
+}
+
+.trend-container, .supply-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 15px; /* Rounded corners */
+    border: 1px solid #000; /* Black border */
+    padding: 5px;
+    width: 90px; /* Adjust width as needed */
+    height: 30px; /* Adjust height as needed */
+    text-align: center;
+    background-color: #f0f0f0; /* Background color (optional) */
+}
+
+.supply-container2 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 15px; /* Rounded corners */
+    border: 1px solid #000; /* Black border */
+    padding: 5px;
+    width: 150px; /* Adjust width as needed */
+    height: 30px; /* Adjust height as needed */
+    text-align: center;
+    background-color: #f0f0f0; /* Background color (optional) */
+}
+
+.trend-logo, .supply-logo {
+    border-radius: 8px; /* Rounded corners for the logo */
+    width: 20px; /* Adjust size as needed */
+    height: 20px; /* Adjust size as needed */
+    margin-right: 10px; /* Spacing between logo and text */
+}
+
+.trend-text, .supply-text {
+    font-size: 14px; /* Adjust text size as needed */
+    line-height: 1.2; /* Adjust line height for better vertical alignment */
+}
+
+.total-count-box p {
+    margin: 0;
+    font-size: 16px;
+}
+
+.total-count-box,
+.recommendation-item {
+    display: flex;
+    align-items: center;
+    border: 1px solid #ddd;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 8px;
+    background-color: #f9f9f9;
+    width: 250px;
+}
+
+.total-count-box img,
+.recommendation-item img {
+    margin-right: 40px;
+    margin-left: 15px;
+    width: 30px;
+    height: 30px;
+}
+
+.recommendation-summary {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+
+.recommendation-item {
+    flex: 1;
+    min-width: 200px; /* Adjust this value as needed */
+}
+
+.recommendation-item span {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}

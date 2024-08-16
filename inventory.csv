@@ -1,0 +1,2143 @@
+product_id,product_name,quantity,store_id
+1,1984,14,1
+1,1984,20,2
+1,1984,12,3
+1,1984,12,4
+1,1984,15,5
+1,1984,14,6
+1,1984,11,7
+1,1984,18,8
+1,1984,13,9
+1,1984,10,10
+1,1984,10,11
+1,1984,20,12
+1,1984,13,13
+1,1984,17,14
+1,1984,13,15
+1,1984,13,16
+1,1984,13,17
+1,1984,12,18
+2,ACDelco Battery,12,1
+2,ACDelco Battery,11,2
+2,ACDelco Battery,13,3
+2,ACDelco Battery,13,4
+2,ACDelco Battery,14,5
+2,ACDelco Battery,16,6
+2,ACDelco Battery,12,7
+2,ACDelco Battery,15,8
+2,ACDelco Battery,18,9
+2,ACDelco Battery,19,10
+2,ACDelco Battery,11,11
+2,ACDelco Battery,14,12
+2,ACDelco Battery,12,13
+2,ACDelco Battery,14,14
+2,ACDelco Battery,19,15
+2,ACDelco Battery,11,16
+2,ACDelco Battery,13,17
+2,ACDelco Battery,17,18
+3,Adele - 25,10,1
+3,Adele - 25,13,2
+3,Adele - 25,19,3
+3,Adele - 25,10,4
+3,Adele - 25,11,5
+3,Adele - 25,19,6
+3,Adele - 25,16,7
+3,Adele - 25,14,8
+3,Adele - 25,13,9
+3,Adele - 25,18,10
+3,Adele - 25,11,11
+3,Adele - 25,11,12
+3,Adele - 25,11,13
+3,Adele - 25,13,14
+3,Adele - 25,20,15
+3,Adele - 25,13,16
+3,Adele - 25,13,17
+3,Adele - 25,18,18
+4,Adidas Jacket,17,1
+4,Adidas Jacket,14,2
+4,Adidas Jacket,13,3
+4,Adidas Jacket,10,4
+4,Adidas Jacket,19,5
+4,Adidas Jacket,14,6
+4,Adidas Jacket,16,7
+4,Adidas Jacket,11,8
+4,Adidas Jacket,11,9
+4,Adidas Jacket,16,10
+4,Adidas Jacket,12,11
+4,Adidas Jacket,14,12
+4,Adidas Jacket,11,13
+4,Adidas Jacket,14,14
+4,Adidas Jacket,16,15
+4,Adidas Jacket,13,16
+4,Adidas Jacket,19,17
+4,Adidas Jacket,18,18
+5,Adidas Soccer Jersey,13,1
+5,Adidas Soccer Jersey,18,2
+5,Adidas Soccer Jersey,14,3
+5,Adidas Soccer Jersey,20,4
+5,Adidas Soccer Jersey,17,5
+5,Adidas Soccer Jersey,16,6
+5,Adidas Soccer Jersey,15,7
+5,Adidas Soccer Jersey,10,8
+5,Adidas Soccer Jersey,19,9
+5,Adidas Soccer Jersey,19,10
+5,Adidas Soccer Jersey,19,11
+5,Adidas Soccer Jersey,18,12
+5,Adidas Soccer Jersey,20,13
+5,Adidas Soccer Jersey,16,14
+5,Adidas Soccer Jersey,15,15
+5,Adidas Soccer Jersey,16,16
+5,Adidas Soccer Jersey,19,17
+5,Adidas Soccer Jersey,11,18
+6,Anthropologie Throw Pillow,13,1
+6,Anthropologie Throw Pillow,18,2
+6,Anthropologie Throw Pillow,17,3
+6,Anthropologie Throw Pillow,12,4
+6,Anthropologie Throw Pillow,19,5
+6,Anthropologie Throw Pillow,13,6
+6,Anthropologie Throw Pillow,15,7
+6,Anthropologie Throw Pillow,17,8
+6,Anthropologie Throw Pillow,10,9
+6,Anthropologie Throw Pillow,17,10
+6,Anthropologie Throw Pillow,16,11
+6,Anthropologie Throw Pillow,15,12
+6,Anthropologie Throw Pillow,18,13
+6,Anthropologie Throw Pillow,10,14
+6,Anthropologie Throw Pillow,13,15
+6,Anthropologie Throw Pillow,14,16
+6,Anthropologie Throw Pillow,16,17
+6,Anthropologie Throw Pillow,17,18
+7,Apples,11,1
+7,Apples,13,2
+7,Apples,18,3
+7,Apples,19,4
+7,Apples,11,5
+7,Apples,11,6
+7,Apples,19,7
+7,Apples,20,8
+7,Apples,19,9
+7,Apples,16,10
+7,Apples,12,11
+7,Apples,19,12
+7,Apples,19,13
+7,Apples,10,14
+7,Apples,20,15
+7,Apples,17,16
+7,Apples,13,17
+7,Apples,19,18
+8,Ashley Recliner,14,1
+8,Ashley Recliner,19,2
+8,Ashley Recliner,14,3
+8,Ashley Recliner,11,4
+8,Ashley Recliner,10,5
+8,Ashley Recliner,18,6
+8,Ashley Recliner,18,7
+8,Ashley Recliner,14,8
+8,Ashley Recliner,20,9
+8,Ashley Recliner,13,10
+8,Ashley Recliner,20,11
+8,Ashley Recliner,15,12
+8,Ashley Recliner,16,13
+8,Ashley Recliner,18,14
+8,Ashley Recliner,11,15
+8,Ashley Recliner,15,16
+8,Ashley Recliner,11,17
+8,Ashley Recliner,16,18
+9,Avengers: Endgame Blu-ray,15,1
+9,Avengers: Endgame Blu-ray,20,2
+9,Avengers: Endgame Blu-ray,12,3
+9,Avengers: Endgame Blu-ray,15,4
+9,Avengers: Endgame Blu-ray,11,5
+9,Avengers: Endgame Blu-ray,16,6
+9,Avengers: Endgame Blu-ray,11,7
+9,Avengers: Endgame Blu-ray,16,8
+9,Avengers: Endgame Blu-ray,20,9
+9,Avengers: Endgame Blu-ray,18,10
+9,Avengers: Endgame Blu-ray,12,11
+9,Avengers: Endgame Blu-ray,19,12
+9,Avengers: Endgame Blu-ray,18,13
+9,Avengers: Endgame Blu-ray,18,14
+9,Avengers: Endgame Blu-ray,12,15
+9,Avengers: Endgame Blu-ray,12,16
+9,Avengers: Endgame Blu-ray,13,17
+9,Avengers: Endgame Blu-ray,20,18
+10,Bananas,11,1
+10,Bananas,18,2
+10,Bananas,20,3
+10,Bananas,20,4
+10,Bananas,10,5
+10,Bananas,13,6
+10,Bananas,11,7
+10,Bananas,18,8
+10,Bananas,18,9
+10,Bananas,15,10
+10,Bananas,10,11
+10,Bananas,12,12
+10,Bananas,10,13
+10,Bananas,17,14
+10,Bananas,15,15
+10,Bananas,17,16
+10,Bananas,13,17
+10,Bananas,17,18
+11,Barilla Pasta,15,1
+11,Barilla Pasta,10,2
+11,Barilla Pasta,20,3
+11,Barilla Pasta,16,4
+11,Barilla Pasta,12,5
+11,Barilla Pasta,11,6
+11,Barilla Pasta,16,7
+11,Barilla Pasta,11,8
+11,Barilla Pasta,14,9
+11,Barilla Pasta,12,10
+11,Barilla Pasta,16,11
+11,Barilla Pasta,14,12
+11,Barilla Pasta,16,13
+11,Barilla Pasta,10,14
+11,Barilla Pasta,17,15
+11,Barilla Pasta,10,16
+11,Barilla Pasta,19,17
+11,Barilla Pasta,19,18
+12,Beyonce - Lemonade,14,1
+12,Beyonce - Lemonade,11,2
+12,Beyonce - Lemonade,11,3
+12,Beyonce - Lemonade,13,4
+12,Beyonce - Lemonade,20,5
+12,Beyonce - Lemonade,16,6
+12,Beyonce - Lemonade,19,7
+12,Beyonce - Lemonade,14,8
+12,Beyonce - Lemonade,15,9
+12,Beyonce - Lemonade,11,10
+12,Beyonce - Lemonade,12,11
+12,Beyonce - Lemonade,12,12
+12,Beyonce - Lemonade,14,13
+12,Beyonce - Lemonade,13,14
+12,Beyonce - Lemonade,15,15
+12,Beyonce - Lemonade,20,16
+12,Beyonce - Lemonade,10,17
+12,Beyonce - Lemonade,17,18
+13,Bissell Steam Mop,11,1
+13,Bissell Steam Mop,14,2
+13,Bissell Steam Mop,14,3
+13,Bissell Steam Mop,17,4
+13,Bissell Steam Mop,18,5
+13,Bissell Steam Mop,16,6
+13,Bissell Steam Mop,18,7
+13,Bissell Steam Mop,11,8
+13,Bissell Steam Mop,14,9
+13,Bissell Steam Mop,11,10
+13,Bissell Steam Mop,20,11
+13,Bissell Steam Mop,15,12
+13,Bissell Steam Mop,20,13
+13,Bissell Steam Mop,17,14
+13,Bissell Steam Mop,12,15
+13,Bissell Steam Mop,12,16
+13,Bissell Steam Mop,14,17
+13,Bissell Steam Mop,13,18
+14,Bosch Dishwasher,17,1
+14,Bosch Dishwasher,17,2
+14,Bosch Dishwasher,20,3
+14,Bosch Dishwasher,19,4
+14,Bosch Dishwasher,18,5
+14,Bosch Dishwasher,14,6
+14,Bosch Dishwasher,13,7
+14,Bosch Dishwasher,15,8
+14,Bosch Dishwasher,17,9
+14,Bosch Dishwasher,12,10
+14,Bosch Dishwasher,16,11
+14,Bosch Dishwasher,10,12
+14,Bosch Dishwasher,16,13
+14,Bosch Dishwasher,18,14
+14,Bosch Dishwasher,19,15
+14,Bosch Dishwasher,18,16
+14,Bosch Dishwasher,13,17
+14,Bosch Dishwasher,10,18
+15,Bosch Spark Plugs,18,1
+15,Bosch Spark Plugs,20,2
+15,Bosch Spark Plugs,10,3
+15,Bosch Spark Plugs,14,4
+15,Bosch Spark Plugs,16,5
+15,Bosch Spark Plugs,17,6
+15,Bosch Spark Plugs,20,7
+15,Bosch Spark Plugs,19,8
+15,Bosch Spark Plugs,10,9
+15,Bosch Spark Plugs,10,10
+15,Bosch Spark Plugs,18,11
+15,Bosch Spark Plugs,15,12
+15,Bosch Spark Plugs,20,13
+15,Bosch Spark Plugs,19,14
+15,Bosch Spark Plugs,15,15
+15,Bosch Spark Plugs,13,16
+15,Bosch Spark Plugs,14,17
+15,Bosch Spark Plugs,19,18
+16,Bridgestone Tires,16,1
+16,Bridgestone Tires,18,2
+16,Bridgestone Tires,15,3
+16,Bridgestone Tires,11,4
+16,Bridgestone Tires,16,5
+16,Bridgestone Tires,12,6
+16,Bridgestone Tires,12,7
+16,Bridgestone Tires,14,8
+16,Bridgestone Tires,18,9
+16,Bridgestone Tires,10,10
+16,Bridgestone Tires,15,11
+16,Bridgestone Tires,15,12
+16,Bridgestone Tires,12,13
+16,Bridgestone Tires,17,14
+16,Bridgestone Tires,12,15
+16,Bridgestone Tires,10,16
+16,Bridgestone Tires,12,17
+16,Bridgestone Tires,14,18
+17,Broccoli,14,1
+17,Broccoli,14,2
+17,Broccoli,15,3
+17,Broccoli,16,4
+17,Broccoli,12,5
+17,Broccoli,13,6
+17,Broccoli,11,7
+17,Broccoli,20,8
+17,Broccoli,20,9
+17,Broccoli,18,10
+17,Broccoli,20,11
+17,Broccoli,14,12
+17,Broccoli,12,13
+17,Broccoli,10,14
+17,Broccoli,11,15
+17,Broccoli,18,16
+17,Broccoli,18,17
+17,Broccoli,10,18
+18,Calcium Supplements,14,1
+18,Calcium Supplements,17,2
+18,Calcium Supplements,20,3
+18,Calcium Supplements,14,4
+18,Calcium Supplements,11,5
+18,Calcium Supplements,10,6
+18,Calcium Supplements,11,7
+18,Calcium Supplements,11,8
+18,Calcium Supplements,19,9
+18,Calcium Supplements,18,10
+18,Calcium Supplements,12,11
+18,Calcium Supplements,18,12
+18,Calcium Supplements,16,13
+18,Calcium Supplements,20,14
+18,Calcium Supplements,17,15
+18,Calcium Supplements,12,16
+18,Calcium Supplements,14,17
+18,Calcium Supplements,15,18
+19,Canon EOS R5,13,1
+19,Canon EOS R5,17,2
+19,Canon EOS R5,17,3
+19,Canon EOS R5,18,4
+19,Canon EOS R5,16,5
+19,Canon EOS R5,18,6
+19,Canon EOS R5,17,7
+19,Canon EOS R5,19,8
+19,Canon EOS R5,14,9
+19,Canon EOS R5,11,10
+19,Canon EOS R5,20,11
+19,Canon EOS R5,16,12
+19,Canon EOS R5,20,13
+19,Canon EOS R5,10,14
+19,Canon EOS R5,12,15
+19,Canon EOS R5,12,16
+19,Canon EOS R5,17,17
+19,Canon EOS R5,10,18
+20,Carrots,13,1
+20,Carrots,13,2
+20,Carrots,16,3
+20,Carrots,12,4
+20,Carrots,10,5
+20,Carrots,13,6
+20,Carrots,17,7
+20,Carrots,16,8
+20,Carrots,18,9
+20,Carrots,19,10
+20,Carrots,14,11
+20,Carrots,16,12
+20,Carrots,19,13
+20,Carrots,10,14
+20,Carrots,20,15
+20,Carrots,15,16
+20,Carrots,13,17
+20,Carrots,15,18
+21,Carter's Pajamas,10,1
+21,Carter's Pajamas,16,2
+21,Carter's Pajamas,19,3
+21,Carter's Pajamas,14,4
+21,Carter's Pajamas,15,5
+21,Carter's Pajamas,11,6
+21,Carter's Pajamas,16,7
+21,Carter's Pajamas,12,8
+21,Carter's Pajamas,10,9
+21,Carter's Pajamas,13,10
+21,Carter's Pajamas,14,11
+21,Carter's Pajamas,16,12
+21,Carter's Pajamas,19,13
+21,Carter's Pajamas,17,14
+21,Carter's Pajamas,13,15
+21,Carter's Pajamas,20,16
+21,Carter's Pajamas,17,17
+21,Carter's Pajamas,12,18
+22,Cetaphil Cleanser,20,1
+22,Cetaphil Cleanser,19,2
+22,Cetaphil Cleanser,18,3
+22,Cetaphil Cleanser,11,4
+22,Cetaphil Cleanser,17,5
+22,Cetaphil Cleanser,12,6
+22,Cetaphil Cleanser,11,7
+22,Cetaphil Cleanser,17,8
+22,Cetaphil Cleanser,17,9
+22,Cetaphil Cleanser,12,10
+22,Cetaphil Cleanser,13,11
+22,Cetaphil Cleanser,16,12
+22,Cetaphil Cleanser,11,13
+22,Cetaphil Cleanser,16,14
+22,Cetaphil Cleanser,19,15
+22,Cetaphil Cleanser,18,16
+22,Cetaphil Cleanser,13,17
+22,Cetaphil Cleanser,11,18
+23,Coca-Cola,17,1
+23,Coca-Cola,15,2
+23,Coca-Cola,16,3
+23,Coca-Cola,16,4
+23,Coca-Cola,10,5
+23,Coca-Cola,14,6
+23,Coca-Cola,18,7
+23,Coca-Cola,10,8
+23,Coca-Cola,13,9
+23,Coca-Cola,19,10
+23,Coca-Cola,14,11
+23,Coca-Cola,14,12
+23,Coca-Cola,16,13
+23,Coca-Cola,11,14
+23,Coca-Cola,14,15
+23,Coca-Cola,19,16
+23,Coca-Cola,13,17
+23,Coca-Cola,12,18
+24,Coleman Tent,12,1
+24,Coleman Tent,19,2
+24,Coleman Tent,15,3
+24,Coleman Tent,18,4
+24,Coleman Tent,19,5
+24,Coleman Tent,12,6
+24,Coleman Tent,18,7
+24,Coleman Tent,13,8
+24,Coleman Tent,14,9
+24,Coleman Tent,14,10
+24,Coleman Tent,16,11
+24,Coleman Tent,12,12
+24,Coleman Tent,15,13
+24,Coleman Tent,12,14
+24,Coleman Tent,11,15
+24,Coleman Tent,10,16
+24,Coleman Tent,12,17
+24,Coleman Tent,16,18
+25,Crate & Barrel Dresser,14,1
+25,Crate & Barrel Dresser,12,2
+25,Crate & Barrel Dresser,20,3
+25,Crate & Barrel Dresser,20,4
+25,Crate & Barrel Dresser,17,5
+25,Crate & Barrel Dresser,19,6
+25,Crate & Barrel Dresser,18,7
+25,Crate & Barrel Dresser,13,8
+25,Crate & Barrel Dresser,11,9
+25,Crate & Barrel Dresser,18,10
+25,Crate & Barrel Dresser,18,11
+25,Crate & Barrel Dresser,10,12
+25,Crate & Barrel Dresser,12,13
+25,Crate & Barrel Dresser,20,14
+25,Crate & Barrel Dresser,19,15
+25,Crate & Barrel Dresser,17,16
+25,Crate & Barrel Dresser,14,17
+25,Crate & Barrel Dresser,15,18
+26,Cuisinart Food Processor,20,1
+26,Cuisinart Food Processor,17,2
+26,Cuisinart Food Processor,12,3
+26,Cuisinart Food Processor,17,4
+26,Cuisinart Food Processor,16,5
+26,Cuisinart Food Processor,13,6
+26,Cuisinart Food Processor,11,7
+26,Cuisinart Food Processor,18,8
+26,Cuisinart Food Processor,10,9
+26,Cuisinart Food Processor,18,10
+26,Cuisinart Food Processor,13,11
+26,Cuisinart Food Processor,14,12
+26,Cuisinart Food Processor,17,13
+26,Cuisinart Food Processor,19,14
+26,Cuisinart Food Processor,13,15
+26,Cuisinart Food Processor,14,16
+26,Cuisinart Food Processor,20,17
+26,Cuisinart Food Processor,12,18
+27,Dell XPS 13,19,1
+27,Dell XPS 13,12,2
+27,Dell XPS 13,19,3
+27,Dell XPS 13,18,4
+27,Dell XPS 13,18,5
+27,Dell XPS 13,13,6
+27,Dell XPS 13,18,7
+27,Dell XPS 13,19,8
+27,Dell XPS 13,12,9
+27,Dell XPS 13,20,10
+27,Dell XPS 13,12,11
+27,Dell XPS 13,10,12
+27,Dell XPS 13,12,13
+27,Dell XPS 13,17,14
+27,Dell XPS 13,12,15
+27,Dell XPS 13,12,16
+27,Dell XPS 13,18,17
+27,Dell XPS 13,14,18
+28,Denso Oxygen Sensor,18,1
+28,Denso Oxygen Sensor,15,2
+28,Denso Oxygen Sensor,11,3
+28,Denso Oxygen Sensor,10,4
+28,Denso Oxygen Sensor,10,5
+28,Denso Oxygen Sensor,14,6
+28,Denso Oxygen Sensor,12,7
+28,Denso Oxygen Sensor,10,8
+28,Denso Oxygen Sensor,12,9
+28,Denso Oxygen Sensor,14,10
+28,Denso Oxygen Sensor,17,11
+28,Denso Oxygen Sensor,19,12
+28,Denso Oxygen Sensor,20,13
+28,Denso Oxygen Sensor,20,14
+28,Denso Oxygen Sensor,10,15
+28,Denso Oxygen Sensor,16,16
+28,Denso Oxygen Sensor,16,17
+28,Denso Oxygen Sensor,11,18
+29,Dove Hair Mask,13,1
+29,Dove Hair Mask,20,2
+29,Dove Hair Mask,14,3
+29,Dove Hair Mask,11,4
+29,Dove Hair Mask,20,5
+29,Dove Hair Mask,16,6
+29,Dove Hair Mask,17,7
+29,Dove Hair Mask,15,8
+29,Dove Hair Mask,11,9
+29,Dove Hair Mask,10,10
+29,Dove Hair Mask,18,11
+29,Dove Hair Mask,10,12
+29,Dove Hair Mask,12,13
+29,Dove Hair Mask,16,14
+29,Dove Hair Mask,17,15
+29,Dove Hair Mask,11,16
+29,Dove Hair Mask,12,17
+29,Dove Hair Mask,15,18
+30,Dumbbells,16,1
+30,Dumbbells,19,2
+30,Dumbbells,19,3
+30,Dumbbells,15,4
+30,Dumbbells,14,5
+30,Dumbbells,18,6
+30,Dumbbells,16,7
+30,Dumbbells,13,8
+30,Dumbbells,18,9
+30,Dumbbells,15,10
+30,Dumbbells,11,11
+30,Dumbbells,17,12
+30,Dumbbells,12,13
+30,Dumbbells,18,14
+30,Dumbbells,18,15
+30,Dumbbells,10,16
+30,Dumbbells,11,17
+30,Dumbbells,12,18
+31,Dyson Vacuum,12,1
+31,Dyson Vacuum,10,2
+31,Dyson Vacuum,15,3
+31,Dyson Vacuum,16,4
+31,Dyson Vacuum,17,5
+31,Dyson Vacuum,12,6
+31,Dyson Vacuum,16,7
+31,Dyson Vacuum,18,8
+31,Dyson Vacuum,11,9
+31,Dyson Vacuum,16,10
+31,Dyson Vacuum,18,11
+31,Dyson Vacuum,18,12
+31,Dyson Vacuum,19,13
+31,Dyson Vacuum,10,14
+31,Dyson Vacuum,10,15
+31,Dyson Vacuum,18,16
+31,Dyson Vacuum,17,17
+31,Dyson Vacuum,16,18
+32,Fisher-Price Learning Table,14,1
+32,Fisher-Price Learning Table,18,2
+32,Fisher-Price Learning Table,16,3
+32,Fisher-Price Learning Table,16,4
+32,Fisher-Price Learning Table,16,5
+32,Fisher-Price Learning Table,14,6
+32,Fisher-Price Learning Table,13,7
+32,Fisher-Price Learning Table,13,8
+32,Fisher-Price Learning Table,18,9
+32,Fisher-Price Learning Table,15,10
+32,Fisher-Price Learning Table,15,11
+32,Fisher-Price Learning Table,12,12
+32,Fisher-Price Learning Table,12,13
+32,Fisher-Price Learning Table,16,14
+32,Fisher-Price Learning Table,11,15
+32,Fisher-Price Learning Table,20,16
+32,Fisher-Price Learning Table,15,17
+32,Fisher-Price Learning Table,11,18
+33,Forever 21 Skirt,17,1
+33,Forever 21 Skirt,20,2
+33,Forever 21 Skirt,11,3
+33,Forever 21 Skirt,11,4
+33,Forever 21 Skirt,13,5
+33,Forever 21 Skirt,18,6
+33,Forever 21 Skirt,13,7
+33,Forever 21 Skirt,18,8
+33,Forever 21 Skirt,20,9
+33,Forever 21 Skirt,13,10
+33,Forever 21 Skirt,16,11
+33,Forever 21 Skirt,20,12
+33,Forever 21 Skirt,11,13
+33,Forever 21 Skirt,14,14
+33,Forever 21 Skirt,11,15
+33,Forever 21 Skirt,16,16
+33,Forever 21 Skirt,10,17
+33,Forever 21 Skirt,18,18
+34,Frozen DVD,20,1
+34,Frozen DVD,19,2
+34,Frozen DVD,10,3
+34,Frozen DVD,12,4
+34,Frozen DVD,20,5
+34,Frozen DVD,16,6
+34,Frozen DVD,18,7
+34,Frozen DVD,11,8
+34,Frozen DVD,15,9
+34,Frozen DVD,10,10
+34,Frozen DVD,17,11
+34,Frozen DVD,10,12
+34,Frozen DVD,13,13
+34,Frozen DVD,15,14
+34,Frozen DVD,17,15
+34,Frozen DVD,20,16
+34,Frozen DVD,13,17
+34,Frozen DVD,14,18
+35,Fujifilm X-T4,11,1
+35,Fujifilm X-T4,15,2
+35,Fujifilm X-T4,16,3
+35,Fujifilm X-T4,10,4
+35,Fujifilm X-T4,10,5
+35,Fujifilm X-T4,14,6
+35,Fujifilm X-T4,10,7
+35,Fujifilm X-T4,10,8
+35,Fujifilm X-T4,18,9
+35,Fujifilm X-T4,13,10
+35,Fujifilm X-T4,19,11
+35,Fujifilm X-T4,11,12
+35,Fujifilm X-T4,13,13
+35,Fujifilm X-T4,13,14
+35,Fujifilm X-T4,13,15
+35,Fujifilm X-T4,15,16
+35,Fujifilm X-T4,17,17
+35,Fujifilm X-T4,12,18
+36,GI Joe Duke,15,1
+36,GI Joe Duke,10,2
+36,GI Joe Duke,16,3
+36,GI Joe Duke,15,4
+36,GI Joe Duke,10,5
+36,GI Joe Duke,17,6
+36,GI Joe Duke,17,7
+36,GI Joe Duke,10,8
+36,GI Joe Duke,10,9
+36,GI Joe Duke,18,10
+36,GI Joe Duke,16,11
+36,GI Joe Duke,10,12
+36,GI Joe Duke,17,13
+36,GI Joe Duke,13,14
+36,GI Joe Duke,20,15
+36,GI Joe Duke,19,16
+36,GI Joe Duke,13,17
+36,GI Joe Duke,12,18
+37,Gap Kids T-shirt,13,1
+37,Gap Kids T-shirt,11,2
+37,Gap Kids T-shirt,20,3
+37,Gap Kids T-shirt,10,4
+37,Gap Kids T-shirt,18,5
+37,Gap Kids T-shirt,12,6
+37,Gap Kids T-shirt,19,7
+37,Gap Kids T-shirt,17,8
+37,Gap Kids T-shirt,13,9
+37,Gap Kids T-shirt,19,10
+37,Gap Kids T-shirt,17,11
+37,Gap Kids T-shirt,18,12
+37,Gap Kids T-shirt,16,13
+37,Gap Kids T-shirt,15,14
+37,Gap Kids T-shirt,15,15
+37,Gap Kids T-shirt,10,16
+37,Gap Kids T-shirt,14,17
+37,Gap Kids T-shirt,19,18
+38,Garmin GPS,10,1
+38,Garmin GPS,19,2
+38,Garmin GPS,11,3
+38,Garmin GPS,11,4
+38,Garmin GPS,12,5
+38,Garmin GPS,11,6
+38,Garmin GPS,10,7
+38,Garmin GPS,10,8
+38,Garmin GPS,12,9
+38,Garmin GPS,10,10
+38,Garmin GPS,13,11
+38,Garmin GPS,16,12
+38,Garmin GPS,17,13
+38,Garmin GPS,19,14
+38,Garmin GPS,11,15
+38,Garmin GPS,20,16
+38,Garmin GPS,19,17
+38,Garmin GPS,10,18
+39,H&M Blouse,11,1
+39,H&M Blouse,18,2
+39,H&M Blouse,15,3
+39,H&M Blouse,18,4
+39,H&M Blouse,14,5
+39,H&M Blouse,15,6
+39,H&M Blouse,10,7
+39,H&M Blouse,18,8
+39,H&M Blouse,12,9
+39,H&M Blouse,18,10
+39,H&M Blouse,10,11
+39,H&M Blouse,17,12
+39,H&M Blouse,11,13
+39,H&M Blouse,19,14
+39,H&M Blouse,19,15
+39,H&M Blouse,13,16
+39,H&M Blouse,12,17
+39,H&M Blouse,14,18
+40,HP Spectre x360,20,1
+40,HP Spectre x360,12,2
+40,HP Spectre x360,17,3
+40,HP Spectre x360,19,4
+40,HP Spectre x360,19,5
+40,HP Spectre x360,15,6
+40,HP Spectre x360,11,7
+40,HP Spectre x360,11,8
+40,HP Spectre x360,17,9
+40,HP Spectre x360,14,10
+40,HP Spectre x360,17,11
+40,HP Spectre x360,15,12
+40,HP Spectre x360,12,13
+40,HP Spectre x360,18,14
+40,HP Spectre x360,18,15
+40,HP Spectre x360,18,16
+40,HP Spectre x360,18,17
+40,HP Spectre x360,18,18
+41,Harry Potter,11,1
+41,Harry Potter,16,2
+41,Harry Potter,13,3
+41,Harry Potter,15,4
+41,Harry Potter,13,5
+41,Harry Potter,13,6
+41,Harry Potter,17,7
+41,Harry Potter,11,8
+41,Harry Potter,20,9
+41,Harry Potter,15,10
+41,Harry Potter,13,11
+41,Harry Potter,17,12
+41,Harry Potter,11,13
+41,Harry Potter,19,14
+41,Harry Potter,17,15
+41,Harry Potter,16,16
+41,Harry Potter,12,17
+41,Harry Potter,19,18
+42,Ikea Sofa,12,1
+42,Ikea Sofa,10,2
+42,Ikea Sofa,20,3
+42,Ikea Sofa,14,4
+42,Ikea Sofa,17,5
+42,Ikea Sofa,11,6
+42,Ikea Sofa,10,7
+42,Ikea Sofa,12,8
+42,Ikea Sofa,19,9
+42,Ikea Sofa,14,10
+42,Ikea Sofa,13,11
+42,Ikea Sofa,15,12
+42,Ikea Sofa,11,13
+42,Ikea Sofa,14,14
+42,Ikea Sofa,13,15
+42,Ikea Sofa,11,16
+42,Ikea Sofa,12,17
+42,Ikea Sofa,19,18
+43,Inception Blu-ray,20,1
+43,Inception Blu-ray,14,2
+43,Inception Blu-ray,12,3
+43,Inception Blu-ray,16,4
+43,Inception Blu-ray,10,5
+43,Inception Blu-ray,11,6
+43,Inception Blu-ray,14,7
+43,Inception Blu-ray,12,8
+43,Inception Blu-ray,18,9
+43,Inception Blu-ray,19,10
+43,Inception Blu-ray,20,11
+43,Inception Blu-ray,19,12
+43,Inception Blu-ray,10,13
+43,Inception Blu-ray,19,14
+43,Inception Blu-ray,12,15
+43,Inception Blu-ray,14,16
+43,Inception Blu-ray,16,17
+43,Inception Blu-ray,18,18
+44,Instant Pot,10,1
+44,Instant Pot,10,2
+44,Instant Pot,12,3
+44,Instant Pot,14,4
+44,Instant Pot,13,5
+44,Instant Pot,13,6
+44,Instant Pot,17,7
+44,Instant Pot,15,8
+44,Instant Pot,10,9
+44,Instant Pot,16,10
+44,Instant Pot,18,11
+44,Instant Pot,10,12
+44,Instant Pot,11,13
+44,Instant Pot,16,14
+44,Instant Pot,15,15
+44,Instant Pot,11,16
+44,Instant Pot,11,17
+44,Instant Pot,12,18
+45,K&N Air Filter,15,1
+45,K&N Air Filter,15,2
+45,K&N Air Filter,18,3
+45,K&N Air Filter,14,4
+45,K&N Air Filter,11,5
+45,K&N Air Filter,11,6
+45,K&N Air Filter,14,7
+45,K&N Air Filter,13,8
+45,K&N Air Filter,13,9
+45,K&N Air Filter,10,10
+45,K&N Air Filter,17,11
+45,K&N Air Filter,12,12
+45,K&N Air Filter,13,13
+45,K&N Air Filter,17,14
+45,K&N Air Filter,17,15
+45,K&N Air Filter,12,16
+45,K&N Air Filter,20,17
+45,K&N Air Filter,18,18
+46,Kellogg's Corn Flakes,17,1
+46,Kellogg's Corn Flakes,12,2
+46,Kellogg's Corn Flakes,10,3
+46,Kellogg's Corn Flakes,16,4
+46,Kellogg's Corn Flakes,18,5
+46,Kellogg's Corn Flakes,16,6
+46,Kellogg's Corn Flakes,20,7
+46,Kellogg's Corn Flakes,11,8
+46,Kellogg's Corn Flakes,20,9
+46,Kellogg's Corn Flakes,13,10
+46,Kellogg's Corn Flakes,10,11
+46,Kellogg's Corn Flakes,20,12
+46,Kellogg's Corn Flakes,16,13
+46,Kellogg's Corn Flakes,18,14
+46,Kellogg's Corn Flakes,19,15
+46,Kellogg's Corn Flakes,14,16
+46,Kellogg's Corn Flakes,18,17
+46,Kellogg's Corn Flakes,19,18
+47,KitchenAid Mixer,13,1
+47,KitchenAid Mixer,20,2
+47,KitchenAid Mixer,17,3
+47,KitchenAid Mixer,13,4
+47,KitchenAid Mixer,20,5
+47,KitchenAid Mixer,19,6
+47,KitchenAid Mixer,12,7
+47,KitchenAid Mixer,10,8
+47,KitchenAid Mixer,19,9
+47,KitchenAid Mixer,15,10
+47,KitchenAid Mixer,20,11
+47,KitchenAid Mixer,10,12
+47,KitchenAid Mixer,16,13
+47,KitchenAid Mixer,12,14
+47,KitchenAid Mixer,12,15
+47,KitchenAid Mixer,14,16
+47,KitchenAid Mixer,12,17
+47,KitchenAid Mixer,13,18
+48,L'Oreal Conditioner,18,1
+48,L'Oreal Conditioner,10,2
+48,L'Oreal Conditioner,11,3
+48,L'Oreal Conditioner,18,4
+48,L'Oreal Conditioner,12,5
+48,L'Oreal Conditioner,13,6
+48,L'Oreal Conditioner,10,7
+48,L'Oreal Conditioner,17,8
+48,L'Oreal Conditioner,14,9
+48,L'Oreal Conditioner,15,10
+48,L'Oreal Conditioner,18,11
+48,L'Oreal Conditioner,15,12
+48,L'Oreal Conditioner,17,13
+48,L'Oreal Conditioner,11,14
+48,L'Oreal Conditioner,18,15
+48,L'Oreal Conditioner,18,16
+48,L'Oreal Conditioner,14,17
+48,L'Oreal Conditioner,14,18
+49,LEGO Mindstorms,20,1
+49,LEGO Mindstorms,15,2
+49,LEGO Mindstorms,12,3
+49,LEGO Mindstorms,17,4
+49,LEGO Mindstorms,11,5
+49,LEGO Mindstorms,12,6
+49,LEGO Mindstorms,13,7
+49,LEGO Mindstorms,11,8
+49,LEGO Mindstorms,18,9
+49,LEGO Mindstorms,17,10
+49,LEGO Mindstorms,10,11
+49,LEGO Mindstorms,13,12
+49,LEGO Mindstorms,20,13
+49,LEGO Mindstorms,17,14
+49,LEGO Mindstorms,12,15
+49,LEGO Mindstorms,19,16
+49,LEGO Mindstorms,18,17
+49,LEGO Mindstorms,12,18
+50,LG Washing Machine,17,1
+50,LG Washing Machine,14,2
+50,LG Washing Machine,19,3
+50,LG Washing Machine,16,4
+50,LG Washing Machine,19,5
+50,LG Washing Machine,13,6
+50,LG Washing Machine,10,7
+50,LG Washing Machine,14,8
+50,LG Washing Machine,13,9
+50,LG Washing Machine,14,10
+50,LG Washing Machine,17,11
+50,LG Washing Machine,20,12
+50,LG Washing Machine,19,13
+50,LG Washing Machine,11,14
+50,LG Washing Machine,12,15
+50,LG Washing Machine,17,16
+50,LG Washing Machine,18,17
+50,LG Washing Machine,17,18
+51,La-Z-Boy Armchair,15,1
+51,La-Z-Boy Armchair,17,2
+51,La-Z-Boy Armchair,12,3
+51,La-Z-Boy Armchair,15,4
+51,La-Z-Boy Armchair,19,5
+51,La-Z-Boy Armchair,12,6
+51,La-Z-Boy Armchair,20,7
+51,La-Z-Boy Armchair,20,8
+51,La-Z-Boy Armchair,12,9
+51,La-Z-Boy Armchair,16,10
+51,La-Z-Boy Armchair,11,11
+51,La-Z-Boy Armchair,18,12
+51,La-Z-Boy Armchair,20,13
+51,La-Z-Boy Armchair,17,14
+51,La-Z-Boy Armchair,19,15
+51,La-Z-Boy Armchair,18,16
+51,La-Z-Boy Armchair,18,17
+51,La-Z-Boy Armchair,13,18
+52,Lays Potato Chips,11,1
+52,Lays Potato Chips,13,2
+52,Lays Potato Chips,15,3
+52,Lays Potato Chips,17,4
+52,Lays Potato Chips,13,5
+52,Lays Potato Chips,10,6
+52,Lays Potato Chips,13,7
+52,Lays Potato Chips,13,8
+52,Lays Potato Chips,17,9
+52,Lays Potato Chips,12,10
+52,Lays Potato Chips,15,11
+52,Lays Potato Chips,11,12
+52,Lays Potato Chips,14,13
+52,Lays Potato Chips,18,14
+52,Lays Potato Chips,16,15
+52,Lays Potato Chips,11,16
+52,Lays Potato Chips,12,17
+52,Lays Potato Chips,13,18
+53,Lenovo ThinkPad X1,16,1
+53,Lenovo ThinkPad X1,18,2
+53,Lenovo ThinkPad X1,20,3
+53,Lenovo ThinkPad X1,12,4
+53,Lenovo ThinkPad X1,17,5
+53,Lenovo ThinkPad X1,13,6
+53,Lenovo ThinkPad X1,14,7
+53,Lenovo ThinkPad X1,16,8
+53,Lenovo ThinkPad X1,11,9
+53,Lenovo ThinkPad X1,10,10
+53,Lenovo ThinkPad X1,19,11
+53,Lenovo ThinkPad X1,20,12
+53,Lenovo ThinkPad X1,16,13
+53,Lenovo ThinkPad X1,10,14
+53,Lenovo ThinkPad X1,17,15
+53,Lenovo ThinkPad X1,14,16
+53,Lenovo ThinkPad X1,16,17
+53,Lenovo ThinkPad X1,15,18
+54,Levi's Jeans,14,1
+54,Levi's Jeans,15,2
+54,Levi's Jeans,14,3
+54,Levi's Jeans,13,4
+54,Levi's Jeans,11,5
+54,Levi's Jeans,18,6
+54,Levi's Jeans,19,7
+54,Levi's Jeans,13,8
+54,Levi's Jeans,15,9
+54,Levi's Jeans,13,10
+54,Levi's Jeans,10,11
+54,Levi's Jeans,10,12
+54,Levi's Jeans,12,13
+54,Levi's Jeans,15,14
+54,Levi's Jeans,16,15
+54,Levi's Jeans,17,16
+54,Levi's Jeans,11,17
+54,Levi's Jeans,12,18
+55,Lipton Tea,11,1
+55,Lipton Tea,18,2
+55,Lipton Tea,20,3
+55,Lipton Tea,19,4
+55,Lipton Tea,19,5
+55,Lipton Tea,14,6
+55,Lipton Tea,19,7
+55,Lipton Tea,14,8
+55,Lipton Tea,20,9
+55,Lipton Tea,14,10
+55,Lipton Tea,12,11
+55,Lipton Tea,19,12
+55,Lipton Tea,19,13
+55,Lipton Tea,13,14
+55,Lipton Tea,13,15
+55,Lipton Tea,14,16
+55,Lipton Tea,19,17
+55,Lipton Tea,17,18
+56,MacBook Air,20,1
+56,MacBook Air,15,2
+56,MacBook Air,15,3
+56,MacBook Air,18,4
+56,MacBook Air,17,5
+56,MacBook Air,10,6
+56,MacBook Air,10,7
+56,MacBook Air,11,8
+56,MacBook Air,17,9
+56,MacBook Air,11,10
+56,MacBook Air,19,11
+56,MacBook Air,18,12
+56,MacBook Air,13,13
+56,MacBook Air,17,14
+56,MacBook Air,18,15
+56,MacBook Air,10,16
+56,MacBook Air,20,17
+56,MacBook Air,15,18
+57,Marvel Legends Spider-Man,16,1
+57,Marvel Legends Spider-Man,17,2
+57,Marvel Legends Spider-Man,19,3
+57,Marvel Legends Spider-Man,19,4
+57,Marvel Legends Spider-Man,12,5
+57,Marvel Legends Spider-Man,12,6
+57,Marvel Legends Spider-Man,11,7
+57,Marvel Legends Spider-Man,13,8
+57,Marvel Legends Spider-Man,15,9
+57,Marvel Legends Spider-Man,14,10
+57,Marvel Legends Spider-Man,15,11
+57,Marvel Legends Spider-Man,13,12
+57,Marvel Legends Spider-Man,17,13
+57,Marvel Legends Spider-Man,11,14
+57,Marvel Legends Spider-Man,17,15
+57,Marvel Legends Spider-Man,15,16
+57,Marvel Legends Spider-Man,17,17
+57,Marvel Legends Spider-Man,20,18
+58,Melissa & Doug Puzzles,18,1
+58,Melissa & Doug Puzzles,10,2
+58,Melissa & Doug Puzzles,11,3
+58,Melissa & Doug Puzzles,16,4
+58,Melissa & Doug Puzzles,14,5
+58,Melissa & Doug Puzzles,17,6
+58,Melissa & Doug Puzzles,19,7
+58,Melissa & Doug Puzzles,15,8
+58,Melissa & Doug Puzzles,11,9
+58,Melissa & Doug Puzzles,13,10
+58,Melissa & Doug Puzzles,15,11
+58,Melissa & Doug Puzzles,20,12
+58,Melissa & Doug Puzzles,14,13
+58,Melissa & Doug Puzzles,15,14
+58,Melissa & Doug Puzzles,10,15
+58,Melissa & Doug Puzzles,16,16
+58,Melissa & Doug Puzzles,13,17
+58,Melissa & Doug Puzzles,16,18
+59,Michelin Tires,16,1
+59,Michelin Tires,19,2
+59,Michelin Tires,18,3
+59,Michelin Tires,16,4
+59,Michelin Tires,15,5
+59,Michelin Tires,15,6
+59,Michelin Tires,17,7
+59,Michelin Tires,18,8
+59,Michelin Tires,16,9
+59,Michelin Tires,16,10
+59,Michelin Tires,12,11
+59,Michelin Tires,10,12
+59,Michelin Tires,12,13
+59,Michelin Tires,13,14
+59,Michelin Tires,17,15
+59,Michelin Tires,17,16
+59,Michelin Tires,18,17
+59,Michelin Tires,12,18
+60,Monopoly,11,1
+60,Monopoly,20,2
+60,Monopoly,18,3
+60,Monopoly,11,4
+60,Monopoly,14,5
+60,Monopoly,20,6
+60,Monopoly,14,7
+60,Monopoly,13,8
+60,Monopoly,11,9
+60,Monopoly,17,10
+60,Monopoly,19,11
+60,Monopoly,16,12
+60,Monopoly,14,13
+60,Monopoly,10,14
+60,Monopoly,17,15
+60,Monopoly,11,16
+60,Monopoly,10,17
+60,Monopoly,11,18
+61,Multivitamin Gummies,20,1
+61,Multivitamin Gummies,16,2
+61,Multivitamin Gummies,13,3
+61,Multivitamin Gummies,13,4
+61,Multivitamin Gummies,11,5
+61,Multivitamin Gummies,15,6
+61,Multivitamin Gummies,16,7
+61,Multivitamin Gummies,16,8
+61,Multivitamin Gummies,15,9
+61,Multivitamin Gummies,18,10
+61,Multivitamin Gummies,14,11
+61,Multivitamin Gummies,12,12
+61,Multivitamin Gummies,17,13
+61,Multivitamin Gummies,18,14
+61,Multivitamin Gummies,11,15
+61,Multivitamin Gummies,12,16
+61,Multivitamin Gummies,16,17
+61,Multivitamin Gummies,20,18
+62,NGK Spark Plugs,15,1
+62,NGK Spark Plugs,19,2
+62,NGK Spark Plugs,16,3
+62,NGK Spark Plugs,14,4
+62,NGK Spark Plugs,14,5
+62,NGK Spark Plugs,10,6
+62,NGK Spark Plugs,15,7
+62,NGK Spark Plugs,20,8
+62,NGK Spark Plugs,11,9
+62,NGK Spark Plugs,13,10
+62,NGK Spark Plugs,13,11
+62,NGK Spark Plugs,18,12
+62,NGK Spark Plugs,11,13
+62,NGK Spark Plugs,17,14
+62,NGK Spark Plugs,10,15
+62,NGK Spark Plugs,15,16
+62,NGK Spark Plugs,19,17
+62,NGK Spark Plugs,17,18
+63,Neutrogena Face Wash,18,1
+63,Neutrogena Face Wash,20,2
+63,Neutrogena Face Wash,18,3
+63,Neutrogena Face Wash,16,4
+63,Neutrogena Face Wash,10,5
+63,Neutrogena Face Wash,15,6
+63,Neutrogena Face Wash,19,7
+63,Neutrogena Face Wash,11,8
+63,Neutrogena Face Wash,13,9
+63,Neutrogena Face Wash,20,10
+63,Neutrogena Face Wash,16,11
+63,Neutrogena Face Wash,17,12
+63,Neutrogena Face Wash,10,13
+63,Neutrogena Face Wash,16,14
+63,Neutrogena Face Wash,16,15
+63,Neutrogena Face Wash,14,16
+63,Neutrogena Face Wash,19,17
+63,Neutrogena Face Wash,18,18
+64,Nike Running Shoes,11,1
+64,Nike Running Shoes,20,2
+64,Nike Running Shoes,20,3
+64,Nike Running Shoes,16,4
+64,Nike Running Shoes,15,5
+64,Nike Running Shoes,13,6
+64,Nike Running Shoes,11,7
+64,Nike Running Shoes,16,8
+64,Nike Running Shoes,14,9
+64,Nike Running Shoes,10,10
+64,Nike Running Shoes,20,11
+64,Nike Running Shoes,17,12
+64,Nike Running Shoes,16,13
+64,Nike Running Shoes,20,14
+64,Nike Running Shoes,11,15
+64,Nike Running Shoes,13,16
+64,Nike Running Shoes,17,17
+64,Nike Running Shoes,14,18
+65,Nike T-shirt,13,1
+65,Nike T-shirt,16,2
+65,Nike T-shirt,16,3
+65,Nike T-shirt,19,4
+65,Nike T-shirt,15,5
+65,Nike T-shirt,17,6
+65,Nike T-shirt,10,7
+65,Nike T-shirt,12,8
+65,Nike T-shirt,14,9
+65,Nike T-shirt,18,10
+65,Nike T-shirt,18,11
+65,Nike T-shirt,19,12
+65,Nike T-shirt,20,13
+65,Nike T-shirt,14,14
+65,Nike T-shirt,16,15
+65,Nike T-shirt,17,16
+65,Nike T-shirt,13,17
+65,Nike T-shirt,15,18
+66,Nikon Z6,14,1
+66,Nikon Z6,18,2
+66,Nikon Z6,19,3
+66,Nikon Z6,20,4
+66,Nikon Z6,16,5
+66,Nikon Z6,13,6
+66,Nikon Z6,20,7
+66,Nikon Z6,17,8
+66,Nikon Z6,12,9
+66,Nikon Z6,12,10
+66,Nikon Z6,17,11
+66,Nikon Z6,10,12
+66,Nikon Z6,17,13
+66,Nikon Z6,10,14
+66,Nikon Z6,12,15
+66,Nikon Z6,16,16
+66,Nikon Z6,12,17
+66,Nikon Z6,16,18
+67,Ninja Blender,20,1
+67,Ninja Blender,14,2
+67,Ninja Blender,15,3
+67,Ninja Blender,20,4
+67,Ninja Blender,16,5
+67,Ninja Blender,11,6
+67,Ninja Blender,16,7
+67,Ninja Blender,19,8
+67,Ninja Blender,10,9
+67,Ninja Blender,18,10
+67,Ninja Blender,11,11
+67,Ninja Blender,10,12
+67,Ninja Blender,13,13
+67,Ninja Blender,19,14
+67,Ninja Blender,12,15
+67,Ninja Blender,16,16
+67,Ninja Blender,16,17
+67,Ninja Blender,17,18
+68,Olay Moisturizer,12,1
+68,Olay Moisturizer,15,2
+68,Olay Moisturizer,10,3
+68,Olay Moisturizer,14,4
+68,Olay Moisturizer,10,5
+68,Olay Moisturizer,16,6
+68,Olay Moisturizer,18,7
+68,Olay Moisturizer,20,8
+68,Olay Moisturizer,14,9
+68,Olay Moisturizer,10,10
+68,Olay Moisturizer,14,11
+68,Olay Moisturizer,19,12
+68,Olay Moisturizer,12,13
+68,Olay Moisturizer,20,14
+68,Olay Moisturizer,10,15
+68,Olay Moisturizer,14,16
+68,Olay Moisturizer,10,17
+68,Olay Moisturizer,16,18
+69,Old Navy Shorts,18,1
+69,Old Navy Shorts,11,2
+69,Old Navy Shorts,11,3
+69,Old Navy Shorts,14,4
+69,Old Navy Shorts,20,5
+69,Old Navy Shorts,10,6
+69,Old Navy Shorts,16,7
+69,Old Navy Shorts,19,8
+69,Old Navy Shorts,12,9
+69,Old Navy Shorts,15,10
+69,Old Navy Shorts,15,11
+69,Old Navy Shorts,20,12
+69,Old Navy Shorts,16,13
+69,Old Navy Shorts,19,14
+69,Old Navy Shorts,20,15
+69,Old Navy Shorts,12,16
+69,Old Navy Shorts,15,17
+69,Old Navy Shorts,16,18
+70,Omega-3 Fish Oil,17,1
+70,Omega-3 Fish Oil,17,2
+70,Omega-3 Fish Oil,19,3
+70,Omega-3 Fish Oil,15,4
+70,Omega-3 Fish Oil,14,5
+70,Omega-3 Fish Oil,19,6
+70,Omega-3 Fish Oil,20,7
+70,Omega-3 Fish Oil,17,8
+70,Omega-3 Fish Oil,13,9
+70,Omega-3 Fish Oil,10,10
+70,Omega-3 Fish Oil,15,11
+70,Omega-3 Fish Oil,20,12
+70,Omega-3 Fish Oil,16,13
+70,Omega-3 Fish Oil,13,14
+70,Omega-3 Fish Oil,18,15
+70,Omega-3 Fish Oil,11,16
+70,Omega-3 Fish Oil,15,17
+70,Omega-3 Fish Oil,10,18
+71,OnePlus 9,15,1
+71,OnePlus 9,18,2
+71,OnePlus 9,20,3
+71,OnePlus 9,13,4
+71,OnePlus 9,13,5
+71,OnePlus 9,11,6
+71,OnePlus 9,19,7
+71,OnePlus 9,12,8
+71,OnePlus 9,19,9
+71,OnePlus 9,10,10
+71,OnePlus 9,20,11
+71,OnePlus 9,11,12
+71,OnePlus 9,14,13
+71,OnePlus 9,12,14
+71,OnePlus 9,14,15
+71,OnePlus 9,11,16
+71,OnePlus 9,18,17
+71,OnePlus 9,19,18
+72,Oreo Cookies,17,1
+72,Oreo Cookies,14,2
+72,Oreo Cookies,14,3
+72,Oreo Cookies,11,4
+72,Oreo Cookies,15,5
+72,Oreo Cookies,19,6
+72,Oreo Cookies,19,7
+72,Oreo Cookies,11,8
+72,Oreo Cookies,19,9
+72,Oreo Cookies,18,10
+72,Oreo Cookies,12,11
+72,Oreo Cookies,18,12
+72,Oreo Cookies,16,13
+72,Oreo Cookies,18,14
+72,Oreo Cookies,11,15
+72,Oreo Cookies,10,16
+72,Oreo Cookies,12,17
+72,Oreo Cookies,15,18
+73,OshKosh B'gosh Overalls,10,1
+73,OshKosh B'gosh Overalls,11,2
+73,OshKosh B'gosh Overalls,11,3
+73,OshKosh B'gosh Overalls,13,4
+73,OshKosh B'gosh Overalls,16,5
+73,OshKosh B'gosh Overalls,15,6
+73,OshKosh B'gosh Overalls,14,7
+73,OshKosh B'gosh Overalls,12,8
+73,OshKosh B'gosh Overalls,11,9
+73,OshKosh B'gosh Overalls,13,10
+73,OshKosh B'gosh Overalls,20,11
+73,OshKosh B'gosh Overalls,10,12
+73,OshKosh B'gosh Overalls,17,13
+73,OshKosh B'gosh Overalls,18,14
+73,OshKosh B'gosh Overalls,20,15
+73,OshKosh B'gosh Overalls,20,16
+73,OshKosh B'gosh Overalls,12,17
+73,OshKosh B'gosh Overalls,15,18
+74,Pantene Shampoo,16,1
+74,Pantene Shampoo,15,2
+74,Pantene Shampoo,17,3
+74,Pantene Shampoo,18,4
+74,Pantene Shampoo,15,5
+74,Pantene Shampoo,12,6
+74,Pantene Shampoo,19,7
+74,Pantene Shampoo,19,8
+74,Pantene Shampoo,16,9
+74,Pantene Shampoo,11,10
+74,Pantene Shampoo,14,11
+74,Pantene Shampoo,20,12
+74,Pantene Shampoo,19,13
+74,Pantene Shampoo,16,14
+74,Pantene Shampoo,16,15
+74,Pantene Shampoo,19,16
+74,Pantene Shampoo,10,17
+74,Pantene Shampoo,19,18
+75,Pepsi,13,1
+75,Pepsi,18,2
+75,Pepsi,12,3
+75,Pepsi,14,4
+75,Pepsi,12,5
+75,Pepsi,15,6
+75,Pepsi,16,7
+75,Pepsi,12,8
+75,Pepsi,13,9
+75,Pepsi,11,10
+75,Pepsi,16,11
+75,Pepsi,18,12
+75,Pepsi,19,13
+75,Pepsi,13,14
+75,Pepsi,12,15
+75,Pepsi,20,16
+75,Pepsi,12,17
+75,Pepsi,14,18
+76,Pier 1 Candle,14,1
+76,Pier 1 Candle,19,2
+76,Pier 1 Candle,17,3
+76,Pier 1 Candle,15,4
+76,Pier 1 Candle,17,5
+76,Pier 1 Candle,13,6
+76,Pier 1 Candle,15,7
+76,Pier 1 Candle,19,8
+76,Pier 1 Candle,14,9
+76,Pier 1 Candle,13,10
+76,Pier 1 Candle,20,11
+76,Pier 1 Candle,14,12
+76,Pier 1 Candle,12,13
+76,Pier 1 Candle,18,14
+76,Pier 1 Candle,12,15
+76,Pier 1 Candle,15,16
+76,Pier 1 Candle,15,17
+76,Pier 1 Candle,10,18
+77,Pioneer Car Stereo,11,1
+77,Pioneer Car Stereo,11,2
+77,Pioneer Car Stereo,17,3
+77,Pioneer Car Stereo,17,4
+77,Pioneer Car Stereo,12,5
+77,Pioneer Car Stereo,13,6
+77,Pioneer Car Stereo,14,7
+77,Pioneer Car Stereo,12,8
+77,Pioneer Car Stereo,13,9
+77,Pioneer Car Stereo,13,10
+77,Pioneer Car Stereo,11,11
+77,Pioneer Car Stereo,13,12
+77,Pioneer Car Stereo,13,13
+77,Pioneer Car Stereo,16,14
+77,Pioneer Car Stereo,20,15
+77,Pioneer Car Stereo,12,16
+77,Pioneer Car Stereo,14,17
+77,Pioneer Car Stereo,12,18
+78,Pottery Barn Bed Frame,14,1
+78,Pottery Barn Bed Frame,19,2
+78,Pottery Barn Bed Frame,18,3
+78,Pottery Barn Bed Frame,17,4
+78,Pottery Barn Bed Frame,13,5
+78,Pottery Barn Bed Frame,16,6
+78,Pottery Barn Bed Frame,16,7
+78,Pottery Barn Bed Frame,10,8
+78,Pottery Barn Bed Frame,15,9
+78,Pottery Barn Bed Frame,12,10
+78,Pottery Barn Bed Frame,10,11
+78,Pottery Barn Bed Frame,17,12
+78,Pottery Barn Bed Frame,20,13
+78,Pottery Barn Bed Frame,16,14
+78,Pottery Barn Bed Frame,16,15
+78,Pottery Barn Bed Frame,19,16
+78,Pottery Barn Bed Frame,11,17
+78,Pottery Barn Bed Frame,10,18
+79,Puma Shorts,11,1
+79,Puma Shorts,14,2
+79,Puma Shorts,13,3
+79,Puma Shorts,10,4
+79,Puma Shorts,19,5
+79,Puma Shorts,17,6
+79,Puma Shorts,18,7
+79,Puma Shorts,13,8
+79,Puma Shorts,16,9
+79,Puma Shorts,15,10
+79,Puma Shorts,15,11
+79,Puma Shorts,15,12
+79,Puma Shorts,17,13
+79,Puma Shorts,20,14
+79,Puma Shorts,17,15
+79,Puma Shorts,16,16
+79,Puma Shorts,20,17
+79,Puma Shorts,14,18
+80,Puma Track Pants,13,1
+80,Puma Track Pants,16,2
+80,Puma Track Pants,15,3
+80,Puma Track Pants,18,4
+80,Puma Track Pants,17,5
+80,Puma Track Pants,17,6
+80,Puma Track Pants,16,7
+80,Puma Track Pants,13,8
+80,Puma Track Pants,16,9
+80,Puma Track Pants,11,10
+80,Puma Track Pants,14,11
+80,Puma Track Pants,17,12
+80,Puma Track Pants,10,13
+80,Puma Track Pants,12,14
+80,Puma Track Pants,11,15
+80,Puma Track Pants,10,16
+80,Puma Track Pants,10,17
+80,Puma Track Pants,12,18
+81,Resistance Bands,15,1
+81,Resistance Bands,13,2
+81,Resistance Bands,12,3
+81,Resistance Bands,15,4
+81,Resistance Bands,14,5
+81,Resistance Bands,13,6
+81,Resistance Bands,19,7
+81,Resistance Bands,10,8
+81,Resistance Bands,14,9
+81,Resistance Bands,18,10
+81,Resistance Bands,16,11
+81,Resistance Bands,17,12
+81,Resistance Bands,13,13
+81,Resistance Bands,19,14
+81,Resistance Bands,17,15
+81,Resistance Bands,10,16
+81,Resistance Bands,14,17
+81,Resistance Bands,12,18
+82,Risk,19,1
+82,Risk,10,2
+82,Risk,17,3
+82,Risk,13,4
+82,Risk,15,5
+82,Risk,20,6
+82,Risk,17,7
+82,Risk,11,8
+82,Risk,18,9
+82,Risk,11,10
+82,Risk,12,11
+82,Risk,14,12
+82,Risk,14,13
+82,Risk,17,14
+82,Risk,12,15
+82,Risk,19,16
+82,Risk,18,17
+82,Risk,12,18
+83,Roomba Robot Vacuum,10,1
+83,Roomba Robot Vacuum,18,2
+83,Roomba Robot Vacuum,12,3
+83,Roomba Robot Vacuum,19,4
+83,Roomba Robot Vacuum,18,5
+83,Roomba Robot Vacuum,13,6
+83,Roomba Robot Vacuum,16,7
+83,Roomba Robot Vacuum,11,8
+83,Roomba Robot Vacuum,13,9
+83,Roomba Robot Vacuum,16,10
+83,Roomba Robot Vacuum,11,11
+83,Roomba Robot Vacuum,20,12
+83,Roomba Robot Vacuum,17,13
+83,Roomba Robot Vacuum,16,14
+83,Roomba Robot Vacuum,13,15
+83,Roomba Robot Vacuum,12,16
+83,Roomba Robot Vacuum,18,17
+83,Roomba Robot Vacuum,10,18
+84,Samsung Galaxy S21,14,1
+84,Samsung Galaxy S21,14,2
+84,Samsung Galaxy S21,17,3
+84,Samsung Galaxy S21,19,4
+84,Samsung Galaxy S21,15,5
+84,Samsung Galaxy S21,18,6
+84,Samsung Galaxy S21,10,7
+84,Samsung Galaxy S21,20,8
+84,Samsung Galaxy S21,17,9
+84,Samsung Galaxy S21,13,10
+84,Samsung Galaxy S21,14,11
+84,Samsung Galaxy S21,19,12
+84,Samsung Galaxy S21,13,13
+84,Samsung Galaxy S21,17,14
+84,Samsung Galaxy S21,17,15
+84,Samsung Galaxy S21,14,16
+84,Samsung Galaxy S21,10,17
+84,Samsung Galaxy S21,13,18
+85,Samsung Refrigerator,15,1
+85,Samsung Refrigerator,10,2
+85,Samsung Refrigerator,13,3
+85,Samsung Refrigerator,18,4
+85,Samsung Refrigerator,19,5
+85,Samsung Refrigerator,11,6
+85,Samsung Refrigerator,10,7
+85,Samsung Refrigerator,14,8
+85,Samsung Refrigerator,15,9
+85,Samsung Refrigerator,14,10
+85,Samsung Refrigerator,17,11
+85,Samsung Refrigerator,14,12
+85,Samsung Refrigerator,10,13
+85,Samsung Refrigerator,13,14
+85,Samsung Refrigerator,19,15
+85,Samsung Refrigerator,16,16
+85,Samsung Refrigerator,20,17
+85,Samsung Refrigerator,15,18
+86,Scrabble,15,1
+86,Scrabble,11,2
+86,Scrabble,11,3
+86,Scrabble,13,4
+86,Scrabble,17,5
+86,Scrabble,14,6
+86,Scrabble,10,7
+86,Scrabble,16,8
+86,Scrabble,18,9
+86,Scrabble,12,10
+86,Scrabble,20,11
+86,Scrabble,15,12
+86,Scrabble,11,13
+86,Scrabble,17,14
+86,Scrabble,20,15
+86,Scrabble,16,16
+86,Scrabble,12,17
+86,Scrabble,20,18
+87,Settlers of Catan,18,1
+87,Settlers of Catan,15,2
+87,Settlers of Catan,10,3
+87,Settlers of Catan,18,4
+87,Settlers of Catan,13,5
+87,Settlers of Catan,17,6
+87,Settlers of Catan,18,7
+87,Settlers of Catan,17,8
+87,Settlers of Catan,14,9
+87,Settlers of Catan,15,10
+87,Settlers of Catan,19,11
+87,Settlers of Catan,20,12
+87,Settlers of Catan,13,13
+87,Settlers of Catan,10,14
+87,Settlers of Catan,11,15
+87,Settlers of Catan,17,16
+87,Settlers of Catan,19,17
+87,Settlers of Catan,19,18
+88,Shark Upright Vacuum,16,1
+88,Shark Upright Vacuum,12,2
+88,Shark Upright Vacuum,14,3
+88,Shark Upright Vacuum,17,4
+88,Shark Upright Vacuum,10,5
+88,Shark Upright Vacuum,11,6
+88,Shark Upright Vacuum,15,7
+88,Shark Upright Vacuum,15,8
+88,Shark Upright Vacuum,10,9
+88,Shark Upright Vacuum,15,10
+88,Shark Upright Vacuum,15,11
+88,Shark Upright Vacuum,16,12
+88,Shark Upright Vacuum,15,13
+88,Shark Upright Vacuum,13,14
+88,Shark Upright Vacuum,15,15
+88,Shark Upright Vacuum,14,16
+88,Shark Upright Vacuum,10,17
+88,Shark Upright Vacuum,11,18
+89,Sony Alpha a7 III,11,1
+89,Sony Alpha a7 III,12,2
+89,Sony Alpha a7 III,13,3
+89,Sony Alpha a7 III,14,4
+89,Sony Alpha a7 III,20,5
+89,Sony Alpha a7 III,15,6
+89,Sony Alpha a7 III,18,7
+89,Sony Alpha a7 III,13,8
+89,Sony Alpha a7 III,13,9
+89,Sony Alpha a7 III,15,10
+89,Sony Alpha a7 III,16,11
+89,Sony Alpha a7 III,18,12
+89,Sony Alpha a7 III,20,13
+89,Sony Alpha a7 III,20,14
+89,Sony Alpha a7 III,11,15
+89,Sony Alpha a7 III,17,16
+89,Sony Alpha a7 III,17,17
+89,Sony Alpha a7 III,10,18
+90,Star Wars Darth Vader,15,1
+90,Star Wars Darth Vader,18,2
+90,Star Wars Darth Vader,18,3
+90,Star Wars Darth Vader,17,4
+90,Star Wars Darth Vader,19,5
+90,Star Wars Darth Vader,15,6
+90,Star Wars Darth Vader,10,7
+90,Star Wars Darth Vader,14,8
+90,Star Wars Darth Vader,19,9
+90,Star Wars Darth Vader,11,10
+90,Star Wars Darth Vader,16,11
+90,Star Wars Darth Vader,11,12
+90,Star Wars Darth Vader,12,13
+90,Star Wars Darth Vader,12,14
+90,Star Wars Darth Vader,11,15
+90,Star Wars Darth Vader,18,16
+90,Star Wars Darth Vader,13,17
+90,Star Wars Darth Vader,16,18
+91,Starbucks Coffee,11,1
+91,Starbucks Coffee,12,2
+91,Starbucks Coffee,11,3
+91,Starbucks Coffee,10,4
+91,Starbucks Coffee,16,5
+91,Starbucks Coffee,18,6
+91,Starbucks Coffee,14,7
+91,Starbucks Coffee,11,8
+91,Starbucks Coffee,18,9
+91,Starbucks Coffee,14,10
+91,Starbucks Coffee,19,11
+91,Starbucks Coffee,14,12
+91,Starbucks Coffee,16,13
+91,Starbucks Coffee,15,14
+91,Starbucks Coffee,17,15
+91,Starbucks Coffee,16,16
+91,Starbucks Coffee,16,17
+91,Starbucks Coffee,15,18
+92,Target Vase,12,1
+92,Target Vase,16,2
+92,Target Vase,20,3
+92,Target Vase,16,4
+92,Target Vase,17,5
+92,Target Vase,15,6
+92,Target Vase,16,7
+92,Target Vase,10,8
+92,Target Vase,13,9
+92,Target Vase,19,10
+92,Target Vase,20,11
+92,Target Vase,17,12
+92,Target Vase,11,13
+92,Target Vase,17,14
+92,Target Vase,10,15
+92,Target Vase,20,16
+92,Target Vase,10,17
+92,Target Vase,15,18
+93,Taylor Swift - Evermore,14,1
+93,Taylor Swift - Evermore,14,2
+93,Taylor Swift - Evermore,13,3
+93,Taylor Swift - Evermore,12,4
+93,Taylor Swift - Evermore,15,5
+93,Taylor Swift - Evermore,17,6
+93,Taylor Swift - Evermore,19,7
+93,Taylor Swift - Evermore,13,8
+93,Taylor Swift - Evermore,20,9
+93,Taylor Swift - Evermore,17,10
+93,Taylor Swift - Evermore,17,11
+93,Taylor Swift - Evermore,17,12
+93,Taylor Swift - Evermore,20,13
+93,Taylor Swift - Evermore,19,14
+93,Taylor Swift - Evermore,15,15
+93,Taylor Swift - Evermore,13,16
+93,Taylor Swift - Evermore,19,17
+93,Taylor Swift - Evermore,10,18
+94,Tempur-Pedic Mattress,12,1
+94,Tempur-Pedic Mattress,17,2
+94,Tempur-Pedic Mattress,14,3
+94,Tempur-Pedic Mattress,18,4
+94,Tempur-Pedic Mattress,12,5
+94,Tempur-Pedic Mattress,11,6
+94,Tempur-Pedic Mattress,11,7
+94,Tempur-Pedic Mattress,11,8
+94,Tempur-Pedic Mattress,14,9
+94,Tempur-Pedic Mattress,11,10
+94,Tempur-Pedic Mattress,10,11
+94,Tempur-Pedic Mattress,18,12
+94,Tempur-Pedic Mattress,14,13
+94,Tempur-Pedic Mattress,10,14
+94,Tempur-Pedic Mattress,11,15
+94,Tempur-Pedic Mattress,16,16
+94,Tempur-Pedic Mattress,18,17
+94,Tempur-Pedic Mattress,17,18
+95,The Beatles - Abbey Road,16,1
+95,The Beatles - Abbey Road,15,2
+95,The Beatles - Abbey Road,14,3
+95,The Beatles - Abbey Road,17,4
+95,The Beatles - Abbey Road,15,5
+95,The Beatles - Abbey Road,17,6
+95,The Beatles - Abbey Road,16,7
+95,The Beatles - Abbey Road,13,8
+95,The Beatles - Abbey Road,15,9
+95,The Beatles - Abbey Road,10,10
+95,The Beatles - Abbey Road,12,11
+95,The Beatles - Abbey Road,18,12
+95,The Beatles - Abbey Road,18,13
+95,The Beatles - Abbey Road,11,14
+95,The Beatles - Abbey Road,12,15
+95,The Beatles - Abbey Road,10,16
+95,The Beatles - Abbey Road,16,17
+95,The Beatles - Abbey Road,16,18
+96,The Godfather DVD,19,1
+96,The Godfather DVD,13,2
+96,The Godfather DVD,17,3
+96,The Godfather DVD,17,4
+96,The Godfather DVD,20,5
+96,The Godfather DVD,19,6
+96,The Godfather DVD,17,7
+96,The Godfather DVD,12,8
+96,The Godfather DVD,20,9
+96,The Godfather DVD,20,10
+96,The Godfather DVD,14,11
+96,The Godfather DVD,18,12
+96,The Godfather DVD,11,13
+96,The Godfather DVD,10,14
+96,The Godfather DVD,20,15
+96,The Godfather DVD,16,16
+96,The Godfather DVD,19,17
+96,The Godfather DVD,17,18
+97,The Great Gatsby,17,1
+97,The Great Gatsby,11,2
+97,The Great Gatsby,12,3
+97,The Great Gatsby,11,4
+97,The Great Gatsby,13,5
+97,The Great Gatsby,11,6
+97,The Great Gatsby,20,7
+97,The Great Gatsby,19,8
+97,The Great Gatsby,15,9
+97,The Great Gatsby,13,10
+97,The Great Gatsby,17,11
+97,The Great Gatsby,18,12
+97,The Great Gatsby,20,13
+97,The Great Gatsby,10,14
+97,The Great Gatsby,17,15
+97,The Great Gatsby,15,16
+97,The Great Gatsby,18,17
+97,The Great Gatsby,20,18
+98,The North Face Backpack,12,1
+98,The North Face Backpack,15,2
+98,The North Face Backpack,13,3
+98,The North Face Backpack,19,4
+98,The North Face Backpack,19,5
+98,The North Face Backpack,19,6
+98,The North Face Backpack,12,7
+98,The North Face Backpack,14,8
+98,The North Face Backpack,13,9
+98,The North Face Backpack,11,10
+98,The North Face Backpack,13,11
+98,The North Face Backpack,15,12
+98,The North Face Backpack,17,13
+98,The North Face Backpack,13,14
+98,The North Face Backpack,20,15
+98,The North Face Backpack,18,16
+98,The North Face Backpack,19,17
+98,The North Face Backpack,13,18
+99,The Ordinary Serum,18,1
+99,The Ordinary Serum,20,2
+99,The Ordinary Serum,10,3
+99,The Ordinary Serum,18,4
+99,The Ordinary Serum,19,5
+99,The Ordinary Serum,12,6
+99,The Ordinary Serum,19,7
+99,The Ordinary Serum,15,8
+99,The Ordinary Serum,10,9
+99,The Ordinary Serum,17,10
+99,The Ordinary Serum,16,11
+99,The Ordinary Serum,11,12
+99,The Ordinary Serum,14,13
+99,The Ordinary Serum,19,14
+99,The Ordinary Serum,19,15
+99,The Ordinary Serum,11,16
+99,The Ordinary Serum,18,17
+99,The Ordinary Serum,19,18
+100,Thule Roof Rack,18,1
+100,Thule Roof Rack,20,2
+100,Thule Roof Rack,16,3
+100,Thule Roof Rack,20,4
+100,Thule Roof Rack,15,5
+100,Thule Roof Rack,10,6
+100,Thule Roof Rack,16,7
+100,Thule Roof Rack,13,8
+100,Thule Roof Rack,16,9
+100,Thule Roof Rack,10,10
+100,Thule Roof Rack,10,11
+100,Thule Roof Rack,18,12
+100,Thule Roof Rack,16,13
+100,Thule Roof Rack,12,14
+100,Thule Roof Rack,17,15
+100,Thule Roof Rack,11,16
+100,Thule Roof Rack,17,17
+100,Thule Roof Rack,19,18
+101,To Kill a Mockingbird,20,1
+101,To Kill a Mockingbird,13,2
+101,To Kill a Mockingbird,12,3
+101,To Kill a Mockingbird,10,4
+101,To Kill a Mockingbird,17,5
+101,To Kill a Mockingbird,13,6
+101,To Kill a Mockingbird,15,7
+101,To Kill a Mockingbird,16,8
+101,To Kill a Mockingbird,10,9
+101,To Kill a Mockingbird,20,10
+101,To Kill a Mockingbird,11,11
+101,To Kill a Mockingbird,14,12
+101,To Kill a Mockingbird,20,13
+101,To Kill a Mockingbird,11,14
+101,To Kill a Mockingbird,18,15
+101,To Kill a Mockingbird,10,16
+101,To Kill a Mockingbird,17,17
+101,To Kill a Mockingbird,14,18
+102,Transformers Optimus Prime,11,1
+102,Transformers Optimus Prime,13,2
+102,Transformers Optimus Prime,18,3
+102,Transformers Optimus Prime,14,4
+102,Transformers Optimus Prime,11,5
+102,Transformers Optimus Prime,13,6
+102,Transformers Optimus Prime,16,7
+102,Transformers Optimus Prime,20,8
+102,Transformers Optimus Prime,16,9
+102,Transformers Optimus Prime,18,10
+102,Transformers Optimus Prime,18,11
+102,Transformers Optimus Prime,11,12
+102,Transformers Optimus Prime,16,13
+102,Transformers Optimus Prime,10,14
+102,Transformers Optimus Prime,15,15
+102,Transformers Optimus Prime,18,16
+102,Transformers Optimus Prime,17,17
+102,Transformers Optimus Prime,12,18
+103,Treadmill,19,1
+103,Treadmill,19,2
+103,Treadmill,15,3
+103,Treadmill,14,4
+103,Treadmill,17,5
+103,Treadmill,15,6
+103,Treadmill,12,7
+103,Treadmill,14,8
+103,Treadmill,10,9
+103,Treadmill,12,10
+103,Treadmill,18,11
+103,Treadmill,11,12
+103,Treadmill,15,13
+103,Treadmill,16,14
+103,Treadmill,18,15
+103,Treadmill,19,16
+103,Treadmill,18,17
+103,Treadmill,13,18
+104,Tresemme Hair Spray,20,1
+104,Tresemme Hair Spray,10,2
+104,Tresemme Hair Spray,12,3
+104,Tresemme Hair Spray,11,4
+104,Tresemme Hair Spray,11,5
+104,Tresemme Hair Spray,15,6
+104,Tresemme Hair Spray,10,7
+104,Tresemme Hair Spray,11,8
+104,Tresemme Hair Spray,12,9
+104,Tresemme Hair Spray,12,10
+104,Tresemme Hair Spray,18,11
+104,Tresemme Hair Spray,16,12
+104,Tresemme Hair Spray,17,13
+104,Tresemme Hair Spray,15,14
+104,Tresemme Hair Spray,19,15
+104,Tresemme Hair Spray,11,16
+104,Tresemme Hair Spray,11,17
+104,Tresemme Hair Spray,14,18
+105,Under Armour Sports Bra,15,1
+105,Under Armour Sports Bra,17,2
+105,Under Armour Sports Bra,19,3
+105,Under Armour Sports Bra,13,4
+105,Under Armour Sports Bra,17,5
+105,Under Armour Sports Bra,20,6
+105,Under Armour Sports Bra,17,7
+105,Under Armour Sports Bra,20,8
+105,Under Armour Sports Bra,15,9
+105,Under Armour Sports Bra,17,10
+105,Under Armour Sports Bra,10,11
+105,Under Armour Sports Bra,15,12
+105,Under Armour Sports Bra,20,13
+105,Under Armour Sports Bra,16,14
+105,Under Armour Sports Bra,13,15
+105,Under Armour Sports Bra,18,16
+105,Under Armour Sports Bra,15,17
+105,Under Armour Sports Bra,20,18
+106,Uniqlo Sweater,10,1
+106,Uniqlo Sweater,14,2
+106,Uniqlo Sweater,19,3
+106,Uniqlo Sweater,13,4
+106,Uniqlo Sweater,14,5
+106,Uniqlo Sweater,17,6
+106,Uniqlo Sweater,13,7
+106,Uniqlo Sweater,17,8
+106,Uniqlo Sweater,11,9
+106,Uniqlo Sweater,14,10
+106,Uniqlo Sweater,17,11
+106,Uniqlo Sweater,14,12
+106,Uniqlo Sweater,20,13
+106,Uniqlo Sweater,16,14
+106,Uniqlo Sweater,10,15
+106,Uniqlo Sweater,10,16
+106,Uniqlo Sweater,20,17
+106,Uniqlo Sweater,18,18
+107,Urban Outfitters Wall Art,19,1
+107,Urban Outfitters Wall Art,11,2
+107,Urban Outfitters Wall Art,11,3
+107,Urban Outfitters Wall Art,18,4
+107,Urban Outfitters Wall Art,11,5
+107,Urban Outfitters Wall Art,12,6
+107,Urban Outfitters Wall Art,20,7
+107,Urban Outfitters Wall Art,12,8
+107,Urban Outfitters Wall Art,17,9
+107,Urban Outfitters Wall Art,20,10
+107,Urban Outfitters Wall Art,10,11
+107,Urban Outfitters Wall Art,17,12
+107,Urban Outfitters Wall Art,14,13
+107,Urban Outfitters Wall Art,16,14
+107,Urban Outfitters Wall Art,12,15
+107,Urban Outfitters Wall Art,20,16
+107,Urban Outfitters Wall Art,11,17
+107,Urban Outfitters Wall Art,12,18
+108,VTech KidiZoom,17,1
+108,VTech KidiZoom,15,2
+108,VTech KidiZoom,18,3
+108,VTech KidiZoom,16,4
+108,VTech KidiZoom,10,5
+108,VTech KidiZoom,15,6
+108,VTech KidiZoom,19,7
+108,VTech KidiZoom,20,8
+108,VTech KidiZoom,17,9
+108,VTech KidiZoom,13,10
+108,VTech KidiZoom,18,11
+108,VTech KidiZoom,19,12
+108,VTech KidiZoom,18,13
+108,VTech KidiZoom,16,14
+108,VTech KidiZoom,14,15
+108,VTech KidiZoom,16,16
+108,VTech KidiZoom,12,17
+108,VTech KidiZoom,18,18
+109,Vitamin C Tablets,15,1
+109,Vitamin C Tablets,19,2
+109,Vitamin C Tablets,16,3
+109,Vitamin C Tablets,17,4
+109,Vitamin C Tablets,10,5
+109,Vitamin C Tablets,16,6
+109,Vitamin C Tablets,14,7
+109,Vitamin C Tablets,11,8
+109,Vitamin C Tablets,17,9
+109,Vitamin C Tablets,16,10
+109,Vitamin C Tablets,15,11
+109,Vitamin C Tablets,17,12
+109,Vitamin C Tablets,19,13
+109,Vitamin C Tablets,13,14
+109,Vitamin C Tablets,19,15
+109,Vitamin C Tablets,12,16
+109,Vitamin C Tablets,14,17
+109,Vitamin C Tablets,12,18
+110,Vivo V21,14,1
+110,Vivo V21,14,2
+110,Vivo V21,13,3
+110,Vivo V21,12,4
+110,Vivo V21,17,5
+110,Vivo V21,18,6
+110,Vivo V21,11,7
+110,Vivo V21,11,8
+110,Vivo V21,17,9
+110,Vivo V21,16,10
+110,Vivo V21,13,11
+110,Vivo V21,12,12
+110,Vivo V21,19,13
+110,Vivo V21,14,14
+110,Vivo V21,20,15
+110,Vivo V21,14,16
+110,Vivo V21,11,17
+110,Vivo V21,15,18
+111,Wayfair Coffee Table,17,1
+111,Wayfair Coffee Table,18,2
+111,Wayfair Coffee Table,12,3
+111,Wayfair Coffee Table,12,4
+111,Wayfair Coffee Table,11,5
+111,Wayfair Coffee Table,18,6
+111,Wayfair Coffee Table,11,7
+111,Wayfair Coffee Table,18,8
+111,Wayfair Coffee Table,15,9
+111,Wayfair Coffee Table,13,10
+111,Wayfair Coffee Table,16,11
+111,Wayfair Coffee Table,14,12
+111,Wayfair Coffee Table,16,13
+111,Wayfair Coffee Table,13,14
+111,Wayfair Coffee Table,13,15
+111,Wayfair Coffee Table,10,16
+111,Wayfair Coffee Table,10,17
+111,Wayfair Coffee Table,16,18
+112,WeatherTech Floor Mats,20,1
+112,WeatherTech Floor Mats,10,2
+112,WeatherTech Floor Mats,16,3
+112,WeatherTech Floor Mats,11,4
+112,WeatherTech Floor Mats,10,5
+112,WeatherTech Floor Mats,12,6
+112,WeatherTech Floor Mats,17,7
+112,WeatherTech Floor Mats,17,8
+112,WeatherTech Floor Mats,12,9
+112,WeatherTech Floor Mats,17,10
+112,WeatherTech Floor Mats,16,11
+112,WeatherTech Floor Mats,20,12
+112,WeatherTech Floor Mats,18,13
+112,WeatherTech Floor Mats,12,14
+112,WeatherTech Floor Mats,10,15
+112,WeatherTech Floor Mats,20,16
+112,WeatherTech Floor Mats,20,17
+112,WeatherTech Floor Mats,19,18
+113,West Elm Nightstand,10,1
+113,West Elm Nightstand,15,2
+113,West Elm Nightstand,18,3
+113,West Elm Nightstand,19,4
+113,West Elm Nightstand,18,5
+113,West Elm Nightstand,14,6
+113,West Elm Nightstand,13,7
+113,West Elm Nightstand,15,8
+113,West Elm Nightstand,12,9
+113,West Elm Nightstand,20,10
+113,West Elm Nightstand,11,11
+113,West Elm Nightstand,15,12
+113,West Elm Nightstand,13,13
+113,West Elm Nightstand,10,14
+113,West Elm Nightstand,12,15
+113,West Elm Nightstand,18,16
+113,West Elm Nightstand,16,17
+113,West Elm Nightstand,13,18
+114,Whirlpool Dryer,19,1
+114,Whirlpool Dryer,20,2
+114,Whirlpool Dryer,13,3
+114,Whirlpool Dryer,10,4
+114,Whirlpool Dryer,20,5
+114,Whirlpool Dryer,10,6
+114,Whirlpool Dryer,20,7
+114,Whirlpool Dryer,11,8
+114,Whirlpool Dryer,14,9
+114,Whirlpool Dryer,18,10
+114,Whirlpool Dryer,10,11
+114,Whirlpool Dryer,20,12
+114,Whirlpool Dryer,17,13
+114,Whirlpool Dryer,15,14
+114,Whirlpool Dryer,12,15
+114,Whirlpool Dryer,12,16
+114,Whirlpool Dryer,20,17
+114,Whirlpool Dryer,13,18
+115,Yeti Cooler,16,1
+115,Yeti Cooler,10,2
+115,Yeti Cooler,17,3
+115,Yeti Cooler,19,4
+115,Yeti Cooler,13,5
+115,Yeti Cooler,12,6
+115,Yeti Cooler,12,7
+115,Yeti Cooler,13,8
+115,Yeti Cooler,16,9
+115,Yeti Cooler,16,10
+115,Yeti Cooler,19,11
+115,Yeti Cooler,17,12
+115,Yeti Cooler,13,13
+115,Yeti Cooler,12,14
+115,Yeti Cooler,11,15
+115,Yeti Cooler,11,16
+115,Yeti Cooler,13,17
+115,Yeti Cooler,16,18
+116,Yoga Mat,11,1
+116,Yoga Mat,12,2
+116,Yoga Mat,15,3
+116,Yoga Mat,12,4
+116,Yoga Mat,16,5
+116,Yoga Mat,15,6
+116,Yoga Mat,12,7
+116,Yoga Mat,20,8
+116,Yoga Mat,19,9
+116,Yoga Mat,16,10
+116,Yoga Mat,10,11
+116,Yoga Mat,20,12
+116,Yoga Mat,18,13
+116,Yoga Mat,12,14
+116,Yoga Mat,12,15
+116,Yoga Mat,13,16
+116,Yoga Mat,14,17
+116,Yoga Mat,19,18
+117,Yoshimura Exhaust,19,1
+117,Yoshimura Exhaust,18,2
+117,Yoshimura Exhaust,14,3
+117,Yoshimura Exhaust,12,4
+117,Yoshimura Exhaust,15,5
+117,Yoshimura Exhaust,18,6
+117,Yoshimura Exhaust,10,7
+117,Yoshimura Exhaust,19,8
+117,Yoshimura Exhaust,17,9
+117,Yoshimura Exhaust,14,10
+117,Yoshimura Exhaust,12,11
+117,Yoshimura Exhaust,16,12
+117,Yoshimura Exhaust,18,13
+117,Yoshimura Exhaust,20,14
+117,Yoshimura Exhaust,17,15
+117,Yoshimura Exhaust,10,16
+117,Yoshimura Exhaust,14,17
+117,Yoshimura Exhaust,15,18
+118,Zara Dress,17,1
+118,Zara Dress,12,2
+118,Zara Dress,13,3
+118,Zara Dress,17,4
+118,Zara Dress,11,5
+118,Zara Dress,16,6
+118,Zara Dress,14,7
+118,Zara Dress,14,8
+118,Zara Dress,13,9
+118,Zara Dress,20,10
+118,Zara Dress,13,11
+118,Zara Dress,10,12
+118,Zara Dress,14,13
+118,Zara Dress,13,14
+118,Zara Dress,14,15
+118,Zara Dress,18,16
+118,Zara Dress,14,17
+118,Zara Dress,13,18
+119,iPhone 12,11,1
+119,iPhone 12,11,2
+119,iPhone 12,12,3
+119,iPhone 12,20,4
+119,iPhone 12,19,5
+119,iPhone 12,17,6
+119,iPhone 12,20,7
+119,iPhone 12,13,8
+119,iPhone 12,20,9
+119,iPhone 12,15,10
+119,iPhone 12,20,11
+119,iPhone 12,15,12
+119,iPhone 12,16,13
+119,iPhone 12,15,14
+119,iPhone 12,19,15
+119,iPhone 12,14,16
+119,iPhone 12,10,17
+119,iPhone 12,17,18
