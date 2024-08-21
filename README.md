@@ -1,4 +1,58 @@
 # AnalyzeMart
+# AnalyzeMart
+
+Welcome to **AnalyzeMart**, a comprehensive solution designed to optimize demand forecasting, customer recommendations, and inventory management. Our system aims to align supply with market demand, reduce operational costs, and enhance customer satisfaction through advanced analytical techniques and a robust tech stack.
+
+## Problem Statement
+
+Retailers and manufacturers often face inefficiencies in managing supply and demand, leading to issues such as excess inventory or stockouts. This misalignment results in increased holding costs, lost sales opportunities, and decreased customer satisfaction. Traditional forecasting methods may struggle to adapt to dynamic consumer preferences and rapidly changing market trends.
+
+## Solution
+
+**AnalyzeMart** addresses these issues through a multi-faceted approach:
+
+1. **Advanced Demand Forecasting**
+   - **Time Series Analysis**: Identifies patterns and trends using historical and recent data to provide precise demand predictions.
+   - **Integration of YoY and Recent Data**: Combines year-over-year data with current trends for enhanced forecast accuracy.
+
+2. **Enhanced Customer Recommendations**
+   - **Collaborative Filtering**: Provides personalized recommendations based on past customer behavior and preferences.
+   - **Real-Time Data Integration**: Refines recommendations with real-time data and feedback for increased relevance.
+
+3. **Optimized Inventory Management**
+   - **Supply vs. Demand Analysis**: Balances production with market needs to prevent surplus and shortages.
+   - **Inventory Techniques**: Employs Just-In-Time (JIT) and Economic Order Quantity (EOQ) to minimize holding costs and avoid stockouts.
+
+4. **Market Trend Monitoring**
+   - **Continuous Tracking**: Monitors market trends and consumer behavior to dynamically adjust forecasts and inventory strategies.
+
+## Tech Stack
+
+- **Backend**: Flask
+  - Framework for developing the web application and handling data processing.
+
+- **Frontend**: React
+  - Framework for building a dynamic and user-friendly interface.
+
+- **Database**: PostgreSQL
+  - Relational database for robust data storage and management.
+  - **PGAdmin4**: Tool for database administration.
+
+- **Vector Database**: Milvus (Future Prospects)
+  - Database for efficient management and retrieval of vectorized data, enhancing recommendation and analysis processes.
+
+## Contributing
+
+We welcome contributions! Please refer to the `CONTRIBUTING.md` file for guidelines on how to contribute to this project.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+## Contact
+
+For any questions or feedback, please reach out to [your-email@example.com](mailto:your-email@example.com).
+
 Home Page:
 <img width="1436" alt="Screenshot 2024-08-18 at 5 12 12 PM" src="https://github.com/user-attachments/assets/26146623-2765-4a1d-af98-80656220285f">
 Orders Page:
