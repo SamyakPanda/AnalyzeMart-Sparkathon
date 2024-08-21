@@ -39,6 +39,10 @@ Retailers and manufacturers often face inefficiencies in managing supply and dem
 - **Vector Database**: Milvus (Future Prospects)
   - Database for efficient management and retrieval of vectorized data, enhancing recommendation and analysis processes.
 
+## Presentation
+
+Watch our presentation on AnalyzeMart [here](https://www.youtube.com/watch?v=5vyKcuxD4oU).
+
 
 
 Home Page:
