@@ -1,6 +1,4 @@
 # AnalyzeMart
-# AnalyzeMart
-
 Welcome to **AnalyzeMart**, a comprehensive solution designed to optimize demand forecasting, customer recommendations, and inventory management. Our system aims to align supply with market demand, reduce operational costs, and enhance customer satisfaction through advanced analytical techniques and a robust tech stack.
 
 ## Problem Statement
