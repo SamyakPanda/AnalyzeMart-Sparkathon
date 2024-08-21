@@ -39,17 +39,7 @@ Retailers and manufacturers often face inefficiencies in managing supply and dem
 - **Vector Database**: Milvus (Future Prospects)
   - Database for efficient management and retrieval of vectorized data, enhancing recommendation and analysis processes.
 
-## Contributing
 
-We welcome contributions! Please refer to the `CONTRIBUTING.md` file for guidelines on how to contribute to this project.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-## Contact
-
-For any questions or feedback, please reach out to [your-email@example.com](mailto:your-email@example.com).
 
 Home Page:
 <img width="1436" alt="Screenshot 2024-08-18 at 5 12 12 PM" src="https://github.com/user-attachments/assets/26146623-2765-4a1d-af98-80656220285f">
